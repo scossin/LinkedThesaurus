@@ -1,0 +1,1102 @@
+Sodium (oxybate de)	A18944738	MSHFRE	Oxybate de sodium	C0037537	Sodium Oxybate
+Abciximab (c 7e3b fab)	 non trouvé
+Acebutolol	A13053013	MSHCZE	acebutolol	C0000946	Acebutolol
+Aceclofenac	A10336811	RXNORM	aceclofenac	C0050403	aceclofenac
+Acenocoumarol	A0018215	RCD	Acenocoumarol	C0000956	Acenocoumarol
+Acepromazine	A0018222	SNMI	Acepromazine	C0000959	Acepromazine
+Aceprometazine	A10340610	RXNORM	aceprometazine	C0608826	aceprometazine
+Acetazolamide	A0018301	LCH	Acetazolamide	C0000981	Acetazolamide
+Acetylsulfafurazol	 non trouvé
+Aciclovir	A0018552	RCD	Aciclovir	C0001367	Acyclovir
+Acide acetylsalicylique	 non trouvé
+Acide alendronique	 non trouvé
+Acide amidotrizoique	 non trouvé
+Acide chenodesoxycholique	 non trouvé
+Acide clodronique	A23531502	MSHFRE	Acide clodronique	C0012081	Clodronic Acid
+Acide etidronique	 non trouvé
+Acide folinique	A7439936	MSHFRE	Acide folinique	C0023413	Leucovorin
+Acide folique	A7439938	MSHFRE	Acide folique	C0016410	Folic Acid
+Acide ibandronique	 non trouvé
+Acide ioxaglique	A7439979	MSHFRE	Acide ioxaglique	C0022041	Ioxaglic Acid
+Acide ioxitalamique	 non trouvé
+Acide medronique	 non trouvé
+Acide mefenamique	 non trouvé
+Acide niflumique	A7440005	MSHFRE	Acide niflumique	C0028067	Niflumic Acid
+Acide oxidronique	 non trouvé
+Acide pamidronique	 non trouvé
+Acide risedronique	 non trouvé
+Acide tiaprofenique	 non trouvé
+Acide tiludronique	 non trouvé
+Acide ursodesoxycholique	 non trouvé
+Acide valproique	 non trouvé
+Acide zoledronique	 non trouvé
+Acitretine	A18462117	MSH	Acitretine embryofetopathy	C2931755	Acitretin embryopathy
+Adalimumab	A26541619	MSHCZE	adalimumab	C1122087	adalimumab
+Adefovir	A10351659	RXNORM	adefovir	C0050175	adefovir
+Adrenaline	A0020297	RCD	Adrenaline	C0014563	Epinephrine
+Agomelatine	A15554810	NCI	Agomelatine	C0971637	Agomelatine
+Alcuronium	A0021403	RCD	Alcuronium	C0001981	Alcuronium
+Alfacalcidol	A0642223	RCD	Alfacalcidol	C0044410	Alfacalcidol
+Alfentanil	A13042638	MSHCZE	alfentanil	C0002026	Alfentanil
+Alfuzosine	 non trouvé
+Alimemazine	A0021575	RCD	Alimemazine	C0041031	Trimeprazine
+Aliskiren	A12102622	RXNORM	aliskiren	C1120110	aliskiren
+Alitretinoine	 non trouvé
+Alizapride	A10336829	RXNORM	alizapride	C0051162	alizapride
+Allobarbital	A0473151	AOD	allobarbital	C0002132	allobarbital
+Allopurinol	A0021771	MMSL	Allopurinol	C0002144	Allopurinol
+Alminoprofene	 non trouvé
+Almotriptan	A10381435	RXNORM	almotriptan	C0914729	almotriptan
+Alpha-pinene	A7816306	MSH	alpha-pinene, pinene	C0951387	alpha-pinene, pinene
+Alprazolam	A13053073	MSHCZE	alprazolam	C0002333	Alprazolam
+Alteplase recombinante	 non trouvé
+Altizide	A0160376	MSH	altizide	C0051500	althiazide
+Altretamine	A0022244	MSH	Altretamine	C0019453	Altretamine
+Amantadine	A0022372	RCD	Amantadine	C0002403	Amantadine
+Ambenonium	A0002979	SNM	Ambenonium	C0002412	Ambenonium
+Amifostine	A0022651	MSH	Amifostine	C0015020	Amifostine
+Amikacine	A7441327	MSHFRE	Amikacine	C0002499	Amikacin
+Amiloride	A0022660	LCH	Amiloride	C0002502	Amiloride
+Aminophylline	A0013938	MMSL	Aminophylline	C0002575	Aminophylline
+Amiodarone	A0022869	LCH	Amiodarone	C0002598	Amiodarone
+Amisulpride	A10339857	RXNORM	Amisulpride	C0103045	Amisulpride
+Amitriptyline	A0013946	MSH	Amitriptyline	C0002600	Amitriptyline
+Amlodipine	A0160879	RCD	Amlodipine	C0051696	Amlodipine
+Amobarbital	A13040608	MSHCZE	amobarbital	C0002640	Amobarbital
+Amoxapine	A0023030	MMSL	Amoxapine	C0002644	Amoxapine
+Amoxicilline	A19031226	NCI	Amoxicilline	C0002645	Amoxicillin
+Amphotericine b	 non trouvé
+Ampicilline	A7441446	MSHFRE	Ampicilline	C0002680	Ampicillin
+Amprenavir	A10387256	RXNORM	Amprenavir	C0754188	Amprenavir
+Amsacrine	A0023170	RCD	Amsacrine	C0002699	Amsacrine
+Androstanolone	A0023628	SNMI	Androstanolone	C0038148	Dihydrotestosterone
+Apixaban	A11918704	PDQ	apixaban	C1831808	apixaban
+Apomorphine	A0025748	LCH	Apomorphine	C0003596	Apomorphine
+Argatroban	A10387158	RXNORM	argatroban	C0048470	argatroban
+Aripiprazole	A10340616	RXNORM	aripiprazole	C0299792	aripiprazole
+Arsenieux	 non trouvé
+Asenapine	A15560846	NCI	Asenapine	C2000088	Asenapine
+Asparaginase	A10360421	RXNORM	ASPARAGINASE	C0003993	ASPARAGINASE
+Atazanavir	A10504349	RXNORM	Atazanavir	C1145759	Atazanavir
+Atenolol	A13053184	MSHCZE	atenolol	C0004147	Atenolol
+Atomoxetine	A10408615	RXNORM	atomoxetine	C0076823	atomoxetine
+Atorvastatine	A26535210	MSHFRE	Atorvastatine	C0286651	atorvastatin
+Atracurium	A0027642	RCD	Atracurium	C0004234	Atracurium
+Atropine	A0027723	LCH	Atropine	C0004259	Atropine
+Avanafil	A20632928	RXNORM	avanafil	C2698280	avanafil
+Avizafone	A0474253	MSH	avizafone	C0246215	pro-diazepam
+Axitinib	A20169623	NDDF	axitinib	C1700874	axitinib
+Azacitidine	A0028304	MSH	Azacitidine	C0004475	Azacitidine
+Azatadine	A0163778	MMSL	azatadine	C0052759	azatadine
+Azathioprine	A0028321	MSH	Azathioprine	C0004482	Azathioprine
+Azelastine	A0163794	MMSL	azelastine	C0052762	azelastine
+Azilsartan	A19017080	NDDF	azilsartan	C1958569	azilsartan
+Azithromycine	A7443493	MSHFRE	Azithromycine	C0052796	Azithromycin
+Bacampicilline	A25089789	LNC-FR-FR	Bacampicilline [Sensibilité] Isolat ; Alphanumérique	C0801862	Bacampicillin:Susc:Pt:Isolate:OrdQn
+Baclofene	A25002672	LNC-IT-IT	Baclofene:MCnt:Pt:XXX:Qn	C3699836	Baclofen:MCnt:Pt:XXX:Qn
+Bambuterol	A10336897	RXNORM	bambuterol	C0052944	bambuterol
+Barbital	A13036486	MSHCZE	barbital	C0004743	Barbital
+Barnidipine	A15556950	NCI	Barnidipine	C0078703	mepirodipine
+Bcg	A21445678	CVX	BCG	C0004886	BCG Vaccine
+Befunolol	A22725359	ATC	befunolol	C0053071	befunolol
+Belimumab	A19018601	NDDF	belimumab	C1723401	belimumab
+Benazepril	A0164875	MMSL	benazepril	C0053091	benazepril
+Bendamustine	A11917137	PDQ	bendamustine	C0525079	bendamustine
+Bendroflumethiazide	A0029781	MMSL	Bendroflumethiazide	C0004975	Bendroflumethiazide
+Benethamine-penicilline	 non trouvé
+Benzalkonium	A20033184	MSHCZE	benzalkonium	C0005025	Benzalkonium
+Benzbromarone	A10334748	RXNORM	Benzbromarone	C0005035	Benzbromarone
+Benzocaine	A0029932	MMSL	Benzocaine	C0005059	Benzocaine
+Benzylpenicilline	 non trouvé
+Betamethasone	A0030462	MMSL	Betamethasone	C0005308	Betamethasone
+Beta-pinene	A0166420	MSH	beta-pinene	C0076109	beta-pinene
+Betaxolol	A13038409	MSHCZE	betaxolol	C0005320	Betaxolol
+Bezafibrate	A0030500	RCD	Bezafibrate	C0005330	Bezafibrate
+Biperidene	A18021036	NDFRT	Biperidene	C0005578	Biperiden
+Bisacodyl	A0031166	MMSL	Bisacodyl	C0005632	Bisacodyl
+Bisoprolol	A13055335	MSHCZE	bisoprolol	C0053799	Bisoprolol
+Bivalirudine	A26559284	LNC-NL-NL	Bivalirudine geïnduceerd trombocyt As.IgG:Aanwezigheid:Moment:Serum of plasma:Ordinaal:Flowcytometrie	C3654500	Bivalirudin induced platelet Ab.IgG:Pr:Pt:Ser/Plas:Ord:Flow cytometry
+Bleomycine	A10723494	RXNORM	Bleomycine	C1589326	Bleomycine
+Bleu de methylene	 non trouvé
+Boceprevir	A15591728	MSH	boceprevir	C1738934	boceprevir
+Boldo	A18661382	CHV	boldo	C0771773	BOLDO Preparation
+Bortezomib	A26534477	MSHCZE	bortezomib	C1176309	bortezomib
+Bosutinib	A11920250	PDQ	bosutinib	C1831731	bosutinib
+Bourdaine	A15903801	MSHFRE	Bourdaine	C0330641	Rhamnus frangula
+Brentuximab	A20017418	NDFRT	BRENTUXIMAB	C3247294	BRENTUXIMAB
+Bromazepam	A13061732	MSHCZE	bromazepam	C0006213	Bromazepam
+Bromocriptine	A0032791	LCH	Bromocriptine	C0006230	Bromocriptine
+Brompheniramine	A0032818	RCD	Brompheniramine	C0006246	Brompheniramine
+Brotizolam	A10336958	RXNORM	brotizolam	C0054151	brotizolam
+Buclizine	A10339482	RXNORM	buclizine	C0164386	buclizine
+Budesonide	A0661475	MMSL	Budesonide	C0054201	Budesonide
+Bumetanide	A0033202	LCH	Bumetanide	C0006376	Bumetanide
+Buprenorphine	A0033289	LCH	Buprenorphine	C0006405	Buprenorphine
+Bupropion	A13063734	MSHCZE	bupropion	C0085208	Bupropion
+Busulfan	A13057583	MSHCZE	busulfan	C0006463	Busulfan
+Butalbital	A0168620	MMSL	butalbital	C0054234	butalbital
+Butobarbital	A17479515	RXNORM	butobarbital	C0054249	butobarbital
+Cabazitaxel	A17947780	MTHSPL	cabazitaxel	C2830183	cabazitaxel
+Cabergoline	A0169442	MMSL	cabergoline	C0107994	cabergoline
+Cabozantinib	A21075680	RXNORM	cabozantinib	C3181682	cabozantinib
+Cafedrine	A14209839	RXNORM	cafedrine	C0068978	cafedrine
+Cajeput	A17883147	NDFRT	CAJEPUT	C0376274	cajuput oil
+Calcitriol	A0033960	MMSL	Calcitriol	C0006674	Calcitriol
+Camazepam	A0475336	AOD	camazepam	C0006795	camazepam
+Camphre	A7444614	MSHFRE	Camphre	C0006809	Camphor
+Canakinumab	A16795417	RXNORM	canakinumab	C2718773	canakinumab
+Candesartan cilexetil	A13996862	MEDCIN	candesartan cilexetil	C0527379	candesartan cilexetil
+Canrenoate de potassium	 non trouvé
+Capecitabine	A10340632	RXNORM	capecitabine	C0671970	capecitabine
+Captodiame	A17696850	NCI	Captodiame	C0301409	Captodiamine
+Captopril	A0034660	LCH	Captopril	C0006938	Captopril
+Carbamazepine	A0034700	LCH	Carbamazepine	C0006949	Carbamazepine
+Carbinoxamine	A0170149	MMSL	carbinoxamine	C0054672	carbinoxamine
+Carboplatine	A7444934	MSHFRE	Carboplatine	C0079083	Carboplatin
+Carbutamide	A10334879	RXNORM	Carbutamide	C0007080	Carbutamide
+Carmustine	A0035408	RCD	Carmustine	C0007257	Carmustine
+Carpipramine	A10337002	RXNORM	carpipramine	C0054826	carpipramine
+Carteolol	A0035527	RCD	Carteolol	C0007299	Carteolol
+Carvedilol	A0170511	CSP	carvedilol	C0054836	carvedilol
+Cascara	A0035566	LCH	Cascara	C0205704	Cascara sagrada
+Cascara sagrada	A0035574	SNM	Cascara sagrada	C0205704	Cascara sagrada
+Catioresine sulfo calcique	 non trouvé
+Catioresine sulfo sodique	 non trouvé
+Cefamandole	A0036183	RCD	Cefamandole	C0007541	Cefamandole
+Celecoxib	A10339671	RXNORM	celecoxib	C0538927	celecoxib
+Celiprolol	A13042820	MSHCZE	celiprolol	C0055021	Celiprolol
+Ceritinib	A23830399	NDDF	ceritinib	C3818721	ceritinib
+Certolizumab	A17938080	NDFRT	CERTOLIZUMAB	C1872109	certolizumab pegol
+Cetalkonium	A11724633	SNOMEDCT_US	Cetalkonium	C0055155	Cetalkonium
+Cetuximab	A26545294	MSHCZE	cetuximab	C0995188	cetuximab
+Charbon active	A11769234	MMSL	Charbon Active	C1828842	Charbon Active
+Charbon vegetal officinal	 non trouvé
+Chlorambucil	A13036645	MSHCZE	chlorambucil	C0008163	Chlorambucil
+Chlordiazepoxide	A0038036	MSH	Chlordiazepoxide	C0008188	Chlordiazepoxide
+Chlormadinone	A7445815	MSHFRE	Chlormadinone	C0008214	Chlormadinone Acetate
+Chlormethine	A0038163	RCD	Chlormethine	C0025033	Mechlorethamine
+Chloroquine	A0038281	RCD	Chloroquine	C0008269	Chloroquine
+Chlorphenamine	A0038309	RCD	Chlorphenamine	C0008281	Chlorpheniramine
+Chlorphenoxamine	A10337043	RXNORM	chlorphenoxamine	C0055468	chlorphenoxamine
+Chlorproethazine	A10338055	RXNORM	chlorproethazine	C0164858	chlorproethazine
+Chlorpromazine	A0038332	LCH	Chlorpromazine	C0008286	Chlorpromazine
+Chlorpropamide	A0038341	LCH	Chlorpropamide	C0008287	Chlorpropamide
+Chlortalidone	A0672262	RCD	Chlortalidone	C0008294	Chlorthalidone
+Chlortetracycline	A0038368	RCD	Chlortetracycline	C0008293	Chlortetracycline
+Cholecalciferol	A0038450	MMSL	Cholecalciferol	C0008318	Cholecalciferol
+Cibenzoline	A18594935	CHV	cibenzoline	C0055720	cifenline
+Ciclesonide	A10381439	RXNORM	ciclesonide	C0907850	ciclesonide
+Cicletanine	A18557900	CHV	cicletanine	C0056686	cicletanine
+Ciclosporine	A13441357	MSHFRE	Ciclosporine	C0010592	Cyclosporine
+Cidofovir	A10339998	RXNORM	Cidofovir	C0286079	Cidofovir
+Cilazapril	A13038626	MSHCZE	cilazapril	C0055723	Cilazapril
+Cilostazol	A0172945	MMSL	cilostazol	C0055729	cilostazol
+Cimetidine	A0039436	LCH	Cimetidine	C0008783	Cimetidine
+Cineole	A18687729	CHV	cineole	C0055738	Eucalyptol
+Ciprofibrate	A10337059	RXNORM	ciprofibrate	C0055775	ciprofibrate
+Ciprofloxacine	A7446224	MSHFRE	Ciprofloxacine	C0008809	Ciprofloxacin
+Cisatracurium	A10340003	RXNORM	Cisatracurium	C1096766	Cisatracurium
+Cisplatine	A7446255	MSHFRE	Cisplatine	C0008838	Cisplatin
+Citalopram	A13059372	MSHCZE	citalopram	C0008845	Citalopram
+Citrate de gallium [67ga]	 non trouvé
+Cladribine	A0401395	MMSL	Cladribine	C0092801	Cladribine
+Clarithromycine	A7446302	MSHFRE	Clarithromycine	C0055856	Clarithromycin
+Clevidipine	A15598939	RXNORM	clevidipine	C0766108	clevidipine
+Clidinium	A0173401	MMSL	clidinium	C0055877	clidinium
+Clindamycine	A7446339	MSHFRE	Clindamycine	C0008947	Clindamycin
+Clobazam	A0173433	AOD	clobazam	C0055891	clobazam
+Clocinizine	A23935040	NCI_FDA	CLOCINIZINE	C1322002	CLOCINIZINE
+Clofarabine	A10413550	RXNORM	clofarabine	C0092777	clofarabine
+Clofibrate	A0040050	LCH	Clofibrate	C0009002	Clofibrate
+Clomipramine	A0040080	RCD	Clomipramine	C0009010	Clomipramine
+Clonazepam	A0014014	MSH	Clonazepam	C0009011	Clonazepam
+Clonidine	A0040084	LCH	Clonidine	C0009014	Clonidine
+Clopamide	A10335010	RXNORM	Clopamide	C0009025	Clopamide
+Clopidogrel	A0173513	CSP	clopidogrel	C0070166	clopidogrel
+Clorazepate	A1389599	AOD	clorazepate	C0008174	clorazepate
+Clotiazepam	A10338258	RXNORM	clotiazepam	C0009073	clotiazepam
+Cloxacilline	A7446390	MSHFRE	Cloxacilline	C0009077	Cloxacillin
+Cloxazolam	A10337082	RXNORM	cloxazolam	C0055964	cloxazolam
+Clozapine	A0040253	MSH	Clozapine	C0009079	Clozapine
+Cobicistat	A20892584	RXNORM	cobicistat	C3177235	cobicistat
+Codeine	A0040574	LCH	Codeine	C0009214	Codeine
+Colesevelam	A10381440	RXNORM	colesevelam	C0541155	colesevelam
+Colestilan	A23551427	ATC	colestilan	C0540213	cholebine
+Colestyramine	A0040757	RCD	Colestyramine	C0008402	Cholestyramine Resin
+Colistine	A7446521	MSHFRE	Colistine	C0009316	Colistin
+Cortisone	A0043109	LCH	Cortisone	C0010137	Cortisone
+Cortivazol	A10337091	RXNORM	cortivazol	C0056396	cortivazol
+Crizotinib	A19579777	MSH	crizotinib	C2974289	crizotinib
+Cyamemazine	A10337100	RXNORM	cyamemazine	C0056643	cyamemazine
+Cyclizine	A0044423	RCD	Cyclizine	C0010547	Cyclizine
+Cyclobarbital	A0477043	AOD	cyclobarbital	C0010552	cyclobarbital
+Cyclopentolate	A0044506	RCD	Cyclopentolate	C0010582	Cyclopentolate
+Cyclophosphamide	A0044510	MMSL	Cyclophosphamide	C0010583	Cyclophosphamide
+Cyclothiazide	A10337107	RXNORM	cyclothiazide	C0056831	cyclothiazide
+Cyproheptadine	A0044597	RCD	Cyproheptadine	C0010620	Cyproheptadine
+Cyproterone	A0044602	RCD	Cyproterone	C0010621	Cyproterone
+Cytarabine	A0044877	MMSL	Cytarabine	C0010711	Cytarabine
+Dabigatran	A26534517	MSHCZE	dabigatran	C2348066	dabigatran
+Dabrafenib	A22645525	RXNORM	dabrafenib	C3467876	dabrafenib
+Dacarbazine	A0045228	MMSL	Dacarbazine	C0010927	Dacarbazine
+Dactinomycine	A7643186	NCI	Dactinomycine	C0010934	Dactinomycin
+Dalteparine sodique	 non trouvé
+Danaparoide sodique	 non trouvé
+Dapoxetine	A22724326	NDDF	dapoxetine	C0215087	dapoxetine
+Dapsone	A0045349	MMSL	Dapsone	C0010980	Dapsone
+Darifenacine	A18003502	NDFRT	darifenacine	C0529351	darifenacin
+Darunavir	A26545337	MSHCZE	darunavir	C1435444	darunavir
+Dasatinib	A26534491	MSHCZE	dasatinib	C1455147	dasatinib
+Daunorubicine	A7448002	MSHFRE	Daunorubicine	C0011015	Daunorubicin
+Decitabine	A10825895	MMSL	decitabine	C0049065	decitabine
+Delorazepam	A2373009	MSH	delorazepam	C0055353	chlordesmethyldiazepam
+Demeclocycline	A0046287	RCD	Demeclocycline	C0011276	Demeclocycline
+Desflurane	A0178479	MMSL	desflurane	C0063252	desflurane
+Desipramine	A0014025	MSH	Desipramine	C0011685	Desipramine
+Desirudine	A3897708	SNOMEDCT_US	Desirudine	C0378366	desirudin
+Desmopressine	A13450914	MSHFRE	Desmopressine	C0011701	desmopressin
+Desogestrel	A13068085	MSHCZE	desogestrel	C0057558	Desogestrel
+Desoxycortone	A17997894	NDFRT	Desoxycortone	C0011710	Deoxycorticosterone
+Dexamethasone	A0047709	MMSL	Dexamethasone	C0011777	Dexamethasone
+Dexchlorpheniramine	A0178685	MMSL	dexchlorpheniramine	C0057606	dexchlorpheniramine
+Dexketoprofene trometamol	 non trouvé
+Dexlansoprazole	A16496981	MMSL	dexlansoprazole	C2348248	dexlansoprazole
+Dexmedetomidine	A10351672	RXNORM	Dexmedetomidine	C0113293	Dexmedetomidine
+Dexrazoxane	A10338388	RXNORM	Dexrazoxane	C0086444	Dexrazoxane
+Dextran	A0047749	LCH	Dextran	C0086140	Dextran
+Dextromethorphane	 non trouvé
+Dextromoramide	A0047814	RCD	Dextromoramide	C0011817	Dextromoramide
+Di(acefylline) diphenhydramine	 non trouvé
+Diazepam	A13045187	MSHCZE	diazepam	C0012010	Diazepam
+Dibekacine	A25635708	LNC-NL-NL	Dibekacine:Gevoeligheid:Moment:Isolaat:OrdinaalKwantitatief	C2708917	Dibekacin:Susc:Pt:Isolate:OrdQn
+Dicitrate trimagnesien	 non trouvé
+Diclofenac	A0048372	LCH	Diclofenac	C0012091	Diclofenac
+Dicloxacilline	A7448713	MSHFRE	Dicloxacilline	C0012093	Dicloxacillin
+Dienogest	A10337144	RXNORM	dienogest	C0057916	dienogest
+Diethylstilbestrol	A13036839	MSHCZE	diethylstilbestrol	C0012203	Diethylstilbestrol
+Digoxine	A7448789	MSHFRE	Digoxine	C0012265	Digoxin
+Dihexyverine	A23909528	NCI_FDA	DIHEXYVERINE	C0771461	DIHEXYVERINE
+Dihydralazine	A10335169	RXNORM	Dihydralazine	C0012271	Dihydralazine
+Dihydrocodeine	A0179818	MMSL	dihydrocodeine	C0058056	dihydrocodeine
+Dihydroergotamine	A0048863	MSH	Dihydroergotamine	C0012291	Dihydroergotamine
+Diltiazem	A13049317	MSHCZE	diltiazem	C0012373	Diltiazem
+Dimenhydrinate	A0049035	RCD	Dimenhydrinate	C0012381	Dimenhydrinate
+Dinitrate d'isosorbide	A13435369	MSHFRE	Dinitrate d'isosorbide	C0022252	Isosorbide Dinitrate
+Diosmectite	A18096141	MEDCIN	diosmectite	C0163748	diosmectite
+Diphemanil	A0688218	SNM	Diphemanil	C0301371	Diphemanil
+Diphenhydramine	A0049265	RCD	Diphenhydramine	C0012522	Diphenhydramine
+Dirithromycine	A25613550	LNC-FR-FR	Dirithromycine [Sensibilité] Isolat ; Alphanumérique	C1507946	Dirithromycin:Susc:Pt:Isolate:OrdQn
+Disopyramide	A0050227	LCH	Disopyramide	C0012702	Disopyramide
+Disulfirame	A15908696	MSHFRE	Disulfirame	C0012772	Disulfiram
+Docetaxel	A0478042	CSP	docetaxel	C0246415	docetaxel
+Dolasetron	A10500943	RXNORM	Dolasetron	C0209210	Dolasetron
+Dolutegravir	A20042587	MSH	dolutegravir	C3253985	dolutegravir
+Domperidone	A0051049	MSH	Domperidone	C0013015	Domperidone
+Donepezil	A10339675	RXNORM	donepezil	C0527316	donepezil
+Dopamine	A0051090	LCH	Dopamine	C0013030	Dopamine
+Dosulepine	 non trouvé
+Doxazosine	A7449229	MSHFRE	Doxazosine	C0114873	Doxazosin
+Doxepine	A24879965	LNC-FR-CH	S--doxepine	C0365808	Doxepin:MCnc:Pt:Ser/Plas:Qn
+Doxorubicine	A7449231	MSHFRE	Doxorubicine	C0013089	Doxorubicin
+Doxycycline	A0051237	RCD	Doxycycline	C0013090	Doxycycline
+Doxylamine	A0051244	SNM	Doxylamine	C0013092	Doxylamine
+Dronedarone	A16949976	RXNORM	dronedarone	C0766326	dronedarone
+Droperidol	A13057926	MSHCZE	droperidol	C0013136	Droperidol
+Drospirenone	A0596654	MMSL	drospirenone	C0043822	drospirenone
+Duloxetine	A10338272	RXNORM	duloxetine	C0245561	duloxetine
+Dydrogesterone	A0051913	RCD	Dydrogesterone	C0013340	Dydrogesterone
+Efavirenz	A10340650	RXNORM	efavirenz	C0674428	efavirenz
+Eletriptan	A10351676	RXNORM	eletriptan	C0759933	eletriptan
+Elvitegravir	A16473502	MSH	elvitegravir	C2606637	elvitegravir
+Enalapril	A13049400	MSHCZE	enalapril	C0014025	Enalapril
+Enflurane	A0054539	MMSL	Enflurane	C0014277	Enflurane
+Enoxacine	A25634330	LNC-NL-NL	Enoxacine:Massa:Moment:Dosering:Kwantitatief	C0366461	Enoxacin:Mass:Pt:Dose:Qn
+Enoxaparine	A18050644	NDFRT	Enoxaparine	C0206460	Enoxaparin
+Entacapone	A0296690	MMSL	entacapone	C0165921	entacapone
+Enzalutamide	A20964654	MMSL	enzalutamide	C3496793	enzalutamide
+Ephedrine	A0055099	LCH	Ephedrine	C0014479	Ephedrine
+Epirubicine	 non trouvé
+Eplerenone	A10387327	RXNORM	eplerenone	C0961485	eplerenone
+Epoprostenol	A13063034	MSHCZE	epoprostenol	C0033567	Epoprostenol
+Eprosartan	A0597007	MMSL	eprosartan	C0287041	eprosartan
+Eptifibatide	A10340651	RXNORM	eptifibatide	C0253563	eptifibatide
+Ergocalciferol	A0055609	MMSL	Ergocalciferol	C0014695	Ergocalciferol
+Ergotamine	A0055647	MSH	Ergotamine	C0014710	Ergotamine
+Eribuline	 non trouvé
+Erlotinib	A10413786	RXNORM	erlotinib	C1135135	erlotinib
+Ertapenem	A10413552	RXNORM	ertapenem	C1120106	ertapenem
+Erythromycine	A7533047	MSHGER	3-Keto-Erythromycine	C1449860	Ketolides
+Escitalopram	A21103287	MSHCZE	escitalopram	C1099456	Escitalopram
+Esclicarbazepine	 non trouvé
+Esmolol	A0183992	MMSL	esmolol	C0116569	esmolol
+Esomeprazole	A10434585	RXNORM	Esomeprazole	C0937846	Esomeprazole
+Estazolam	A13066448	MSHCZE	estazolam	C0014892	Estazolam
+Estradiol	A13066449	MSHCZE	estradiol	C0014912	Estradiol
+Estramustine	A0056289	MSH	Estramustine	C0014921	Estramustine
+Estriol	A13041187	MSHCZE	estriol	C0014927	Estriol
+Estrogenes sulfoconjugues equins	 non trouvé
+Estrone	A0056345	LCH	Estrone	C0014942	Estrone
+Etanercept	A26523547	MSHCZE	etanercept	C0717758	Etanercept
+Ethambutol	A13041188	MSHCZE	ethambutol	C0014964	Ethambutol
+Ethinylestradiol	A13049459	MSHCZE	ethinylestradiol	C0015011	Ethinyl Estradiol
+Ethosuximide	A0014071	MMSL	Ethosuximide	C0015043	Ethosuximide
+Ethylmorphine	A10335327	RXNORM	Ethylmorphine	C0015109	Ethylmorphine
+Etifoxine	A17481980	RXNORM	etifoxine	C0059678	etifoxine
+Etilefrine	A0056733	SNMI	Etilefrine	C0015116	Etilefrine
+Etodolac	A13059610	MSHCZE	etodolac	C0059865	Etodolac
+Etonogestrel	A10501015	RXNORM	Etonogestrel	C0047683	Etonogestrel
+Etoposide	A0056745	LCH	Etoposide	C0015133	Etoposide
+Etoricoxib	A10387329	RXNORM	etoricoxib	C0972314	etoricoxib
+Etretinate	A0056754	LCH	Etretinate	C0015137	Etretinate
+Eucalyptus	A13066465	MSHCZE	Eucalyptus	C0015148	Eucalyptus
+Eugenol	A13045333	MSHCZE	eugenol	C0015153	Eugenol
+Everolimus	A26519988	MSHCZE	everolimus	C0541315	everolimus
+Famotidine	A0058176	MMSL	Famotidine	C0015620	Famotidine
+Fampridines	 non trouvé
+Febuxostat	A26523589	MSHCZE	febuxostat	C0249529	febuxostat
+Felbamate	A0185523	CSP	felbamate	C0060135	felbamate
+Felodipine	A0058570	RCD	Felodipine	C0015772	Felodipine
+Fenofibrate	A0058689	MMSL	Fenofibrate	C0033228	Fenofibrate
+Fenoprofene	A7551051	MSHITA	Fenoprofene	C0015837	Fenoprofen
+Fenspiride	A10338274	RXNORM	fenspiride	C0015843	fenspiride
+Fentanyl	A13066495	MSHCZE	fentanyl	C0015846	Fentanyl
+Fer	A7451379	MSHFRE	Fer	C0302583	Iron
+Fesoterodine	A15873483	RXNORM	fesoterodine	C2343853	fesoterodine
+Fexofenadine	A10339679	RXNORM	fexofenadine	C0296800	fexofenadine
+Fingolimod	A26526568	MSHRUS	FINGOLIMOD	C0388087	fingolimod hydrochloride
+Flecainide	A0059705	RCD	Flecainide	C0016229	Flecainide
+Fluanisone	A22725744	ATC	fluanisone	C0060473	fluanisone
+Fluconazole	A0059832	MSH	Fluconazole	C0016277	Fluconazole
+Fludarabine	A0186370	CSP	fludarabine	C0059985	fludarabine
+Fludiazepam	A18576375	CHV	fludiazepam	C0060485	fludiazepam
+Fludrocortisone	A0059846	RCD	Fludrocortisone	C0016280	Fludrocortisone
+Fluindione	A10337267	RXNORM	fluindione	C0117899	fluindione
+Flunarizine	A10335378	RXNORM	Flunarizine	C0016295	Flunarizine
+Flunitrazepam	A13061339	MSHCZE	flunitrazepam	C0016296	Flunitrazepam
+Fluor	A13041251	MSHCZE	fluor	C0016330	Fluorine
+Fluorouracile	A26538960	MSHFRE	Fluorouracile	C0016360	Fluorouracil
+Fluoxetine	A0060086	RCD	Fluoxetine	C0016365	Fluoxetine
+Flupentixol	A0060100	RCD	Flupentixol	C0016367	Flupenthixol
+Fluphenazine	A0060103	MSH	Fluphenazine	C0016368	Fluphenazine
+Flurazepam	A13041253	MSHCZE	flurazepam	C0016375	Flurazepam
+Flurbiprofene	A7551156	MSHITA	Flurbiprofene	C0016377	Flurbiprofen
+Flutamide	A0060151	MMSL	Flutamide	C0016384	Flutamide
+Fluticasone	A0186605	MMSL	fluticasone	C0082607	fluticasone
+Fluvastatine	A26554710	LNC-NL-NL	Fluvastatine geïnduceerd trombocyt As.IgM:Aanwezigheid:Moment:Serum of plasma:Ordinaal:Flowcytometrie	C3654613	Fluvastatin induced platelet Ab.IgM:Pr:Pt:Ser/Plas:Ord:Flow cytometry
+Fluvoxamine	A0060163	RCD	Fluvoxamine	C0085228	Fluvoxamine
+Fondaparinux	A10480514	RXNORM	fondaparinux	C1098510	fondaparinux
+Fosamprenavir	A10483527	RXNORM	fosamprenavir	C1176315	fosamprenavir
+Foscarnet	A0186904	MSH	Foscarnet	C0070895	Foscarnet
+Fosinopril	A13068114	MSHCZE	fosinopril	C0118168	Fosinopril
+Fosphenytoine	 non trouvé
+Fotemustine	A13677024	MEDCIN	fotemustine	C0060696	fotemustine
+Frovatriptan	A10351679	RXNORM	frovatriptan	C0754647	frovatriptan
+Furazolidone	A0061356	SNM	Furazolidone	C0016855	Furazolidone
+Furosemide	A0061367	LCH	Furosemide	C0016860	Furosemide
+Galantamine	A10499454	RXNORM	Galantamine	C0016967	Galantamine
+Ganciclovir	A0061909	MSH	Ganciclovir	C0017066	Ganciclovir
+Gefitinib	A10483528	RXNORM	gefitinib	C1122962	gefitinib
+Gel d'hydroxyde d'aluminium et de carbonate de magnesium codesseches	 non trouvé
+Gemcitabine	A0188345	CSP	gemcitabine	C0045093	gemcitabine
+Gemfibrozil	A13038350	MSHCZE	gemfibrozil	C0017245	Gemfibrozil
+Gentamicine	A7452368	MSHFRE	Gentamicine	C0017436	Gentamicins
+Gimeracil	A23938769	NCI_FDA	GIMERACIL	C0393004	chlorodihydroxypyridine
+Glibenclamide	A0063484	LCH	Glibenclamide	C0017628	Glyburide
+Glibornuride	A10335446	RXNORM	glibornuride	C0350998	glibornuride
+Gliclazide	A0063492	LCH	Gliclazide	C0017631	Gliclazide
+Glimepiride	A0188690	MMSL	glimepiride	C0061323	glimepiride
+Glipizide	A0063521	RCD	Glipizide	C0017642	Glipizide
+Golimumab	A16722677	RXNORM	golimumab	C2353893	golimumab
+Griseofulvine	A25010869	LNC-NL-NL	Griseofulvine:Gevoeligheid:Moment:Isolaat:OrdinaalKwantitatief	C2706761	Griseofulvin:Susc:Pt:Isolate:OrdQn
+Guanfacine	A10335474	RXNORM	Guanfacine	C0079466	Guanfacine
+Halazepam	A0191104	AOD	halazepam	C0062092	halazepam
+Halofantrine	A0191131	MMSL	halofantrine	C0120726	halofantrine
+Haloperidol	A13045498	MSHCZE	haloperidol	C0018546	Haloperidol
+Halothane	A0065700	LCH	Halothane	C0018549	Halothane
+Haloxazolam	A0191157	MSH	haloxazolam	C0120735	haloxazolam
+Heparine calcique	 non trouvé
+Heparine sodique	 non trouvé
+Heparine sodique/iodure de sodium	 non trouvé
+Hexobarbital	A13041400	MSHCZE	hexobarbital	C0019469	Hexobarbital
+Hexylresorcinol	A13058232	MSHCZE	hexylresorcinol	C0019497	Hexylresorcinol
+Histapyrrodine	A22732628	ATC	histapyrrodine	C0628458	histapyrrodine
+Homatropine	A0193582	MMSL	homatropine	C0062922	homatropine
+Hydrochlorothiazide	A0070093	MMSL	Hydrochlorothiazide	C0020261	Hydrochlorothiazide
+Hydrocortisone	A0070116	LCH	Hydrocortisone	C0020268	Hydrocortisone
+Hydromorphone	A0070231	MMSL	Hydromorphone	C0012306	Hydromorphone
+Hydroquinidine	A10337363	RXNORM	hydroquinidine	C0063103	hydroquinidine
+Hydrotalcite	A10337365	RXNORM	hydrotalcite	C0063105	hydrotalcite
+Hydroxycarbamide	A23887425	NCI_DTP	Hydroxycarbamide	C0020402	hydroxyurea
+Hydroxychloroquine	A0070343	RCD	Hydroxychloroquine	C0020336	Hydroxychloroquine
+Hydroxyprogesterone	A2877908	SNOMEDCT_US	Hydroxyprogesterone	C0020387	Hydroxyprogesterones
+Hydroxyzine	A0070475	RCD	Hydroxyzine	C0020404	Hydroxyzine
+Ibritumomab	A3503514	SNOMEDCT_US	Ibritumomab	C1272713	Ibritumomab
+Ibrutinib	A21413904	NCI	Ibrutinib	C3501358	Ibrutinib
+Ibuprofene	A7551576	MSHITA	Ibuprofene	C0020740	Ibuprofen
+Idarubicine	A7454360	MSHFRE	Idarubicine	C0020789	Idarubicin
+Ifosfamide	A0071877	MMSL	Ifosfamide	C0020823	Ifosfamide
+Iloprost	A13059481	MSHCZE	iloprost	C0079594	Iloprost
+Iloprost trometamol	A16963806	SNOMEDCT_US	Iloprost trometamol	C2711856	Iloprost trometamol
+Imatinib	A10381492	RXNORM	imatinib	C0935989	imatinib
+Imidapril	A10338067	RXNORM	imidapril	C0165703	imidapril
+Imipenem	A13067871	MSHCZE	imipenem	C0020933	Imipenem
+Imipramine	A0014132	LCH	Imipramine	C0020934	Imipramine
+Immunoglobuline de lapin anti-lymphocyte t humain	 non trouvé
+Immunoglobulines equines antilymphocyte humain	 non trouvé
+Indapamide	A0073038	MMSL	Indapamide	C0021186	Indapamide
+Indinavir	A13055610	MSHCZE	indinavir	C0376637	Indinavir
+Indometacine	 non trouvé
+Indoramine	A7454683	MSHFRE	Indoramine	C0021252	Indoramin
+Infliximab	A26538027	MSHCZE	infliximab	C0666743	infliximab
+Insuline asparte	A20003201	MSHFRE	Insuline Asparte	C1708521	Insulin Aspart
+Insuline asparte isophane biphasique	 non trouvé
+Insuline glargine	A26527898	MSHFRE	Insuline glargine	C0907402	Insulin Glargine
+Insuline humaine biosynthetique	 non trouvé
+Insuline humaine biosynthetique zinc	 non trouvé
+Insuline humaine hemisynthetique d'origine porcine	 non trouvé
+Insuline humaine hemisynthetique isophane	 non trouvé
+Insuline humaine hemisynthetique isophane biphasique	 non trouvé
+Insuline humaine recombinante	A20007234	MSHFRE	Insuline recombinante humaine de marque Lilly	C0020172	Humulin S
+Insuline humaine recombinante isophane	 non trouvé
+Insuline humaine recombinante isophane biphasique	 non trouvé
+Insuline humaine recombinante zinc	 non trouvé
+Insuline humaine recombinante zinc cristalline	 non trouvé
+Insuline lispro	A20003203	MSHFRE	Insuline Lispro	C0293359	Insulin Lispro
+Insuline porcine	A20004871	MSHFRE	Insuline porcine	C0724601	Insulin, Regular, Pork
+Iobitridol	A10338565	RXNORM	iobitridol	C0296806	iobitridol
+Iodixanol	A0196105	MMSL	iodixanol	C0063757	iodixanol
+Iohexol	A0075569	RCD	Iohexol	C0022005	Iohexol
+Iomeprol	A18094852	MEDCIN	iomeprol	C0063810	iomeprol
+Iopamidol	A0075629	MSH	Iopamidol	C0022026	Iopamidol
+Iopentol	A10337388	RXNORM	iopentol	C0063815	iopentol
+Iopromide	A0196222	MMSL	iopromide	C0063817	iopromide
+Ioversol	A0196246	MMSL	ioversol	C0063828	ioversol
+Ipilimumab	A10004400	MSH	ipilimumab	C1367202	ipilimumab
+Ipratropium	A13041751	MSHCZE	ipratropium	C0027235	Ipratropium
+Iproniazide	A7455237	MSHFRE	Iproniazide	C0022059	Iproniazid
+Irbesartan	A0599097	CSP	irbesartan	C0288171	irbesartan
+Irinotecan	A0196345	CSP	irinotecan	C0123931	irinotecan
+Isepamicine	A25528555	LNC-NL-NL	Isepamicine:Gevoeligheid:Moment:Isolaat:OrdinaalKwantitatief	C1148065	Isepamicin:Susc:Pt:Isolate:OrdQn
+Isoflurane	A0075990	LCH	Isoflurane	C0022180	Isoflurane
+Isoniazide	A7455329	MSHFRE	Isoniazide	C0022209	isoniazid
+Isosorbide	A10335618	RXNORM	Isosorbide	C0022251	Isosorbide
+Isothipendyl	A10337405	RXNORM	isothipendyl	C0064088	isothipendyl
+Isotretinoine	A25011832	LNC-NL-NL	Isotretinoine:Massa concentratie:Moment:Serum of plasma:Kwantitatief	C0484943	Isotretinoin:MCnc:Pt:Ser/Plas:Qn
+Isradipine	A0196927	RCD	Isradipine	C0071304	Isradipine
+Itraconazole	A0196957	RCD	Itraconazole	C0064113	Itraconazole
+Ivabradine	A22724337	ATC	ivabradine	C0257190	ivabradine
+Josamycine	A17902722	NDFRT	Josamycine	C0022419	Josamycin
+Kanamycine	A7455455	MSHFRE	Kanamycine	C0022487	Kanamycin
+Kaolin lourd	 non trouvé
+Ketazolam	A10337414	RXNORM	ketazolam	C0064304	ketazolam
+Ketoconazole	A0077101	MMSL	Ketoconazole	C0022625	Ketoconazole
+Ketoprofene	A7551958	MSHITA	Ketoprofene	C0022635	Ketoprofen
+Ketotifene	A17950799	NDFRT	Ketotifene	C0022642	Ketotifen
+Labetalol	A13062524	MSHCZE	labetalol	C0022860	Labetalol
+Lacidipine	A10337419	RXNORM	lacidipine	C0064568	lacidipine
+Lamotrigine	A0199053	MMSL	lamotrigine	C0064636	lamotrigine
+Lanreotide	A0367619	CSP	lanreotide	C0209211	lanreotide
+Lansoprazole	A0199083	MMSL	lansoprazole	C0050940	lansoprazole
+Lanthane	A7455738	MSHFRE	Lanthane	C0023031	Lanthanum
+Lapatinib	A11571357	RXNORM	lapatinib	C1506770	lapatinib
+Ledipasvir	A24149987	RXNORM	ledipasvir	C3851350	ledipasvir
+Lercanidipine	A10339685	RXNORM	lercanidipine	C0526399	lercanidipine
+Levobunolol	A23443929	MSHCZE	levobunolol	C0006388	Levobunolol
+Levodopa	A13037357	MSHCZE	levodopa	C0023570	Levodopa
+Levofloxacine	A24903322	LNC-NL-NL	Levofloxacine:Gevoeligheid:Moment:Isolaat:OrdinaalKwantitatief	C0803434	Levofloxacin:Susc:Pt:Isolate:OrdQn
+Levomenthol	A18717854	MTHSPL	LEVOMENTHOL	C0771655	LEVOMENTHOL
+Levomepromazine	A0079751	RCD	Levomepromazine	C0025678	Methotrimeprazine
+Levonorgestrel	A13063786	MSHCZE	levonorgestrel	C0023566	Levonorgestrel
+Levothyroxine	A18048391	NDFRT	Levothyroxine	C0040165	Thyroxine
+Lidocaine	A0014152	MSH	Lidocaine	C0023660	Lidocaine
+Linagliptine	A26520804	MSHFRE	Linagliptine	C2746078	Linagliptin
+Lincomycine	A7456186	MSHFRE	Lincomycine	C0023726	Lincomycin
+Linezolide	A26455732	NDFRT	Linezolide	C0663241	linezolid
+Linsidomine	A18614319	CHV	linsidomine	C0525082	linsidomine
+Liothyronine sodique	 non trouvé
+Lisinopril	A13038678	MSHCZE	lisinopril	C0065374	Lisinopril
+Lisuride	A0080563	LCH	Lisuride	C0023863	Lisuride
+Loflazepate	A10337225	RXNORM	ethyl loflazepate	C0059772	ethyl loflazepate
+Lomefloxacine	A25111171	LNC-NL-NL	Lomefloxacine:Gevoeligheid:Moment:Isolaat:OrdinaalKwantitatief	C0801932	Lomefloxacin:Susc:Pt:Isolate:OrdQn
+Lomustine	A0080906	RCD	Lomustine	C0023972	Lomustine
+Lopinavir	A20036212	MSHCZE	Lopinavir	C0674432	lopinavir
+Loprazolam	A0733301	RCD	Loprazolam	C0077013	triazulenone
+Lorazepam	A13037378	MSHCZE	lorazepam	C0024002	Lorazepam
+Lormetazepam	A10337454	RXNORM	lormetazepam	C0065185	lormetazepam
+Losartan	A13038976	MSHCZE	losartan	C0126174	Losartan
+Loxapine	A0081123	RCD	Loxapine	C0024056	Loxapine
+Lumefantrine	A16717235	RXNORM	lumefantrine	C0531104	lumefantrine
+Lymecycline	A0081456	RCD	Lymecycline	C0024200	Lymecycline
+Lynestrenol	A13058439	MSHCZE	lynestrenol	C0024321	Lynestrenol
+Magaldrate	A0201577	MMSL	magaldrate	C0065512	magaldrate
+Magnesium (hydroxyde de)	 non trouvé
+Magnesium (trisilicate de)	 non trouvé
+Manidipine	A10337473	RXNORM	manidipine	C0065656	manidipine
+Maprotiline	A0083108	RCD	Maprotiline	C0024778	Maprotiline
+Meclozine	A12790465	NCI	Meclozine	C0025039	Meclizine
+Medazepam	A13045796	MSHCZE	medazepam	C0025051	Medazepam
+Medrogestone	A10335769	RXNORM	Medrogestone	C0025145	Medrogestone
+Medroxyprogesterone	A0084258	LCH	Medroxyprogesterone	C0025147	Medroxyprogesterone
+Mefenidramium	A23949007	NCI_FDA	MEFENIDRAMIUM	C0771693	MEFENIDRAMIUM
+Mefloquine	A0084296	RCD	Mefloquine	C0025153	Mefloquine
+Meloxicam	A0202804	MMSL	meloxicam	C0083381	meloxicam
+Melphalan	A21104538	MSHCZE	melphalan	C0025241	Melphalan
+Menthe	A15895494	MSHFRE	Menthe	C0522467	Genus Mentha
+Menthol racemique	 non trouvé
+Meprobamate	A0084956	MMSL	Meprobamate	C0025386	Meprobamate
+Mepyramine	A0084968	RCD	Mepyramine	C0034282	Pyrilamine
+Mequitazine	A10337498	RXNORM	mequitazine	C0065972	mequitazine
+Merbromine	A17975254	NDFRT	Merbromine	C0025397	Merbromin
+Mercaptopurine	A0599966	MMSL	mercaptopurine	C0000618	mercaptopurine
+Meropenem	A0203027	MMSL	meropenem	C0066005	meropenem
+Mesalazine	A0743241	RCD	Mesalazine	C0127615	mesalamine
+Methadone	A0014164	MSH	Methadone	C0025605	Methadone
+Methotrexate	A0085756	LCH	Methotrexate	C0025677	Methotrexate
+Methoxyflurane	A0085795	SNM	Methoxyflurane	C0025688	Methoxyflurane
+Methyclothiazide	A0085808	MMSL	Methyclothiazide	C0025696	Methyclothiazide
+Methyldopa	A13062674	MSHCZE	methyldopa	C0025741	Methyldopa
+Methylenecycline	 non trouvé
+Methylphenidate	A0085989	MSH	Methylphenidate	C0025810	Methylphenidate
+Methylphenobarbital	A0435297	RCD	Methylphenobarbital	C0025382	Mephobarbital
+Methylprednisolone	A0086002	RCD	Methylprednisolone	C0025815	Methylprednisolone
+Metipranolol	A13063422	MSHCZE	metipranolol	C0041030	Metipranolol
+Metoclopramide	A0086083	MSH	Metoclopramide	C0025853	Metoclopramide
+Metopimazine	A10337522	RXNORM	metopimazine	C0066469	metopimazine
+Metoprolol	A13061323	MSHCZE	metoprolol	C0025859	Metoprolol
+Metronidazole	A0086139	LCH	Metronidazole	C0025872	Metronidazole
+Mexiletine	A0086192	LCH	Mexiletine	C0025887	Mexiletine
+Mezlocilline	A17951083	NDFRT	Mezlocilline	C0025893	Mezlocillin
+Mianserine	A25632960	LNC-NL-NL	Mianserine:Massa concentratie:Moment:Serum of plasma:Kwantitatief	C0364780	Mianserin:MCnc:Pt:Ser/Plas:Qn
+Midazolam	A13054226	MSHCZE	midazolam	C0026056	Midazolam
+Midecamycine	 non trouvé
+Midodrine	A10335866	RXNORM	Midodrine	C0026078	Midodrine
+Millepertuis	A13441770	MSHFRE	Millepertuis	C0936242	Hypericum perforatum
+Milnacipran	A16485528	RXNORM	milnacipran	C1533126	milnacipran
+Miltefosine	A22728299	ATC	miltefosine	C0068006	miltefosine
+Minocycline	A0086930	RCD	Minocycline	C0026187	Minocycline
+Mirtazapine	A10340315	RXNORM	Mirtazapine	C0049506	Mirtazapine
+Mitoguazone	A0087097	MSH	Mitoguazone	C0026251	Mitoguazone
+Mitomycine c	A7654144	NCI	Mitomycine C	C0002475	Mitomycin
+Mitoxantrone	A0087128	MSH	Mitoxantrone	C0026259	Mitoxantrone
+Mivacurium	A0204688	MMSL	mivacurium	C0066621	mivacurium
+Mizolastine	A10338080	RXNORM	mizolastine	C0171302	mizolastine
+Moclobemide	A0745914	RCD	Moclobemide	C0066673	Moclobemide
+Moexipril	A0204994	MMSL	moexipril	C0066685	moexipril
+Molsidomine	A10335887	RXNORM	Molsidomine	C0026400	Molsidomine
+Mometasone	A0746166	RCD	Mometasone	C0360564	Mometasone
+Monmectite	 non trouvé
+Morniflumate	A10337548	RXNORM	morniflumate	C0066803	morniflumate
+Morphine	A0087929	LCH	Morphine	C0026549	Morphine
+Moxifloxacine	A25507980	LNC-FR-FR	Moxifloxacine [Sensibilité] Isolat ; Alphanumérique	C1114817	Moxifloxacin:Susc:Pt:Isolate:OrdQn
+Moxonidine	A10337551	RXNORM	moxonidine	C0066837	moxonidine
+Myristalkonium	A21151270	RXNORM	myristalkonium	C3535893	myristalkonium
+Nabumetone	A0209401	MMSL	nabumetone	C0068334	nabumetone
+Nadolol	A13067037	MSHCZE	nadolol	C0027302	Nadolol
+Nadoxolol	A10337556	RXNORM	nadoxolol	C0068353	nadoxolol
+Nadroparine calcique	 non trouvé
+Nalbuphine	A0090064	RCD	Nalbuphine	C0027348	Nalbuphine
+Nalmefene	A0209588	AOD	nalmefene	C0068377	nalmefene
+Naloxone	A0090082	LCH	Naloxone	C0027358	Naloxone
+Naltrexone	A0090095	RCD	Naltrexone	C0027360	Naltrexone
+Naphazoline	A0090120	RCD	Naphazoline	C0027373	Naphazoline
+Naproxene	A7552519	MSHITA	Naproxene	C0027396	Naproxen
+Naratriptan	A10339688	RXNORM	naratriptan	C0540623	naratriptan
+Natalizumab	A26520041	MSHCZE	natalizumab	C1172734	natalizumab
+Nateglinide	A10381449	RXNORM	nateglinide	C0903898	nateglinide
+Nebivolol	A26541600	MSHCZE	nebivolol	C0068475	nebivolol
+Nefopam	A13062749	MSHCZE	nefopam	C0027556	Nefopam
+Nelarabine	A10506020	RXNORM	nelarabine	C0907349	nelarabine
+Neostigmine	A0091141	RCD	Neostigmine	C0027679	Neostigmine
+Netilmicine	A25634445	LNC-NL-NL	Netilmicine:Massa:Moment:Dosering:Kwantitatief	C0366573	Netilmicin:Mass:Pt:Dose:Qn
+Nevirapine	A1011389	RCD	Nevirapine	C0132326	Nevirapine
+Niaouli	A8219193	MSHDUT	Niaouli	C1135859	Melaleuca vindifolia
+Niaprazine	A10337569	RXNORM	niaprazine	C0068673	niaprazine
+Nicardipine	A0092159	RCD	Nicardipine	C0028005	Nicardipine
+Nicorandil	A0752758	RCD	Nicorandil	C0068700	Nicorandil
+Nicotine	A0014203	LCH	Nicotine	C0028040	Nicotine
+Nifedipine	A0092267	LCH	Nifedipine	C0028066	Nifedipine
+Nilotinib	A10913564	MSH	nilotinib	C1721377	nilotinib
+Nimesulide	A10337577	RXNORM	nimesulide	C0132515	nimesulide
+Nimetazepam	A0210606	MSH	nimetazepam	C0068774	nimetazepam
+Nimodipine	A0092342	RCD	Nimodipine	C0028094	Nimodipine
+Nitrazepam	A13037572	MSHCZE	nitrazepam	C0028126	Nitrazepam
+Nitrendipine	A0092404	LCH	Nitrendipine	C0028127	Nitrendipine
+Nizatidine	A0092587	MMSL	Nizatidine	C0085154	Nizatidine
+Nomegestrol	A10337580	RXNORM	nomegestrol	C0068922	nomegestrol
+Nonoxynol 9	A0291283	MSH	Nonoxynol 9	C0132776	Nonoxynol-9
+Noradrenaline	A0092890	RCD	Noradrenaline	C0028351	Norepinephrine
+Nordazepam	A24277108	MSHCZE	nordazepam	C0011279	Nordazepam
+Norelgestromine	 non trouvé
+Norepinephrine	A0092920	MSH	Norepinephrine	C0028351	Norepinephrine
+Norethandrolone	A0092934	SNM	Norethandrolone	C0028355	Norethandrolone
+Norethisterone	A0092943	RCD	Norethisterone	C0028356	Norethindrone
+Norfloxacine	A7459317	MSHFRE	Norfloxacine	C0028365	Norfloxacin
+Norgestimate	A0211174	MMSL	norgestimate	C0068992	norgestimate
+Norgestrienone	A10336002	RXNORM	Norgestrienone	C0028369	Norgestrienone
+Nortriptyline	A0093072	MMSL	Nortriptyline	C0028420	Nortriptyline
+Noscapine	A0093091	RCD	Noscapine	C0028426	Noscapine
+Octreotide	A0094169	RCD	Octreotide	C0028833	Octreotide
+Ofatumumab	A11920338	PDQ	ofatumumab	C1832027	ofatumumab
+Ofloxacine	A17951314	NDFRT	Ofloxacine	C0028902	Ofloxacin
+Olanzapine	A0302396	CSP	olanzapine	C0171023	olanzapine
+Olmesartan	A17936098	NDFRT	olmesartan	C1098320	olmesartan
+Olsalazine	A0212691	MMSL	olsalazine	C0069454	olsalazine
+Ombitasvir	A24128654	MSH	ombitasvir	C3852670	ombitasvir
+Omeprazole	A0094573	MMSL	Omeprazole	C0028978	Omeprazole
+Opipramol	A13067130	MSHCZE	opipramol	C0029105	Opipramol
+Ornidazole	A10336040	RXNORM	Ornidazole	C0029274	Ornidazole
+Oteracil	A16767144	NCI	Oteracil	C0030032	Oxonic Acid
+Oxacilline	A7460143	MSHFRE	Oxacilline	C0029983	Oxacillin
+Oxaliplatine	A17977819	NDFRT	oxaliplatine	C0069717	oxaliplatin
+Oxatomide	A10337611	RXNORM	oxatomide	C0134337	oxatomide
+Oxazepam	A13062855	MSHCZE	oxazepam	C0029997	Oxazepam
+Oxazolam	A24180837	NDDF	oxazolam	C0069749	oxazolam
+Oxcarbazepine	A0213546	MMSL	oxcarbazepine	C0069751	oxcarbazepine
+Oxetorone	A10337615	RXNORM	oxetorone	C0069760	oxetorone
+Oxitriptan	A11914602	PDQ	Oxitriptan	C0000578	5-Hydroxytryptophan
+Oxitropium	A10337620	RXNORM	oxitropium	C0069776	oxitropium
+Oxomemazine	A20169853	NDDF	oxomemazine	C0768401	oxomemazine
+Oxprenolol	A13041863	MSHCZE	oxprenolol	C0030040	Oxprenolol
+Oxybutynine	A25422521	LNC-NL-NL	Oxybutynine:Massa concentratie:Moment:Serum of plasma:Kwantitatief	C0551251	Oxybutynin:MCnc:Pt:Ser/Plas:Qn
+Oxycodone	A0096407	MSH	Oxycodone	C0030049	Oxycodone
+Oxymetazoline	A0096467	MMSL	Oxymetazoline	C0030071	Oxymetazoline
+Oxytetracycline	A0096526	RCD	Oxytetracycline	C0030092	Oxytetracycline
+P a s sodique	 non trouvé
+Paclitaxel	A13051076	MSHCZE	paclitaxel	C0144576	Paclitaxel
+Paliperidone	A11563862	RXNORM	paliperidone	C0753678	paliperidone
+Pancuronium	A0097171	RCD	Pancuronium	C0030310	Pancuronium
+Panitumumab	A11560134	MMSL	panitumumab	C0879427	panitumumab
+Pantoprazole	A0214755	CSP	pantoprazole	C0081876	pantoprazole
+Paraffine	A7460405	MSHFRE	Paraffine	C0030415	Paraffin
+Parecoxib	A10483534	RXNORM	parecoxib	C0915142	parecoxib
+Paritaprevir	A24227013	NDDF	paritaprevir	C3864824	paritaprevir
+Paroxetine	A0215163	RCD	Paroxetine	C0070122	Paroxetine
+Pasireotide	A21084818	NDDF	pasireotide	C1872203	pasireotide
+Pazopanib	A11917792	PDQ	pazopanib	C1831796	pazopanib
+Pefloxacine	A17975676	NDFRT	Pefloxacine	C0030771	Pefloxacin
+Pembrolizumab	A24141821	RXNORM	pembrolizumab	C3658706	pembrolizumab
+Penfluridol	A13037691	MSHCZE	penfluridol	C0030815	Penfluridol
+Penicillamine	A0098631	LCH	Penicillamine	C0030817	Penicillamine
+Pentamidine	A0098767	MMSL	Pentamidine	C0030863	Pentamidine
+Pentazocine	A0014228	LCH	Pentazocine	C0030873	Pentazocine
+Pentobarbital	A13050171	MSHCZE	pentobarbital	C0030883	Pentobarbital
+Pentostatine	A7658391	NCI	Pentostatine	C0030896	Pentostatin
+Perampanel	A20967239	NDDF	perampanel	C2698764	perampanel
+Pergolide	A0099168	RCD	Pergolide	C0031007	Pergolide
+Perindopril tert-butylamine	A0770530	RCD	Perindopril tert-butylamine	C0244718	Perindopril Erbumine
+Perphenazine	A0099663	MMSL	Perphenazine	C0031184	Perphenazine
+Pethidine	A0099893	RCD	Pethidine	C0025376	Meperidine
+Phenindione	A0100349	RCD	Phenindione	C0031406	Phenindione
+Pheniramine	A0100355	RCD	Pheniramine	C0031408	Pheniramine
+Phenobarbital	A0100369	MMSL	Phenobarbital	C0031412	Phenobarbital
+Phenoperidine	A0100411	RCD	Phenoperidine	C0031432	Phenoperidine
+Phenoxymethylpenicilline	 non trouvé
+Phenylbutazone	A0014238	LCH	Phenylbutazone	C0031463	Phenylbutazone
+Phenylephrine	A0100487	RCD	Phenylephrine	C0031469	Phenylephrine
+Phenyltoloxamine	A0217048	MMSL	phenyltoloxamine	C0070709	phenyltoloxamine
+Phenytoine	 non trouvé
+Pholcodine	A10337663	RXNORM	pholcodine	C0070742	pholcodine
+Phosphore	A7461342	MSHFRE	Phosphore	C0031705	Phosphorus
+Pilocarpine	A0101625	LCH	Pilocarpine	C0031923	Pilocarpine
+Pimethixene	A10337670	RXNORM	pimethixene	C0071069	pimethixene
+Pimozide	A0101657	RCD	Pimozide	C0031935	Pimozide
+Pinazepam	A21087647	NDDF	pinazepam	C0071082	pinazepam
+Pindolol	A13054512	MSHCZE	pindolol	C0031937	Pindolol
+Pioglitazone	A0217924	MMSL	pioglitazone	C0071097	pioglitazone
+Pipamperone	A10337674	RXNORM	pipamperone	C0071098	pipamperone
+Piperacilline	A25217243	LNC-NL-NL	Piperacilline:Massa:Moment:Dosering:Kwantitatief	C0366629	Piperacillin:Mass:Pt:Dose:Qn
+Piperaquine	A20284522	NDDF	piperaquine	C0071105	piperaquine
+Piperazine	A0217953	AOD	piperazine	C0031957	piperazine
+Pipobroman	A13037743	MSHCZE	pipobroman	C0031965	Pipobroman
+Pipotiazine	A0773001	RCD	Pipotiazine	C0031968	pipothiazine
+Pirarubicine	 non trouvé
+Piretanide	A10337687	RXNORM	piretanide	C0071132	piretanide
+Piribedil	A13054517	MSHCZE	piribedil	C0031979	Piribedil
+Piroxicam	A0101784	LCH	Piroxicam	C0031990	Piroxicam
+Piroxicam-betadex	A6946275	SNOMEDCT_US	Piroxicam-betadex	C0209263	piroxicam-beta-cyclodextrin
+Pitavastatine	 non trouvé
+Pivampicilline	A7461627	MSHFRE	Pivampicilline	C0032032	Pivampicillin
+Pixantrone	A22728738	ATC	pixantrone	C0253355	pixantrone
+Pizotifene	A15919283	MSHITA	Pizotifene	C0032036	Pizotyline
+Plicamycine	A20001744	MSHFRE	Plicamycine	C0026234	Plicamycin
+Ponatinib	A21083441	MMSL	ponatinib	C2987417	ponatinib
+Posaconazole	A11558779	RXNORM	posaconazole	C0936148	posaconazole
+Potassium	A0103953	LCH	Potassium	C0032821	Potassium
+Potassium (citrate de)	A18948824	MSHFRE	Citrate de potassium	C0137996	potassium citrate
+Povidone	A0104087	LCH	Povidone	C0032856	Povidone
+Pramipexole	A12799475	NCI	Pramipexole	C0074710	Pramipexole
+Prasugrel	A26545290	MSHCZE	prasugrel	C1620287	prasugrel
+Pravastatine	A7462366	MSHFRE	Pravastatine	C0085542	Pravastatin
+Prazepam	A13037783	MSHCZE	prazepam	C0032910	Prazepam
+Prazosine	A7462369	MSHFRE	Prazosine	C0032912	Prazosin
+Prednisolone	A0487157	AOD	prednisolone	C0032950	prednisolone
+Prednisone	A0104386	LCH	Prednisone	C0032952	Prednisone
+Pregabaline	A25217504	LNC-NL-NL	Pregabaline:Massa concentratie:Moment:Serum of plasma:Kwantitatief	C1831458	Pregabalin:MCnc:Pt:Ser/Plas:Qn
+Prilocaine	A0104886	MSH	Prilocaine	C0033124	Prilocaine
+Primidone	A0014270	MMSL	Primidone	C0033148	Primidone
+Probenecide	A25321400	LNC-NL-NL	Probenecide:Drempelwaarde:Moment:Urine:Ordinaal	C0366206	Probenecid:Threshold:Pt:Urine:Ord
+Procarbazine	A0105168	MSH	Procarbazine	C0033223	Procarbazine
+Prochlorperazine	A0105231	MMSL	Prochlorperazine	C0033229	Prochlorperazine
+Progesterone	A0105461	LCH	Progesterone	C0033308	Progesterone
+Proguanil	A18956183	MSHCZE	proguanil	C0008241	Proguanil
+Promegestone	A10336275	RXNORM	Promegestone	C0033401	Promegestone
+Promestriene	A10337727	RXNORM	promestriene	C0072151	promestriene
+Promethazine	A0105776	RCD	Promethazine	C0033405	Promethazine
+Propafenone	A0105845	LCH	Propafenone	C0033429	Propafenone
+Propericiazine	A18556455	CHV	propericiazine	C0033459	periciazine
+Propranolol	A13046226	MSHCZE	propranolol	C0033497	Propranolol
+Prucalopride	A20065212	NDDF	prucalopride	C0913506	prucalopride
+Pseudoephedrine	A0107097	RCD	Pseudoephedrine	C0033798	Pseudoephedrine
+Pyridostigmine	A0108272	RCD	Pyridostigmine	C0034261	Pyridostigmine
+Quetiapine	A10340695	RXNORM	quetiapine	C0123091	quetiapine
+Quinagolide	A10338306	RXNORM	quinagolide	C0256089	quinagolide
+Quinapril	A0222582	MMSL	quinapril	C0072857	quinapril
+Quinidine	A0108636	LCH	Quinidine	C0034414	Quinidine
+Quinine	A0014302	LCH	Quinine	C0034417	Quinine
+Rabeprazole	A10339491	RXNORM	rabeprazole	C0378482	rabeprazole
+Raltitrexed	A10339492	RXNORM	raltitrexed	C0677667	raltitrexed
+Ramipril	A13068101	MSHCZE	ramipril	C0072973	Ramipril
+Ramucirumab	A17401260	MSH	ramucirumab	C2742502	ramucirumab
+Ranitidine	A0109316	LCH	Ranitidine	C0034665	Ranitidine
+Rasagiline	A10339691	RXNORM	rasagiline	C0525678	rasagiline
+Reglisse	 non trouvé
+Remifentanil	A0488290	MMSL	remifentanil	C0246631	remifentanil
+Repaglinide	A0488323	MMSL	repaglinide	C0246689	repaglinide
+Reteplase	A10340453	RXNORM	Reteplase	C0256103	Reteplase
+Retigabine	A20253930	NCI	Retigabine	C0530684	ezogabine
+Reviparine	A0488443	MSH	reviparine	C0254215	reviparin
+Rhubarbe	A15904960	MSHFRE	Rhubarbe	C0035509	Rhubarb food
+Ricin	A15900374	MSHFRE	Ricin	C0007341	Ricinus communis
+Ricinus communis	A8204546	MSHDUT	Ricinus communis	C0007341	Ricinus communis
+Rifabutine	A17930684	NDFRT	Rifabutine	C0140575	Rifabutin
+Rifampicine	A7465561	MSHFRE	Rifampicine	C0035608	Rifampin
+Rilmenidine	A10337774	RXNORM	rilmenidine	C0140591	rilmenidine
+Riociguat	A23070987	RXNORM	riociguat	C2717561	riociguat
+Risperidone	A0581188	RCD	Risperidone	C0073393	Risperidone
+Ritodrine	A0112677	LCH	Ritodrine	C0035661	Ritodrine
+Ritonavir	A13047265	MSHCZE	ritonavir	C0292818	Ritonavir
+Rivaroxaban	A26523599	MSHCZE	rivaroxaban	C1739768	rivaroxaban
+Rivastigmine	A10340701	RXNORM	rivastigmine	C0649350	rivastigmine
+Rizatriptan	A10339692	RXNORM	rizatriptan	C0297635	rizatriptan
+Rocuronium	A0785977	RCD	Rocuronium	C0209337	Rocuronium
+Rofecoxib	A10351697	RXNORM	rofecoxib	C0762662	rofecoxib
+Ropinirole	A10338314	RXNORM	ropinirole	C0244821	ropinirole
+Rosiglitazone	A10351698	RXNORM	rosiglitazone	C0289313	rosiglitazone
+Rosuvastatine	A26538767	MSHFRE	Rosuvastatine	C0965129	rosuvastatin
+Rotavirus	A13057173	MSHCZE	Rotavirus	C0035870	Rotavirus
+Rotigotine	A10883629	SNOMEDCT_US	Rotigotine	C1700683	Rotigotine
+Roxatidine	A22723607	ATC	roxatidine	C0378091	roxatidine
+Roxithromycine	A7465650	MSHFRE	Roxithromycine	C0035891	Roxithromycin
+Rupatadine	A22731284	ATC	rupatadine	C0534301	rupatadine
+Ruxolitinib	A18465272	MSH	ruxolitinib	C2931926	ruxolitinib
+Salbutamol	A13044708	MSHCZE	salbutamol	C0001927	Albuterol
+Saquinavir	A13051356	MSHCZE	saquinavir	C0286738	Saquinavir
+Saxagliptine	 non trouvé
+Scopolamine	A0114713	LCH	Scopolamine	C0036442	Scopolamine
+Secbutabarbital	A17936673	NDFRT	secbutabarbital	C0006464	butabarbital
+Secnidazole	A10337792	RXNORM	secnidazole	C0074246	secnidazole
+Secobarbital	A0114925	SNM	Secobarbital	C0036516	Secobarbital
+Selegiline	A0115118	RCD	Selegiline	C0036579	Selegiline
+Sene	A23586885	MSHPOR	Sene	C0950048	Senna Plant
+Sene de khartoum	 non trouvé
+Sene de l'inde	 non trouvé
+Sertraline	A0794841	RCD	Sertraline	C0074393	Sertraline
+Sevelamer	A26541674	MSHCZE	sevelamer	C0718050	sevelamer
+Sevoflurane	A0227455	MMSL	sevoflurane	C0074414	sevoflurane
+Sibutramine	A0227746	MMSL	sibutramine	C0074493	sibutramine
+Sildenafil	A26534442	MSHCZE	Sildenafil	C0529793	sildenafil
+Silicone	A0116491	RCD	Silicone	C0037114	Silicones
+Silodosine	 non trouvé
+Simvastatine	A7466499	MSHFRE	Simvastatine	C0074554	Simvastatin
+Sirolimus	A13064285	MSHCZE	sirolimus	C0072980	Sirolimus
+Sitagliptine	A26538788	MSHFRE	Sitagliptine	C1565750	sitagliptin
+Sodium (bicarbonate de)	A11383499	MSHFRE	Bicarbonate de sodium	C0074722	Sodium Bicarbonate
+Sodium (citrate de)	 non trouvé
+Sodium (citrate diacide de)	 non trouvé
+Sodium (docusate de)	A18941922	MSHFRE	Docusate de sodium	C0243237	Docusate Sodium
+Sodium (nitroprussiate de)	A13446114	MSHFRE	Nitroprussiate de sodium	C0037533	Sodium Nitroprusside
+Sodium (picosulfate de)	 non trouvé
+Sodium (ricinoleate de)	 non trouvé
+Solifenacine	 non trouvé
+Sorafenib	A10075452	MMSL	sorafenib	C1516119	sorafenib
+Sotalol	A13054812	MSHCZE	sotalol	C0037707	Sotalol
+Spectinomycine	A7466913	MSHFRE	Spectinomycine	C0001268	Spectinomycin
+Spiramycine	A18048135	NDFRT	Spiramycine	C0037962	Spiramycin
+Spirapril	A10337829	RXNORM	spirapril	C0075007	spirapril
+Spironolactone	A0118679	LCH	Spironolactone	C0037982	Spironolactone
+Streptokinase	A0120038	LCH	Streptokinase	C0038418	Streptokinase
+Streptomycine	A7467289	MSHFRE	Streptomycine	C0038425	Streptomycin
+Streptozocine	A7467293	MSHFRE	Streptozocine	C0038432	Streptozocin
+Sufentanil	A13059619	MSHCZE	sufentanil	C0143993	Sufentanil
+Sulfacetamide	A0120834	RCDAE	Sulfacetamide	C0038670	Sulfacetamide
+Sulfadiazine	A0120849	RCDAE	Sulfadiazine	C0038675	Sulfadiazine
+Sulfadoxine	A0120865	SNMI	Sulfadoxine	C0038679	Sulfadoxine
+Sulfafurazol	A15896867	MSHFRE	Sulfafurazol	C0038745	Sulfisoxazole
+Sulfaguanidine	A0120871	RCDAE	Sulfaguanidine	C0038681	Sulfaguanidine
+Sulfamethizol	A13067620	MSHCZE	sulfamethizol	C0038687	Sulfamethizole
+Sulfamethoxazole	A0120897	MMSL	Sulfamethoxazole	C0038689	Sulfamethoxazole
+Sulfamoxole	A0120917	SNM	Sulfamoxole	C0038700	Sulfamoxole
+Sulfasalazine	A0120943	RCD	Sulfasalazine	C0036078	Sulfasalazine
+Sulindac	A0121162	LCH	Sulindac	C0038792	Sulindac
+Sulpiride	A0121199	RCD	Sulpiride	C0038803	Sulpiride
+Sultopride	A10337849	RXNORM	sultopride	C0075630	sultopride
+Sumatriptan	A13042935	MSHCZE	sumatriptan	C0075632	Sumatriptan
+Sunitinib	A10005108	MSH	sunitinib	C1176020	sunitinib
+Suxamethonium	A0121676	RCD	Suxamethonium	C0038627	Succinylcholine
+Synephrine	A0122232	SNMI	Synephrine	C0039086	Synephrine
+Tacrolimus	A0586765	MSH	Tacrolimus	C0085149	Tacrolimus
+Tadalafil	A26537995	MSHCZE	tadalafil	C1176316	tadalafil
+Tamsulosine	A26568484	LNC-NL-NL	Tamsulosine geïnduceerd trombocyt As.IgG:Aanwezigheid:Moment:Serum of plasma:Ordinaal:Flowcytometrie	C3654837	Tamsulosin induced platelet Ab.IgG:Pr:Pt:Ser/Plas:Ord:Flow cytometry
+Tapentadol	A16027573	RXNORM	tapentadol	C2001271	tapentadol
+Tegafur	A0123831	MSH	Tegafur	C0016778	Tegafur
+Teicoplanine	A25503936	LNC-FR-CH	isolat--teicoplanine	C0362574	Teicoplanin:Susc:Pt:Isolate:OrdQn:Agar diffusion
+Telaprevir	A19299814	RXNORM	telaprevir	C1876229	telaprevir
+Telithromycine	A25112929	LNC-NL-NL	Telithromycine:Gevoeligheid:Moment:Isolaat:OrdinaalKwantitatief	C1507988	Telithromycin:Susc:Pt:Isolate:OrdQn
+Telmisartan	A0836213	MMSL	telmisartan	C0248719	telmisartan
+Temazepam	A13059158	MSHCZE	temazepam	C0039468	Temazepam
+Temocilline	A25423302	LNC-NL-NL	Temocilline:Gevoeligheid:Moment:Isolaat:OrdinaalKwantitatief	C0801984	Temocillin:Susc:Pt:Isolate:OrdQn
+Temozolomide	A0232350	CSP	temozolomide	C0076080	temozolomide
+Temsirolimus	A11919312	PDQ	temsirolimus	C1707080	temsirolimus
+Tenecteplase	A10501702	RXNORM	Tenecteplase	C0872913	Tenecteplase
+Tenofovir disoproxil	A26532108	MSHGER	Tenofovir-Disoproxil	C0384228	Tenofovir
+Tenonitrozole	A10363129	RXNORM	TENONITROZOLE	C0771436	TENONITROZOLE
+Tenoxicam	A10337868	RXNORM	tenoxicam	C0076096	tenoxicam
+Terazosine	A18595202	CHV	terazosine	C0076107	Terazosin
+Terbutaline	A0124095	RCD	Terbutaline	C0039542	Terbutaline
+Teriflunomide	A20925151	RXNORM	teriflunomide	C1718383	teriflunomide
+Terpine	A18677230	CHV	terpine	C0544321	terpine
+Terpineol	A0805762	RCD	Terpineol	C0348029	Terpineol
+Terpinol	A16481023	MSH	beta-terpinol	C2605025	1-methyl-4-(1-methylethenyl)cyclohexanal
+Tertatolol	A10337876	RXNORM	tertatolol	C0076166	tertatolol
+Testosterone	A0124354	LCH	Testosterone	C0039601	Testosterone
+Tetrabenazine	A0124542	RCD	Tetrabenazine	C0039623	Tetrabenazine
+Tetracosactide	A0124568	RCD	Tetracosactide	C0010192	Cosyntropin
+Tetracycline	A0124574	LCH	Tetracycline	C0039644	Tetracycline
+Tetrazepam	A10337884	RXNORM	tetrazepam	C0076341	tetrazepam
+Tetryzoline	A5050196	SNOMEDCT_US	Tetryzoline	C0076286	tetrahydrozoline
+Thalidomide	A0124779	LCH	Thalidomide	C0039736	Thalidomide
+Thenyldiamine	A10337887	RXNORM	thenyldiamine	C0076383	thenyldiamine
+Theodrenaline	A20975814	MSH	theodrenaline	C0068955	theodrenaline
+Theophylline	A0124906	LCH	Theophylline	C0039771	Theophylline
+Thiomersal	A0125439	RCD	Thiomersal	C0039867	Thimerosal
+Thiopental	A13042381	MSHCZE	thiopental	C0039925	Thiopental
+Thioproperazine	A10338319	RXNORM	thioproperazine	C0039936	thioproperazine
+Thiotepa	A13054914	MSHCZE	thiotepa	C0039871	Thiotepa
+Thymol	A13067688	MSHCZE	thymol	C0040096	Thymol
+Thyroxines	 non trouvé
+Tiagabine	A0233704	MSH	tiagabine	C0068897	tiagabine
+Tiapride	A10336599	RXNORM	Tiapride	C0040180	Tiapride
+Ticagrelor	A16756422	NCI	Ticagrelor	C1999375	Ticagrelor
+Ticarcilline	A7468815	MSHFRE	Ticarcilline	C0040193	Ticarcillin
+Ticlopidine	A0126243	LCH	Ticlopidine	C0040207	Ticlopidine
+Tigecycline	A10499458	RXNORM	tigecycline	C1260298	tigecycline
+Timolol	A13063380	MSHCZE	timolol	C0040233	Timolol
+Tinidazole	A0126365	MSH	Tinidazole	C0040263	Tinidazole
+Tinzaparine	 non trouvé
+Tioclomarol	A10340708	RXNORM	tioclomarol	C0612505	tioclomarol
+Tioguanine	A10765489	NCI	Tioguanine	C0039902	Thioguanine
+Tipranavir	A10351699	RXNORM	tipranavir	C0663733	tipranavir
+Tiratricol	A0365346	MSH	tiratricol	C0046882	tiratricol
+Tirofiban	A0836576	MMSL	tirofiban	C0247025	tirofiban
+Tobramycine	A7468873	MSHFRE	Tobramycine	C0040341	Tobramycin
+Tocilizumab	A17288635	RXNORM	tocilizumab	C1609165	tocilizumab
+Tolbutamide	A0126647	LCH	Tolbutamide	C0040374	Tolbutamide
+Tolcapone	A0490605	MMSL	tolcapone	C0246330	tolcapone
+Tolterodine	A26534446	MSHCZE	Tolterodine	C0388753	tolterodine
+Topiramate	A0234184	CSP	topiramate	C0076829	topiramate
+Topotecane	 non trouvé
+Torasemide	A0808178	RCD	Torasemide	C0076840	torsemide
+Toremifene	A0234216	MSH	Toremifene	C0076836	Toremifene
+Tramadol	A13046579	MSHCZE	tramadol	C0040610	Tramadol
+Trandolapril	A0234384	MMSL	trandolapril	C0076891	trandolapril
+Trastuzumab	A26520015	MSHCZE	trastuzumab	C0728747	trastuzumab
+Tretinoine	 non trouvé
+Triamcinolone	A0128198	LCH	Triamcinolone	C0040864	Triamcinolone
+Triamterene	A0128210	LCH	Triamterene	C0040869	Triamterene
+Trifluoperazine	A0014338	MSH	Trifluoperazine	C0040979	Trifluoperazine
+Trifluperidol	A13054971	MSHCZE	trifluperidol	C0040988	Trifluperidol
+Trihexyphenidyle	 non trouvé
+Trimethoprime	A25470567	LNC-DE-CH	Isolat--Trimethoprime-sulfamethoxazole	C0362606	Trimethoprim+Sulfamethoxazole:Susc:Pt:Isolate:OrdQn:Agar diffusion
+Trimipramine	A0128636	LCH	Trimipramine	C0041056	Trimipramine
+Trinitrine	A7469470	MSHFRE	Trinitrine	C0017887	Nitroglycerin
+Triprolidine	A0128734	RCD	Triprolidine	C0041098	Triprolidine
+Trometamol	A10762600	NCI	Trometamol	C0041175	Tromethamine
+Tropatepine	A10337954	RXNORM	tropatepine	C0077388	tropatepine
+Tropicamide	A0128934	MMSL	Tropicamide	C0041190	Tropicamide
+Trospium	A10501756	RXNORM	Trospium	C0772089	Trospium
+Tuaminoheptane	A14174828	MEDCIN	tuaminoheptane	C0642440	tuaminoheptane
+Tymazoline	A24180258	NDDF	tymazoline	C0771442	tymazoline
+Ulipristal	A18442779	RXNORM	ulipristal	C0300205	ulipristal
+Urapidil	A10337963	RXNORM	urapidil	C0077857	urapidil
+Urokinase	A0130743	LCH	Urokinase	C0042071	Urokinase
+Ustekinumab	A26523598	MSHCZE	ustekinumab	C1608841	ustekinumab
+Valaciclovir	A0491400	CSP	valaciclovir	C0249458	valacyclovir
+Valdecoxib	A10381458	RXNORM	valdecoxib	C0913246	valdecoxib
+Valganciclovir	A10381459	RXNORM	valganciclovir	C0909381	valganciclovir
+Valpromide	A23473852	SNOMEDCT_US	Valpromide	C0058426	dipropylacetamide
+Valsartan	A0375838	MMSL	valsartan	C0216784	valsartan
+Vancomycine	A7470366	MSHFRE	Vancomycine	C0042313	Vancomycin
+Vandetanib	A12808607	NCI	Vandetanib	C1628324	Vandetanib
+Vardenafil	A10387356	RXNORM	vardenafil	C0971579	vardenafil
+Vecuronium	A0131753	MMSL	Vecuronium	C0242531	Vecuronium
+Vedolizumab	A24024569	RXNORM	vedolizumab	C2742797	vedolizumab
+Venlafaxine	A0237696	CSP	venlafaxine	C0078569	venlafaxine
+Verapamil	A13042501	MSHCZE	verapamil	C0042523	Verapamil
+Vildagliptine	 non trouvé
+Vinbarbital	A0817270	SNM	Vinbarbital	C0301408	Vinbarbital
+Vinblastine	A0132482	LCH	Vinblastine	C0042670	Vinblastine
+Vincamine	A0132498	LCH	Vincamine	C0042674	Vincamine
+Vincristine	A0132505	LCH	Vincristine	C0042679	Vincristine
+Vindesine	A0132520	LCH	Vindesine	C0042682	Vindesine
+Vinflunine	A20021239	NDDF	vinflunine	C0672663	vinflunine
+Vinorelbine	A0237909	MMSL	vinorelbine	C0078257	vinorelbine
+Vinylbital	A22723428	ATC	vinylbital	C0054306	butylvinal
+Virus de la fievre jaune	 non trouvé
+Virus des oreillons	A20007405	MSHFRE	Virus des oreillons	C0026783	Mumps virus
+Virus rougeoleux	 non trouvé
+Virus rubeoleux	 non trouvé
+Virus varicelle-zona	A20002648	MSHFRE	VVZ (Virus Varicelle-Zona)	C0042338	Human herpesvirus 3
+Virus vivant attenue de la grippe	 non trouvé
+Voriconazole	A10339694	RXNORM	voriconazole	C0393080	voriconazole
+Warfarine	A7471213	MSHFRE	Warfarine	C0043031	Warfarin
+Xipamide	A0134573	RCD	Xipamide	C0043355	Xipamide
+Ziconotide	A10340718	RXNORM	ziconotide	C0211011	ziconotide
+Zofenopril	A10337991	RXNORM	zofenopril	C0078836	zofenopril
+Zolmitriptan	A10339697	RXNORM	zolmitriptan	C0528166	zolmitriptan
+Zolpidem	A13063065	MSHCZE	zolpidem	C0034255	Pyridines
+Zonisamide	A0239719	MMSL	zonisamide	C0078844	zonisamide
+Zopiclone	A10337997	RXNORM	zopiclone	C0078847	zopiclone
+Zuclopenthixol	A0135046	RCD	Zuclopenthixol	C0376160	Zuclopenthixol
+Abatacept	A26523605	MSHCZE	abatacept	C1619966	abatacept
+Abiraterone	A19311056	RXNORM	abiraterone	C0754011	abiraterone
+Acide acetohydroxamique	 non trouvé
+Acide ascorbique	A7439878	MSHFRE	Acide ascorbique	C0003968	Ascorbic Acid
+Acide cholique	A7439902	MSHFRE	Acide cholique	C0055568	Cholic Acid
+Acide fusidique	A7439942	MSHFRE	Acide fusidique	C0016875	Fusidic Acid
+Acide nicotinique	A7440004	MSHFRE	Acide nicotinique	C0027996	Niacin
+Afatinib	A19030700	NCI	Afatinib	C2987648	Afatinib
+Albendazole	A0021236	RCD	Albendazole	C0001911	Albendazole
+Aldesleukine	 non trouvé
+Alpha-tocopherol	A0003090	MSH	alpha Tocopherol	C0969677	alpha Tocopherol
+Ambrisentan	A12939157	RXNORM	ambrisentan	C1176329	ambrisentan
+Aminoglutethimide	A0022765	MSH	Aminoglutethimide	C0002555	Aminoglutethimide
+Anagrelide	A0161163	MMSL	anagrelide	C0051809	anagrelide
+Anakinra	A13526760	MSHCZE	anakinra	C0245109	anakinra
+Aprepitant	A10483523	RXNORM	aprepitant	C1176306	aprepitant
+Ataluren	A24637813	NDDF	ataluren	C2930764	ataluren
+Atovaquone	A0649153	RCD	Atovaquone	C0165603	Atovaquone
+Aztreonam	A13057485	MSHCZE	aztreonam	C0004521	Aztreonam
+Bedaquiline	A21149281	MMSL	bedaquiline	C1664205	bedaquiline
+Belatacept	A19394802	NDDF	belatacept	C1619962	belatacept
+Bosentan	A0474964	MMSL	bosentan	C0252643	bosentan
+Botulique (toxine)	A18940549	MSHFRE	Anti-toxine botulique	C0006044	Botulinum Antitoxin
+Buspirone	A0033413	RCD	Buspirone	C0006462	Buspirone
+Cafeine	 non trouvé
+Calcitonine	A7444518	MSHFRE	Calcitonine	C0006668	Calcitonin
+Calcium	A0033964	LCH	Calcium	C0006675	Calcium
+Cefalotine	 non trouvé
+Cefoperazone	A0036217	SNMI	Cefoperazone	C0007552	Cefoperazone
+Cefotetan	A13055115	MSHCZE	cefotetan	C0007555	Cefotetan
+Ceftriaxone	A0036258	RCD	Ceftriaxone	C0007561	Ceftriaxone
+Cinacalcet	A10634386	RXNORM	cinacalcet	C1337242	cinacalcet
+Colchicine	A0040699	MMSL	Colchicine	C0009262	Colchicine
+Cyanocobalamine	A7447703	MSHFRE	Cyanocobalamine	C0042845	Vitamin B 12
+Daclatasvir	A20041278	MSH	daclatasvir	C3252090	daclatasvir
+Dalfopristine	A24986913	LNC-FR-FR	Quinupristine+dalfopristine [Sensibilité] Isolat ; Alphanumérique	C0881020	Quinupristin+Dalfopristin:Susc:Pt:Isolate:OrdQn
+Danazol	A13066295	MSHCZE	danazol	C0010961	Danazol
+Dantrolene	A0045331	LCH	Dantrolene	C0010976	Dantrolene
+Daptomycine	A7447994	MSHFRE	Daptomycine	C0057144	Daptomycin
+Dasabuvir	A24126012	MSH	dasabuvir	C3852512	dasabuvir
+Deferasirox	A10728579	RXNORM	deferasirox	C1619629	deferasirox
+Deferiprone	A10338112	RXNORM	deferiprone	C0043832	deferiprone
+Deferoxamine	A0045809	SNMI	Deferoxamine	C0011145	Deferoxamine
+Defibrotide	A0177780	MSH	defibrotide	C0057257	defibrotide
+Delamanid	A26589425	SNOMEDCT_US	Delamanid	C3489682	Delamanid
+Didanosine	A0048465	RCD	Didanosine	C0012133	Didanosine
+Diprophylline	A10760681	NCI	Diprophylline	C0013360	Dyphylline
+Dipyridamole	A0049464	MMSL	Dipyridamole	C0012582	Dipyridamole
+Ebastine	A10337188	RXNORM	ebastine	C0058895	ebastine
+Econazole	A0052569	RCD	Econazole	C0013547	Econazole
+Eltrombopag	A11916286	PDQ	eltrombopag	C1831905	eltrombopag
+Etravirine	A14206242	RXNORM	etravirine	C1456409	etravirine
+Exemestane	A0295698	MMSL	exemestane	C0851344	exemestane
+Ezetimibe	A10413553	RXNORM	ezetimibe	C1142985	ezetimibe
+Fidaxomicine	A25619063	LNC-FR-FR	Fidaxomicine [Sensibilité] Isolat ; Alphanumérique	C3654385	Fidaxomicin:Susc:Pt:Isolate:OrdQn
+Flucytosine	A0059839	RCD	Flucytosine	C0016278	Flucytosine
+Glycerol	A13053827	MSHCZE	glycerol	C0017861	Glycerin
+Guanethidine	A0065185	RCD	Guanethidine	C0018318	Guanethidine
+Idelalisib	A24115347	NDDF	idelalisib	C2698692	idelalisib
+Insuline	A7454961	MSHFRE	Insuline	C0021641	Insulin
+Interferon alfa	A13046940	MSHCZE	interferon alfa	C0002199	Interferon-alpha
+Isavuconazole	A11916311	PDQ	isavuconazole	C1832021	isavuconazole
+Isoprenaline	A0076109	RCD	Isoprenaline	C0022245	Isoproterenol
+Ivacaftor	A20173002	NDDF	ivacaftor	C3264621	ivacaftor
+Lamivudine	A0729718	RCD	Lamivudine	C0209738	Lamivudine
+Lenalidomide	A10075449	MMSL	lenalidomide	C1144149	lenalidomide
+Levocarnitine	A10349987	RXNORM	Levocarnitine	C0087163	Levocarnitine
+Lithium	A13037370	MSHCZE	lithium	C0023870	Lithium
+Lomitapide	A18451897	MSH	lomitapide	C2827241	lomitapide
+Lurasidone	A18723839	RXNORM	lurasidone	C2003424	lurasidone
+Macitentan	A19022716	NCI	Macitentan	C2606556	Macitentan
+Mannitol	A13054150	MSHCZE	mannitol	C0024730	Mannitol
+Maraviroc	A13089483	RXNORM	maraviroc	C1667052	maraviroc
+Metformine	A7457652	MSHFRE	Metformine	C0025598	Metformin
+Methenamine	A0085605	RCD	Methenamine	C0025638	Methenamine
+Metyrapone	A0086161	RCD	Metyrapone	C0025876	Metyrapone
+Miconazole	A0086309	LCH	Miconazole	C0025942	Miconazole
+Mitotane	A0087119	MSH	Mitotane	C0026256	Mitotane
+Modafinil	A0204965	MMSL	modafinil	C0066677	modafinil
+Montelukast	A10350252	RXNORM	montelukast	C0298130	montelukast
+Mycophenolate mofetil	A0367768	CSP	mycophenolate mofetil	C0209368	mycophenolate mofetil
+Mycophenolate sodique	 non trouvé
+Olaparib	A23910729	NCI_NCI-GLOSS	olaparib	C2316164	olaparib
+Ondansetron	A13051087	MSHCZE	ondansetron	C0061851	Ondansetron
+Or	 non trouvé
+Orlistat	A0295573	CSP	orlistat	C0076275	orlistat
+Paracetamol	A24275359	MSHCZE	paracetamol	C0000970	Acetaminophen
+Peg-interferon alfa-2a	A18027224	NDFRT	PEG-interferon alfa-2A	C0391001	peginterferon alfa-2a
+Pemetrexed	A26534429	MSHCZE	pemetrexed	C0210657	pemetrexed
+Pentoxifylline	A0098846	MSH	Pentoxifylline	C0030899	Pentoxifylline
+Pirfenidone	A18636872	CHV	pirfenidone	C0298067	pirfenidone
+Polymyxine b	A7462063	MSHFRE	Polymyxine B	C0032535	Polymyxin B
+Povidone iodee	 non trouvé
+Praziquantel	A13050295	MSHCZE	praziquantel	C0032911	Praziquantel
+Pristinamycine	A7462542	MSHFRE	Pristinamycine	C0205996	Pristinamycin
+Pyrazinamide	A0108222	MMSL	Pyrazinamide	C0034239	Pyrazinamide
+Pyrimethamine	A0108321	RCD	Pyrimethamine	C0034283	Pyrimethamine
+Quinupristine	A24986913	LNC-FR-FR	Quinupristine+dalfopristine [Sensibilité] Isolat ; Alphanumérique	C0881020	Quinupristin+Dalfopristin:Susc:Pt:Isolate:OrdQn
+Racecadotril	A18632053	CHV	racecadotril	C0050461	racecadotril
+Raltegravir	A26545301	MSHCZE	raltegravir	C1871526	raltegravir
+Ranolazine	A10052920	MMSL	ranolazine	C0073633	ranolazine
+Regorafenib	A20965876	RXNORM	regorafenib	C2980094	regorafenib
+Reserpine	A0111219	LCH	Reserpine	C0035179	Reserpine
+Ribavirine	A7465490	MSHFRE	Ribavirine	C0035525	Ribavirin
+Rilpivirine	A16765182	NCI	Rilpivirine	C1566826	Rilpivirine
+Rufinamide	A16028187	RXNORM	rufinamide	C0213404	rufinamide
+Salmeterol	A0226285	MMSL	salmeterol	C0073992	salmeterol
+Simeprevir	A26538062	MSHCZE	simeprevir	C2605855	simeprevir
+Sodium (aurothiopropanolsulfonate de)	 non trouvé
+Sodium (chlorure de)	A11383237	MSHFRE	Chlorure de sodium	C0037494	Sodium Chloride
+Sofosbuvir	A26541661	MSHCZE	sofosbuvir	C2976303	sofosbuvir
+Sorbitol	A13042251	MSHCZE	sorbitol	C0037688	Sorbitol
+Stavudine	A0295265	RCD	Stavudine	C0164662	Stavudine
+Stiripentol	A21073769	NDDF	stiripentol	C0075262	stiripentol
+Strontium	A0120212	LCH	Strontium	C0038467	Strontium
+Sucralfate	A0120713	MMSL	Sucralfate	C0038633	Sucralfate
+Sulfinpyrazone	A0121045	LCH	Sulfinpyrazone	C0038742	Sulfinpyrazone
+Tamoxifene	A7554446	MSHITA	Tamoxifene	C0039286	Tamoxifen
+Telbivudine	A11276321	MSH	telbivudine	C1453933	telbivudine
+Terbinafine	A0232408	MMSL	terbinafine	C0076110	terbinafine
+Tiabendazole	A18631492	CHV	tiabendazole	C0039832	Thiabendazole
+Tianeptine	A0233710	AOD	tianeptine	C0076652	tianeptine
+Tibolone	A10337901	RXNORM	tibolone	C0076660	tibolone
+Trabectedine	 non trouvé
+Triclabendazole	A18576582	CHV	triclabendazole	C0077071	triclabendazole
+Vemurafenib	A19613644	MTHSPL	Vemurafenib	C3192263	Vemurafenib
+Vidarabine	A0132421	MSH	Vidarabine	C0042646	Vidarabine
+Vismodegib	A19579748	MSH	vismodegib	C2987716	vismodegib
+Vitamine a	A20004288	MSHFRE	Vitamine A	C0042839	Vitamin A
+Yohimbine	A7535383	MSHGER	Yohimbine	C0043420	Yohimbans
+Zalcitabine	A0361170	MSH	Zalcitabine	C0012132	Zalcitabine
+Zidovudine	A0134898	MSH	Zidovudine	C0043474	Zidovudine
+Zinc	A0134924	LCH	Zinc	C0043481	Zinc

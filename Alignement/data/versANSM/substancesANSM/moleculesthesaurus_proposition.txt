@@ -1,0 +1,1131 @@
+abatacept	8.974533	abatacept	97144
+abciximab c 7e3b fab 	3.2627773	abciximab  c7e3b fab 	99176
+abiraterone	5.609083	acetate d abiraterone	37304
+acebutolol	8.058241	acebutolol	63130
+aceclofenac	8.974533	aceclofenac	62180
+acenocoumarol	8.974533	acenocoumarol	998
+acepromazine	5.3556676	acepromazine  maleate d  	1000
+aceprometazine	5.3556676	aceprometazine  maleate d  	1001
+acetazolamide	8.974533	acetazolamide	1006
+acetylsulfafurazol	pas trouvé
+aciclovir	8.974533	aciclovir	25715
+acide acetohydroxamique	0.6365602	acide salicylique	690
+acide acetylsalicylique	6.101536	acetylsalicylique  acide 	5
+acide alendronique	6.101536	acide alendronique	35532
+acide amidotrizoique	0.6365602	acide salicylique	690
+acide ascorbique	6.101536	ascorbique  acide 	1023
+acide chenodesoxycholique	6.325139	acide chenodesoxycholique	345
+acide cholique	6.325139	acide cholique	767
+acide clodronique	0.6365602	acide salicylique	690
+acide etidronique	0.6365602	acide salicylique	690
+acide folinique	6.101536	acide l folinique	67056
+acide folique	6.101536	folique  acide 	1040
+acide fusidique	5.823306	fusidique  acide 	2160
+acide ibandronique	5.823306	acide ibandronique	24277
+acide ioxaglique	0.6365602	acide salicylique	690
+acide ioxitalamique	0.6365602	acide salicylique	690
+acide medronique	6.101536	acide medronique	26808
+acide mefenamique	6.325139	acide mefenamique	1056
+acide nicotinique	6.101536	acide nicotinique	1061
+acide niflumique	6.101536	acide niflumique	1062
+acide oxidronique	0.6365602	acide salicylique	690
+acide pamidronique	6.325139	pamidronique  acide 	44842
+acide risedronique	6.101536	acide risedronique	99915
+acide tiaprofenique	6.101536	acide tiaprofenique	3385
+acide tiludronique	6.325139	tiludronique  acide 	39065
+acide ursodesoxycholique	6.101536	acide ursodesoxycholique	981
+acide valproique	6.101536	valproique  acide 	25252
+acide zoledronique	4.580032	acide zoledronique anhydre	41881
+acitretine	8.974533	acitretine	8578
+adalimumab	8.974533	adalimumab	80114
+adefovir	8.569068	adefovir	58472
+adrenaline	7.72177	adrenaline	1080
+agomelatine	8.974533	agomelatine	38188
+albendazole	8.974533	albendazole	3348
+alcool boisson ou excipient 	0.78712046	alcool	35
+alcuronium	5.609083	alcuronium  chlorure d  	1086
+aldesleukine	8.974533	aldesleukine	17295
+alfacalcidol	8.974533	alfacalcidol	988
+alfentanil	8.569068	alfentanil	5922
+alfuzosine	5.3556676	chlorhydrate d alfuzosine	60310
+alimemazine	8.569068	alimemazine	1090
+aliskiren	pas trouvé
+alitretinoine	8.974533	alitretinoine	62086
+alizapride	8.569068	alizapride	32273
+allobarbital	pas trouvé
+allopurinol	8.974533	allopurinol	1097
+alminoprofene	8.974533	alminoprofene	20863
+almotriptan	8.058241	almotriptan	64860
+alpha pinene	6.6881332	alpha pinene	54952
+alpha tocopherol	6.016741	alpha tocopherol	923
+alprazolam	8.974533	alprazolam	13112
+alteplase recombinante	3.7087843	alteplase	56894
+altizide	8.974533	altizide	1106
+altretamine	8.974533	altretamine	868
+amantadine	5.3556676	amantadine  chlorhydrate d  	42
+ambenonium	5.609083	ambenonium  chlorure d  	1110
+ambrisentan	8.974533	ambrisentan	95484
+amifostine	5.3556676	amifostine anhydre	73916
+amikacine	8.281385	amikacine	22273
+amiloride	4.9224505	chlorhydrate d amiloride	3149
+aminoglutethimide	8.974533	aminoglutethimide	1961
+aminophylline	8.974533	aminophylline	1130
+amiodarone	5.3556676	chlorhydrate d amiodarone	5386
+amisulpride	8.974533	amisulpride	9231
+amitriptyline	8.281385	amitriptyline	1140
+amlodipine	8.281385	amlodipine	39727
+amobarbital	pas trouvé
+amoxapine	8.974533	amoxapine	877
+amoxicilline	7.875921	amoxicilline	5248
+amphotericine b	8.974533	amphotericine b	1150
+ampicilline	5.036401	ampicilline trihydratee	3155
+amprenavir	8.974533	amprenavir	85581
+amsacrine	8.974533	amsacrine	16948
+anagrelide	8.569068	anagrelide	69478
+anakinra	8.974533	anakinra	65595
+androstanolone	8.974533	androstanolone	50
+apixaban	8.974533	apixaban	61321
+apomorphine	5.3556676	chlorhydrate d apomorphine	52
+aprepitant	8.974533	aprepitant	84452
+argatroban	5.609083	argatroban monohydrate	61676
+aripiprazole	8.974533	aripiprazole	96835
+arsenieux	5.609083	arsenieux  anhydride 	6247
+artenimol	8.974533	artenimol	84578
+asenapine	8.281385	asenapine	32069
+asparaginase	8.974533	asparaginase	57
+atazanavir	8.281385	atazanavir	27570
+atenolol	8.974533	atenolol	762
+atomoxetine	8.281385	atomoxetine	70797
+atorvastatine	7.72177	atorvastatine	19809
+atovaquone	8.974533	atovaquone	3009
+atracurium	8.281385	atracurium	34378
+atropine	7.875921	atropine	10321
+avanafil	8.974533	avanafil	92375
+avizafone	5.609083	chlorhydrate d avizafone	28231
+axitinib	8.974533	axitinib	46333
+azacitidine	8.974533	azacitidine	88044
+azatadine	pas trouvé
+azathioprine	8.974533	azathioprine	1200
+azelastine	8.281385	azelastine	75817
+azilsartan	5.3556676	azilsartan medoxomil	96646
+azithromycine	8.058241	azithromycine	96035
+aztreonam	8.569068	aztreonam	79481
+bacampicilline	4.4872665	bacampicilline  chlorhydrate de 	954
+baclofene	8.974533	baclofene	812
+bambuterol	4.4872665	chlorhydrate de bambuterol	50858
+barbital	pas trouvé
+barnidipine	5.3556676	barnidipine base	32805
+bcg	4.1406927	vaccin bcg cryodesseche	3181
+bedaquiline	pas trouvé
+befunolol	4.4872665	befunolol  chlorhydrate de 	7862
+benazepril	4.284534	benazepril  chlorhydrate de 	14049
+bendamustine	4.4872665	bendamustine  chlorhydrate de 	94401
+bendroflumethiazide	8.974533	bendroflumethiazide	1215
+benethamine penicilline	7.7553205	benethamine penicilline	443
+benzalkonium	3.9379604	chlorure de benzalkonium	4771
+benzbromarone	8.974533	benzbromarone	150
+benzylpenicilline	5.036401	benzathine benzylpenicilline	5033
+betamethasone	7.2697845	betamethasone	1261
+beta pinene	7.023362	beta pinene	22617
+betaxolol	5.175866	betaxolol base	36349
+bezafibrate	8.974533	bezafibrate	10803
+biperidene	4.4872665	chlorhydrate de biperidene	1274
+bisacodyl	8.974533	bisacodyl	73
+bisoprolol	7.72177	bisoprolol	97658
+bleomycine	8.569068	bleomycine	55004
+bleu de methylene	5.9296107	bleu de methylene	1281
+boceprevir	8.974533	boceprevir	67851
+boldo	7.1027308	boldo	132
+bortezomib	8.974533	bortezomib	98525
+bosentan	8.281385	bosentan	39357
+bosutinib	8.569068	bosutinib	36680
+botulique toxine 	6.1058083	botulique  toxine  type b	62942
+bourdaine	7.4704556	bourdaine	134
+bromazepam	8.974533	bromazepam	907
+bromocriptine	5.175866	bromocriptine base	92297
+brompheniramine	4.284534	maleate de brompheniramine	3178
+brotizolam	8.974533	brotizolam	11498
+buclizine	4.4872665	chlorhydrate de buclizine	1307
+budesonide	8.974533	budesonide	24381
+bumetanide	8.974533	bumetanide	569
+buprenorphine	8.281385	buprenorphine	54459
+bupropion	pas trouvé
+buspirone	4.284534	chlorhydrate de buspirone	1354
+busulfan	8.974533	busulfan	1317
+butalbital	pas trouvé
+butobarbital	8.974533	butobarbital	1330
+cabazitaxel	8.974533	cabazitaxel	97952
+cabergoline	8.974533	cabergoline	32131
+cabozantinib	8.281385	cabozantinib	97435
+cafedrine	4.4872665	cafedrine  chlorhydrate de 	3418
+cafeine	8.281385	cafeine	420
+cajeput	4.4872665	cajeput  huile essentielle de 	776
+calcitonine	4.0291204	calcitonine de saumon	359
+calcitriol	8.974533	calcitriol	8112
+calcium	3.4051075	calcium element	72723
+camazepam	pas trouvé
+camphre	8.058241	camphre	436
+candesartan cilexetil	7.932441	candesartan cilexetil	73594
+canrenoate de potassium	5.4586105	canrenoate de potassium	3102
+capecitabine	8.974533	capecitabine	91877
+captodiame	4.4872665	captodiame  chlorhydrate de 	437
+captopril	8.974533	captopril	21053
+carbamazepine	8.974533	carbamazepine	1351
+carbinoxamine	4.284534	maleate de carbinoxamine	3205
+carboplatine	8.974533	carboplatine	5865
+carbutamide	8.974533	carbutamide	1988
+carmustine	8.974533	carmustine	8011
+carpipramine	5.3556676	carpipramine base	24316
+carteolol	5.175866	carteolol base	96827
+carvedilol	8.974533	carvedilol	27222
+cascara	7.72177	cascara	16514
+cascara sagrada	5.1796746	cascara sagrada pour preparations homeopathiques	9146
+catioresine sulfo sodique	0.77340645	catioresine carboxylate de nicotine	30981
+cefalotine	8.569068	cefalotine	63303
+cefamandole	5.175866	cefamandole base	73366
+cefoperazone	8.569068	cefoperazone	62399
+cefotetan	8.569068	cefotetan	98532
+ceftriaxone	7.72177	ceftriaxone	35232
+celecoxib	8.974533	celecoxib	63854
+celiprolol	8.281385	celiprolol	78429
+certoluzumab	pas trouvé
+cetalkonium	4.4872665	chlorure de cetalkonium	22114
+charbon active	7.448004	charbon active	4204
+charbon vegetal officinal	7.2148423	charbon vegetal officinal	447
+chlorambucil	8.974533	chlorambucil	1393
+chlordiazepoxide	8.974533	chlordiazepoxide	1400
+chlormadinone	4.284534	acetate de chlormadinone	2245
+chlormethine	4.4872665	chlorhydrate de chlormethine	5290
+chloroquine	8.058241	chloroquine	21497
+chlorphenamine	4.284534	maleate de chlorphenamine	3193
+chlorphenoxamine	4.4872665	chlorhydrate de chlorphenoxamine	1426
+chlorproethazine	4.4872665	chlorhydrate de chlorproethazine	74046
+chlorpromazine	8.569068	chlorpromazine	1430
+chlorpropamide	8.974533	chlorpropamide	1431
+chlortalidone	8.974533	chlortalidone	1434
+chlortetracycline	4.4872665	chlorhydrate de chlortetracycline	3188
+cholecalciferol	7.875921	cholecalciferol	1525
+cibenzoline	8.281385	cibenzoline	15911
+ciclesonide	8.974533	ciclesonide	74522
+cicletanine	4.284534	cicletanine  chlorhydrate de 	7289
+ciclosporine	8.974533	ciclosporine	26649
+cidofovir	5.3556676	cidofovir anhydre	51900
+cilazapril	8.281385	cilazapril	76788
+cilostazol	8.974533	cilostazol	72059
+cimetidine	8.281385	cimetidine	587
+cinacalcet	8.281385	cinacalcet	81461
+cineole	8.974533	cineole	3666
+ciprofibrate	8.974533	ciprofibrate	11650
+ciprofloxacine	7.72177	ciprofloxacine	66431
+cisatracurium	8.569068	cisatracurium	53028
+cisplatine	8.974533	cisplatine	873
+citalopram	7.875921	citalopram	57088
+citrate de gallium 67ga 	6.882753	citrate de gallium  67ga 	44025
+cladribine	8.974533	cladribine	97330
+clarithromycine	8.974533	clarithromycine	24563
+clevidipine	8.974533	clevidipine	39398
+clidinium	4.4872665	clidinium  bromure de 	912
+clindamycine	7.72177	clindamycine	48296
+clobazam	8.974533	clobazam	461
+clocinizine	4.4872665	chlorhydrate de clocinizine	1472
+clofarabine	8.974533	clofarabine	94880
+clofibrate	8.974533	clofibrate	1484
+clomipramine	4.284534	chlorhydrate de clomipramine	1493
+clonazepam	8.974533	clonazepam	463
+clonidine	4.4872665	clonidine  chlorhydrate de 	464
+clopamide	8.974533	clopamide	1498
+clopidogrel	7.3650947	clopidogrel	54693
+clorazepate	5.609083	clorazepate dipotassique	1507
+clotiazepam	8.974533	clotiazepam	20441
+cloxacilline	8.569068	cloxacilline	13835
+cloxazolam	pas trouvé
+clozapine	8.974533	clozapine	74798
+cobicistat	8.974533	cobicistat	56996
+codeine	7.182773	codeine	467
+colchicine	8.974533	colchicine	469
+colesevelam	4.4872665	colesevelam  chlorhydrate de 	50447
+colestilan	pas trouvé
+colestyramine	8.974533	colestyramine	1526
+colistine	4.4872665	sulfate de colistine	4823
+cortisone	4.4872665	acetate de cortisone	5409
+cortivazol	8.974533	cortivazol	471
+crizotinib	8.974533	crizotinib	46435
+cyamemazine	8.281385	cyamemazine	8846
+cyanocobalamine	8.569068	cyanocobalamine	1539
+cyclizine	4.4872665	chlorhydrate de cyclizine	1547
+cyclobarbital	pas trouvé
+cyclopentolate	4.4872665	cyclopentolate  chlorhydrate de 	5777
+cyclophosphamide	8.281385	cyclophosphamide	1556
+cyclothiazide	8.974533	cyclothiazide	1561
+cyproheptadine	8.569068	cyproheptadine	32109
+cyproterone	4.284534	acetate de cyproterone	987
+cytarabine	8.974533	cytarabine	1574
+dabigatran	4.284534	dabigatran etexilate base	82447
+dabrafenib	8.569068	dabrafenib	44109
+dacarbazine	8.569068	dacarbazine	141
+daclatasvir	8.569068	daclatasvir	77015
+dactinomycine	8.974533	dactinomycine	43031
+dalfopristine	5.3556676	dalfopristine base	89443
+dalteparine sodique	6.365579	dalteparine sodique	62595
+danaparoide sodique	6.365579	danaparoide sodique	70130
+danazol	8.974533	danazol	945
+dantrolene	5.609083	dantrolene sodique	836
+dapoxetine	8.569068	dapoxetine	27287
+dapsone	8.974533	dapsone	5525
+daptomycine	8.974533	daptomycine	46167
+darifenacine	8.569068	darifenacine	59568
+darunavir	8.569068	darunavir	28847
+dasatinib	5.609083	dasatinib monohydrate	19755
+daunorubicine	8.281385	daunorubicine	54643
+decitabine	8.974533	decitabine	54962
+deferasirox	8.974533	deferasirox	87487
+defibrotide	8.974533	defibrotide	68391
+delamanid	8.974533	delamanid	43009
+delorazepam	pas trouvé
+demeclocycline	5.3556676	demeclocycline base	70512
+desflurane	8.974533	desflurane	72602
+desipramine	4.4872665	desipramine  chlorhydrate de 	3306
+desirudine	8.974533	desirudine	67433
+deslanoside	8.974533	deslanoside	1602
+desmopressine	8.281385	desmopressine	45293
+desogestrel	8.974533	desogestrel	27380
+desoxycortone	4.4872665	acetate de desoxycortone	482
+dexamethasone	7.2697845	dexamethasone	1608
+dexchlorpheniramine	4.4872665	maleate de dexchlorpheniramine	3218
+dexketoprofene trometamol	7.27418	dexketoprofene trometamol	93236
+dexmedetomidine	8.569068	dexmedetomidine	76710
+dexrazoxane	8.569068	dexrazoxane	31269
+dextran	7.875921	dextran	6625
+dextromethorphane	7.875921	dextromethorphane	73427
+dextromoramide	8.569068	dextromoramide	10795
+di acefylline diphenhydramine	7.142135	di acefylline  diphenhydramine	4906
+diazepam	8.974533	diazepam	1637
+dibekacine	pas trouvé
+dicitrate trimagnesien	pas trouvé
+diclofenac	7.5882387	diclofenac	36592
+dicloxacilline	8.569068	dicloxacilline	28223
+didanosine	8.974533	didanosine	10627
+dienogest	8.974533	dienogest	49665
+diethylstilbestrol	8.974533	diethylstilbestrol	1663
+digitoxine	8.974533	digitoxine	1671
+digoxine	8.974533	digoxine	1672
+dihexyverine	4.4872665	chlorhydrate de dihexyverine	1673
+dihydralazine	7.875921	dihydralazine	88236
+dihydrocodeine	8.569068	dihydrocodeine	99154
+dihydroergotamine	5.175866	dihydroergotamine base	81034
+diltiazem	4.284534	chlorhydrate de diltiazem	915
+dimenhydrinate	8.974533	dimenhydrinate	1691
+dinitrate d isosorbide	6.9754314	dinitrate d isosorbide	4979
+diosmectite	8.974533	diosmectite	9414
+diphemanil	4.4872665	diphemanil  methylsulfate de 	3219
+diphenhydramine	4.1406927	chlorhydrate de diphenhydramine	2678
+diprophylline	8.974533	diprophylline	1738
+dipyridamole	8.974533	dipyridamole	1743
+dirithromycine	8.974533	dirithromycine	56923
+disopyramide	8.281385	disopyramide	1745
+disulfirame	8.974533	disulfirame	1747
+docetaxel	8.281385	docetaxel	38643
+dofetilide	pas trouvé
+dolasetron	5.3556676	dolasetron base	56406
+dolutegravir	8.569068	dolutegravir	68669
+domperidone	8.974533	domperidone	984
+donepezil	7.72177	donepezil	70320
+dopamine	4.284534	chlorhydrate de dopamine	5249
+dosulepine	4.4872665	dosulepine  chlorhydrate de 	87
+doxazosine	8.281385	doxazosine	55340
+doxepine	8.569068	doxepine	19558
+doxorubicine	4.284534	doxorubicine  chlorhydrate de 	3236
+doxycycline	7.2697845	doxycycline	28372
+doxylamine	4.1406927	hydrogenosuccinate de doxylamine	3225
+dronedarone	8.569068	dronedarone	46472
+droperidol	8.974533	droperidol	1758
+drospirenone	8.974533	drospirenone	18867
+duloxetine	8.058241	duloxetine	72101
+dydrogesterone	8.974533	dydrogesterone	1765
+ebastine	8.974533	ebastine	12870
+econazole	8.058241	econazole	11144
+efavirenz	8.974533	efavirenz	17256
+eletriptan	8.569068	eletriptan	65817
+eltrombopag	8.569068	eltrombopag	83586
+elvitegravir	8.974533	elvitegravir	94549
+enalapril	8.281385	enalapril	67432
+enflurane	8.974533	enflurane	5727
+enoxacine	5.3556676	enoxacine sesquihydrate	8050
+enoxaparine	5.609083	enoxaparine sodique	8351
+entacapone	8.974533	entacapone	87471
+enzalutamide	8.974533	enzalutamide	85141
+ephedrine	7.72177	ephedrine	493
+epirubicine	5.3556676	chlorhydrate d epirubicine	40628
+eplerenone	8.974533	eplerenone	62172
+epoprostenol	8.569068	epoprostenol	39476
+eprosartan	8.569068	eprosartan	21825
+eptifibatide	8.974533	eptifibatide	27179
+ergocalciferol	8.974533	ergocalciferol	1339
+ergotamine	5.3556676	ergotamine  tartrate d  	4281
+eribuline	8.569068	eribuline	21374
+erlotinib	8.569068	erlotinib	56421
+ertapenem	8.569068	ertapenem	32693
+erythromycine	7.3650947	erythromycine	1785
+escitalopram	8.281385	escitalopram	89971
+eslicarbamazepine	pas trouvé
+esmolol	5.3556676	esmolol  chlorhydrate d  	10471
+esomeprazole	7.72177	esomeprazole	17407
+estazolam	8.974533	estazolam	742
+estradiol	7.2697845	estradiol	1786
+estramustine	5.3556676	estramustine phosphate	34630
+estriol	8.974533	estriol	1778
+estrogenes sulfoconjugues equins	3.2627773	estrogenes sulfoconjuges equins	3082
+estrone	8.974533	estrone	1789
+etanercept	8.974533	etanercept	24075
+ethinylestradiol	8.569068	ethinylestradiol	1807
+ethosuximide	8.974533	ethosuximide	1813
+ethylmorphine	8.281385	ethylmorphine	1522
+etifoxine	5.609083	etifoxine  chlorhydrate d  	934
+etilefrine	5.609083	etilefrine  chlorhydrate d  	1853
+etodolac	8.974533	etodolac	8610
+etonogestrel	8.974533	etonogestrel	36376
+etoposide	8.569068	etoposide	713
+etorecoxib	pas trouvé
+etretinate	8.974533	etretinate	25343
+eucalyptus	7.4704556	eucalyptus	74480
+eugenol	8.974533	eugenol	3806
+everolimus	8.974533	everolimus	94553
+exemestane	8.974533	exemestane	39306
+ezetimibe	8.974533	ezetimibe	73242
+famotidine	8.974533	famotidine	4034
+fampridines	pas trouvé
+febuxostat	8.974533	febuxostat	89276
+felbamate	8.974533	felbamate	55410
+felodipine	8.974533	felodipine	56173
+fenbufene	pas trouvé
+fenofibrate	8.974533	fenofibrate	3902
+fenoprofene	8.569068	fenoprofene	291
+fenspiride	4.284534	chlorhydrate de fenspiride	3314
+fentanyl	8.058241	fentanyl	17477
+fer	7.3650947	fer	34855
+fesoterodine	8.569068	fesoterodine	93951
+fidaxomicine	8.974533	fidaxomicine	26382
+fingolimod	8.569068	fingolimod	85211
+flecainide	4.284534	acetate de flecainide	3226
+fleroxacine	8.974533	fleroxacine	46668
+fluanisone	8.974533	fluanisone	1913
+fluconazole	8.974533	fluconazole	11279
+flucytosine	8.974533	flucytosine	3315
+fludarabine	4.4872665	phosphate de fludarabine	45009
+fludiazepam	pas trouvé
+fludrocortisone	8.569068	fludrocortisone	70502
+fluindione	8.974533	fluindione	3459
+flunarizine	5.3556676	flunarizine base	27488
+flunitrazepam	8.974533	flunitrazepam	802
+fluorouracile	8.974533	fluorouracile	1931
+fluoxetine	5.175866	fluoxetine base	48800
+flupentixol	5.175866	flupentixol base	89752
+fluphenazine	4.0291204	decanoate de fluphenazine	3302
+flurazepam	4.4872665	flurazepam  chlorhydrate de 	11630
+flurbiprofene	8.569068	flurbiprofene	594
+flutamide	8.974533	flutamide	6092
+fluticasone	4.1406927	propionate de fluticasone	41788
+fluvastatine	8.281385	fluvastatine	80889
+fluvoxamine	4.284534	fluvoxamine  maleate de 	23046
+fondaparinux	5.609083	fondaparinux sodique	71082
+fosamprenavir	8.569068	fosamprenavir	94100
+foscarnet	4.4872665	foscarnet sodique hexahydrate	69062
+fosinopril	8.569068	fosinopril	64036
+fosphenytoine	4.4872665	fosphenytoine sodique heptahydrate	47020
+fotemustine	8.974533	fotemustine	6292
+frovatriptan	8.281385	frovatriptan	35029
+furosemide	8.974533	furosemide	1958
+galantamine	8.058241	galantamine	32833
+ganciclovir	8.569068	ganciclovir	59696
+gefitinib	8.974533	gefitinib	78568
+gel d hydroxyde d aluminium et de carbonate de magnesium codesseches	5.8589396	gel d hydroxyde d aluminium et de carbonate de magnesium codesseches	204
+gemcitabine	8.569068	gemcitabine	38050
+gemfibrozil	8.974533	gemfibrozil	26942
+gemifloxacine	pas trouvé
+gentamicine	8.281385	gentamicine	47604
+glibenclamide	8.974533	glibenclamide	1976
+glibornuride	8.974533	glibornuride	526
+gliclazide	8.974533	gliclazide	527
+glimepiride	8.974533	glimepiride	71861
+glipizide	8.974533	glipizide	3332
+glycerol	8.974533	glycerol	532
+golimumab	8.974533	golimumab	16648
+griseofulvine	8.974533	griseofulvine	2006
+guanethidine	pas trouvé
+guanfacine	5.3556676	guanfacine base	82838
+halazepam	pas trouvé
+halofantrine	5.609083	chlorhydrate d halofantrine	10676
+haloperidol	8.569068	haloperidol	2019
+halothane	8.974533	halothane	4261
+haloxazolam	pas trouvé
+heparine calcique	6.580842	heparine calcique	4971
+heparine sodique	5.8672066	heparine sodique	2024
+heparine sodique iodure de sodium	5.5750046	heparine sodique iodure de sodium	5556
+hexobarbital	pas trouvé
+hexylresorcinol	8.974533	hexylresorcinol	4956
+histapyrrodine	5.609083	chlorhydrate d histapyrrodine	2052
+homatropine	8.569068	homatropine	62296
+hydrochlorothiazide	8.974533	hydrochlorothiazide	2064
+hydrocortisone	7.3650947	hydrocortisone	2067
+hydromorphone	8.281385	hydromorphone	6776
+hydroquinidine	5.609083	hydroquinidine  chlorhydrate d  	5285
+hydrotalcite	8.974533	hydrotalcite	75804
+hydroxycarbamide	8.974533	hydroxycarbamide	2076
+hydroxyprogesterone	8.281385	hydroxyprogesterone	2082
+hydroxyzine	5.175866	chlorhydrate d hydroxyzine	2087
+ibuprofene	8.281385	ibuprofene	2092
+ibutilide	8.569068	ibutilide	90524
+idarubicine	5.609083	chlorhydrate d idarubicine	97217
+ifosfamide	8.974533	ifosfamide	29
+iloprost	8.569068	iloprost	21510
+iloprost trometamol	7.27418	iloprost trometamol	83696
+imatinib	8.058241	imatinib	60707
+imidapril	5.3556676	chlorhydrate d imidapril	32238
+imipenem	5.3556676	imipenem monohydrate	1983
+imipramine	5.609083	imipramine  chlorhydrate d  	5767
+immunoglobuline de lapin anti lymphocyte t humain	6.6035166	immunoglobuline de lapin anti lymphocyte t humain	47920
+immunoglobulines equines antilymphocyte humain	1.7620422	immunoglobulines equines anticartilage porcin et antiparathyroides bovines	13455
+indapamide	5.609083	indapamide hemihydrate	22336
+indinavir	5.3556676	indinavir base	15954
+indometacine	8.569068	indometacine	2099
+indoramine	5.3556676	indoramine  chlorhydrate d  	5862
+infliximab	8.974533	infliximab	32044
+insuline asparte isophane biphasique	7.147382	insuline asparte isophane biphasique	22787
+insuline asparte	6.068159	insuline asparte	33218
+insuline glargine	6.7669525	insuline glargine	44461
+insuline humaine biosynthetique	5.3958683	insuline humaine biosynthetique zinc  suspension d  	9476
+insuline humaine biosynthetique zinc	6.011407	insuline humaine biosynthetique zinc  suspension d  	9476
+insuline humaine hemisynthetique d origine porcine	7.214973	insuline humaine hemisynthetique d origine porcine	6756
+insuline humaine hemisynthetique isophane biphasique	6.8700128	insuline humaine hemisynthetique isophane biphasique	98385
+insuline humaine hemisynthetique isophane	5.9820013	insuline humaine hemisynthetique isophane  suspension d  	2277
+insuline humaine recombinante isophane biphasique	6.4744973	insuline humaine recombinante isophane biphasique	92781
+insuline humaine recombinante isophane	6.312295	insuline humaine recombinante isophane	51576
+insuline humaine recombinante	5.2185125	insuline humaine recombinante isophane	51576
+insuline humaine recombinante zinc cristalline	6.4750705	insuline humaine recombinante zinc cristalline	28777
+insuline humaine recombinante zinc	6.03357	insuline humaine recombinante zinc	35248
+insuline	3.7854764	insuline degludec	38062
+insuline lispro	6.3004103	insuline lispro	72525
+insuline porcine	6.209698	insuline porcine	4985
+interferon alfa	4.942396	interferon alfa 2b	2096
+iobitridol	8.974533	iobitridol	35195
+iodixanol	8.974533	iodixanol	92723
+iohexol	8.974533	iohexol	2596
+iomeprol	8.974533	iomeprol	47580
+iopamidol	8.974533	iopamidol	25037
+iopentol	8.974533	iopentol	17218
+iopromide	8.974533	iopromide	2293
+ioversol	8.974533	ioversol	77898
+ipratropium	4.742649	ipratropium  bromure d  	49189
+iproniazide	5.3556676	iproniazide  phosphate d  	2685
+irbesartan	8.281385	irbesartan	31416
+irinotecan	8.281385	irinotecan	73952
+isepamicine	8.569068	isepamicine	18034
+isoflurane	8.974533	isoflurane	11789
+isoniazide	8.974533	isoniazide	2693
+isoprenaline	5.3556676	isoprenaline  chlorhydrate d  	3865
+isosorbide	4.826106	mononitrate d isosorbide	7111
+isothipendyl	5.609083	chlorhydrate d isothipendyl	2699
+isotretinoine	8.974533	isotretinoine	6088
+isradipine	8.974533	isradipine	46883
+itraconazole	8.974533	itraconazole	99008
+ivabradine	8.281385	ivabradine	23247
+ivacaftor	8.974533	ivacaftor	91389
+josamycine	8.281385	josamycine	941
+jus de pamplemousse	0.054577827	hamamelis de virginie  feuille de   extrait de 	66251
+kanamycine	8.281385	kanamycine	19966
+kaolin lourd	7.27418	kaolin lourd	3133
+ketazolam	pas trouvé
+ketoconazole	8.974533	ketoconazole	22692
+ketoprofene	8.974533	ketoprofene	823
+ketotifene	7.875921	ketotifene	15401
+labetalol	4.284534	labetalol  chlorhydrate de 	946
+lacidipine	8.974533	lacidipine	86786
+lamivudine	8.569068	lamivudine	17878
+lamotrigine	8.974533	lamotrigine	37011
+lanreotide	5.3556676	lanreotide base	36755
+lansoprazole	8.974533	lansoprazole	23957
+lapatinib	8.569068	lapatinib	54913
+lenalidomide	8.974533	lenalidomide	64391
+lepirudine	8.974533	lepirudine	63775
+lercanidipine	8.281385	lercanidipine	83912
+levobunolol	4.284534	levobunolol  chlorhydrate de 	18812
+levodopa	8.974533	levodopa	3885
+levofloxacine	8.569068	levofloxacine	81234
+levomenthol	8.974533	levomenthol	568
+levomepromazine	7.875921	levomepromazine	2726
+levonorgestrel	8.974533	levonorgestrel	196
+levothyroxine	5.609083	levothyroxine sodique	382
+lidocaine	7.875921	lidocaine	5431
+linagliptine	8.974533	linagliptine	94968
+lincomycine	8.569068	lincomycine	89043
+linezolide	8.974533	linezolide	74148
+linsidomine	4.284534	chlorhydrate de linsidomine	60932
+liothyronine sodique	6.365579	liothyronine sodique	5596
+lisinopril	8.281385	lisinopril	15304
+lisuride	4.284534	maleate acide de lisuride	61297
+lithium	7.1027308	lithium	31554
+loflazepate	5.609083	loflazepate d ethyle	1041
+lomefloxacine	5.3556676	lomefloxacine base	73705
+lomitapide	8.569068	lomitapide	81723
+lomustine	8.974533	lomustine	5726
+lopinavir	8.974533	lopinavir	53145
+loprazolam	8.281385	loprazolam	56568
+lorazepam	8.974533	lorazepam	561
+lormetazepam	8.974533	lormetazepam	79562
+losartan	8.569068	losartan	64438
+loxapine	8.058241	loxapine	44214
+lumefantrine	8.974533	lumefantrine	24296
+lymecycline	8.974533	lymecycline	2742
+lynestrenol	8.974533	lynestrenol	2743
+macitentan	8.974533	macitentan	94926
+magaldrate	8.569068	magaldrate	45338
+magnesium hydroxyde de 	4.458244	magnesium  hydroxyde de 	4415
+magnesium trisilicate de 	5.132991	trisilicate de magnesium	3013
+manidipine	4.284534	manidipine  dichlorhydrate de 	53763
+maprotiline	4.0291204	maprotiline  mesilate de 	3402
+maraviroc	8.974533	maraviroc	91424
+meclozine	4.4872665	chlorhydrate de meclozine	5541
+medazepam	8.974533	medazepam	567
+medicaments administres par voie orale	1.2131696	argent colloidal par voie chimique	54
+medicaments utilises par voie vaginale	1.2131696	argent colloidal par voie chimique	54
+medrogestone	8.974533	medrogestone	2576
+medroxyprogesterone	4.284534	acetate de medroxyprogesterone	557
+mefenidramium	4.284534	metilsulfate de mefenidramium	1728
+mefloquine	8.569068	mefloquine	69862
+meloxicam	8.974533	meloxicam	37441
+melphalan	8.974533	melphalan	2590
+menthe	3.860885	feuille de menthe poivree	190
+menthol racemique	7.448004	menthol racemique	60308
+meprobamate	8.974533	meprobamate	2606
+mepyramine	4.4872665	maleate de mepyramine	3921
+mequitazine	8.974533	mequitazine	5007
+merbromine	5.609083	merbromine sodique	2615
+mercaptopurine	8.974533	mercaptopurine	2618
+meropenem	8.281385	meropenem	60167
+metformine	7.72177	metformine	4442
+methadone	4.284534	chlorhydrate de methadone	47784
+methenamine	8.569068	methenamine	2660
+methotrexate	8.569068	methotrexate	2345
+methoxyflurane	pas trouvé
+methyclothiazide	8.974533	methyclothiazide	2350
+methyldopa	8.281385	methyldopa	2355
+methylenecycline	4.4872665	methylenecycline  chlorhydrate de 	3409
+methylergometrine	5.3556676	methylergometrine base	18063
+methylphenidate	8.569068	methylphenidate	12225
+methylphenobarbital	pas trouvé
+methylprednisolone	7.72177	methylprednisolone	2361
+methysergide	5.3556676	methysergide base	83210
+metipranolol	8.974533	metipranolol	1486
+metoclopramide	7.4704556	metoclopramide	10655
+metopimazine	8.974533	metopimazine	2376
+metoprolol	3.9379604	metoprolol  tartrate de 	933
+metronidazole	8.281385	metronidazole	2382
+metyrapone	8.974533	metyrapone	31591
+mexiletine	4.4872665	mexiletine  chlorhydrate de 	924
+mianserine	4.284534	chlorhydrate de mianserine	602
+miconazole	8.281385	miconazole	600
+midazolam	8.281385	midazolam	2667
+midecamycine	4.4872665	diacetate de midecamycine	74801
+midodrine	4.4872665	chlorhydrate de midodrine	98763
+millepertuis	4.0291204	extrait sec de millepertuis	4235
+milnacipran	8.569068	milnacipran	46403
+miltefosine	8.974533	miltefosine	40661
+minocycline	5.036401	minocycline base	37703
+mirtazapine	8.974533	mirtazapine	45485
+mitoguazone	4.4872665	mitoguazone  dichlorhydrate de  monohydrate	2392
+mitomycine c	8.974533	mitomycine c	582
+mitotane	8.974533	mitotane	84359
+mitoxantrone	8.058241	mitoxantrone	50405
+mivacurium	8.569068	mivacurium	25017
+mizolastine	8.974533	mizolastine	66292
+moclobemide	8.974533	moclobemide	21102
+modafinil	8.974533	modafinil	18254
+moexipril	4.4872665	chlorhydrate de moexipril	80137
+molsidomine	8.974533	molsidomine	1328
+mometasone	4.284534	furoate de mometasone	14446
+montelukast	8.281385	montelukast	80102
+morniflumate	8.974533	morniflumate	9798
+morphine	7.72177	morphine	15686
+moxifloxacine	8.281385	moxifloxacine	38193
+moxonidine	8.974533	moxonidine	76840
+mycophenolate mofetil	7.448004	mycophenolate mofetil	19698
+mycophenolate sodique	5.9873514	mycophenolate sodique	62257
+nabumetone	8.974533	nabumetone	54655
+nadolol	8.974533	nadolol	28609
+nadoxolol	4.4872665	nadoxolol  chlorhydrate de 	840
+nadroparine calcique	7.0287957	nadroparine calcique	24513
+nalbuphine	4.284534	chlorhydrate de nalbuphine	2338
+nalmefene	8.569068	nalmefene	29165
+nalorphine	8.974533	nalorphine	43003
+naloxone	7.875921	naloxone	65807
+naltrexone	4.284534	chlorhydrate de naltrexone	11396
+naphazoline	4.284534	nitrate de naphazoline	3933
+naproxene	8.569068	naproxene	3271
+naratriptan	8.281385	naratriptan	39704
+nateglinide	8.974533	nateglinide	43863
+nebivolol	5.175866	nebivolol base	96027
+nefopam	4.284534	chlorhydrate de nefopam	19859
+nelarabine	8.974533	nelarabine	16279
+nelfinavir	5.3556676	nelfinavir base	55048
+neostigmine	4.1406927	neostigmine  metilsulfate de 	3633
+netilmicine	5.175866	netilmicine base	77886
+nevirapine	5.3556676	nevirapine anhydre	80180
+niaouli	4.0291204	niaouli  essence de 	152
+niaprazine	8.974533	niaprazine	3422
+nicardipine	4.284534	nicardipine  chlorhydrate de 	13709
+nicorandil	8.974533	nicorandil	76057
+nicotine	7.182773	nicotine	94037
+nifedipine	8.974533	nifedipine	842
+nilotinib	8.281385	nilotinib	71030
+nimesulide	8.974533	nimesulide	48903
+nimetazepam	pas trouvé
+nimodipine	8.974533	nimodipine	79486
+nitrazepam	8.974533	nitrazepam	2471
+nitrendipine	8.974533	nitrendipine	60311
+nizatidine	8.974533	nizatidine	79487
+nomegestrol	4.284534	acetate de nomegestrol	28293
+noradrenaline	8.281385	noradrenaline	9745
+nordazepam	8.974533	nordazepam	11760
+norelgestromine	8.974533	norelgestromine	17048
+norepinephrine	pas trouvé
+norethandrolone	8.974533	norethandrolone	2493
+norethisterone	8.058241	norethisterone	2494
+norfloxacine	8.974533	norfloxacine	15372
+norgestimate	8.974533	norgestimate	4400
+norgestrienone	8.974533	norgestrienone	2498
+nortriptyline	pas trouvé
+noscapine	8.569068	noscapine	2506
+octreotide	8.281385	octreotide	44322
+ofloxacine	8.974533	ofloxacine	2754
+olanzapine	8.281385	olanzapine	17723
+olmesartan	5.609083	olmesartan medoxomil	29486
+omeprazole	8.281385	omeprazole	4773
+ondansetron	8.281385	ondansetron	42537
+opipramol	4.4872665	opipramol  dichlorhydrate de 	2520
+orlistat	8.974533	orlistat	17760
+ornidazole	8.974533	ornidazole	974
+or	8.281385	or	52590
+oxaliplatine	8.974533	oxaliplatine	42430
+oxatomide	8.569068	oxatomide	30920
+oxazepam	8.974533	oxazepam	2533
+oxazolam	pas trouvé
+oxcarbazepine	8.974533	oxcarbazepine	62004
+oxetorone	5.609083	fumarate d oxetorone	111
+oxitriptan	8.974533	oxitriptan	3354
+oxitropium	5.609083	bromure d oxitropium	30398
+oxomemazine	8.569068	oxomemazine	2543
+oxprenolol	5.609083	oxprenolol  chlorhydrate d  	3616
+oxybutynine	5.3556676	chlorhydrate d oxybutynine	11401
+oxycodone	8.281385	oxycodone	46704
+oxymetazoline	5.609083	chlorhydrate d oxymetazoline	5080
+oxytetracycline	7.72177	oxytetracycline	2196
+paclitaxel	8.974533	paclitaxel	20030
+paliperidone	8.569068	paliperidone	19944
+pancuronium	4.4872665	bromure de pancuronium	3488
+pantoprazole	8.281385	pantoprazole	38524
+paracetamol	8.974533	paracetamol	2202
+paraffine	5.036401	paraffine liquide	19236
+parecoxib	8.569068	parecoxib	62228
+paroxetine	4.9224505	paroxetine base	51891
+pasireotide	8.281385	pasireotide	43910
+pazopanib	8.569068	pazopanib	82348
+pefloxacine	8.281385	pefloxacine	14129
+peg interferon alfa 2a	3.94531	interferon alfa 2a	2427
+pemetrexed	8.569068	pemetrexed	23684
+penfluridol	8.974533	penfluridol	3492
+pentamidine	4.4872665	pentamidine  isetionate de 	6375
+pentazocine	8.974533	pentazocine	2788
+pentobarbital	pas trouvé
+pentostatine	8.974533	pentostatine	68172
+pentoxifylline	8.974533	pentoxifylline	3511
+perampanel	8.974533	perampanel	74405
+pergolide	5.175866	pergolide base	57067
+perindopril tert butylamine	7.142135	perindopril tert butylamine	9586
+perphenazine	4.4872665	perphenazine  enantate de 	93659
+pethidine	4.4872665	chlorhydrate de pethidine	2799
+phenindione	8.974533	phenindione	2822
+pheniramine	4.284534	maleate de pheniramine	3460
+phenobarbital	8.569068	phenobarbital	2825
+phenoperidine	8.569068	phenoperidine	7584
+phenylbutazone	8.569068	phenylbutazone	2843
+phenylephrine	8.058241	phenylephrine	2438
+phenyltoloxamine	8.058241	phenyltoloxamine	15814
+phenytoine	8.569068	phenytoine	2107
+pholcodine	8.974533	pholcodine	2109
+pilocarpine	7.875921	pilocarpine	16025
+pimethixene	pas trouvé
+pimozide	8.974533	pimozide	2126
+pinazepam	pas trouvé
+pindolol	8.974533	pindolol	78
+pioglitazone	5.175866	pioglitazone base	17092
+pipamperone	5.3556676	pipamperone base	20950
+piperaquine	4.284534	piperaquine  tetraphosphate de 	21697
+piperazine	7.72177	piperazine	89272
+pipobroman	8.974533	pipobroman	81
+pipotiazine	8.569068	pipotiazine	82
+pirarubicine	8.974533	pirarubicine	79714
+piretanide	8.974533	piretanide	85116
+piribedil	8.569068	piribedil	5751
+piroxicam betadex	2.8775053	piroxicam	25336
+piroxicam	8.281385	piroxicam	25336
+pitavastatine	8.569068	pitavastatine	96697
+pixantrone	8.569068	pixantrone	73219
+pizotifene	5.3556676	pizotifene base	26562
+plicamycine	8.974533	plicamycine	785
+polymyxine b	8.281385	polymyxine b	17908
+poly styrenesulfonate de calcium 	0.64893854	poly alcool vinylique 	346
+ponatinib	8.569068	ponatinib	20433
+posaconazole	8.974533	posaconazole	54201
+potassium	5.9300103	potassium	30272
+povidone iodee	7.448004	povidone iodee	3496
+pramipexole	8.058241	pramipexole	47554
+prasugrel	8.569068	prasugrel	30470
+pravastatine	5.609083	pravastatine sodique	73208
+prazepam	8.974533	prazepam	2165
+praziquantel	8.974533	praziquantel	13274
+prazosine	5.3556676	prazosine base	53450
+prednisolone	7.2697845	prednisolone	2169
+prednisone	8.974533	prednisone	2171
+pregabaline	8.974533	pregabaline	39422
+preservatifs en latex	0.5114559	huile de poisson riche en acides omega 3	43401
+prilocaine	8.281385	prilocaine	85184
+primidone	8.974533	primidone	5627
+pristinamycine	8.974533	pristinamycine	2215
+procarbazine	8.569068	procarbazine	79190
+prochlorperazine	pas trouvé
+progesterone	8.974533	progesterone	2229
+proguanil	4.284534	chlorhydrate de proguanil	30216
+promegestone	8.974533	promegestone	26150
+promestriene	8.974533	promestriene	588
+promethazine	8.058241	promethazine	2236
+propafenone	4.4872665	propafenone  chlorhydrate de 	28459
+propericiazine	8.974533	propericiazine	2247
+propranolol	8.281385	propranolol	21771
+prucalopride	8.569068	prucalopride	17561
+pseudoephedrine	7.875921	pseudoephedrine	90615
+pyridostigmine	4.284534	bromure de pyridostigmine	2283
+pyrimethamine	8.974533	pyrimethamine	2285
+quetiapine	8.281385	quetiapine	59691
+quinagolide	8.569068	quinagolide	78915
+quinapril	5.175866	quinapril base	87533
+quinidine	7.2697845	quinidine	620
+quinine	7.2697845	quinine	616
+quinupristine	5.3556676	quinupristine base	42661
+rabeprazole	8.058241	rabeprazole	67549
+raltegravir	8.569068	raltegravir	50058
+raltitrexed	8.974533	raltitrexed	77479
+ramipril	8.974533	ramipril	11532
+ranitidine	8.058241	ranitidine	49632
+ranolazine	8.974533	ranolazine	52040
+rasagiline	8.569068	rasagiline	64818
+reglisse	3.9379604	reglisse  extrait de   sec 	243
+regorafenib	8.569068	regorafenib	86579
+remifentanil	8.281385	remifentanil	85750
+repaglinide	8.974533	repaglinide	55485
+reteplase	8.974533	reteplase	84765
+reviparine	5.609083	reviparine sodique	99948
+rhubarbe	4.284534	rhubarbe  poudre de 	865
+ribavirine	8.974533	ribavirine	15711
+ricin	4.284534	ricin  huile de 	4324
+ricinus communis	1.3356397	juniperus communis pour preparations homeopathiques	21200
+rifabutine	8.974533	rifabutine	88125
+rifampicine	8.569068	rifampicine	2332
+rilmenidine	8.281385	rilmenidine	66240
+riociguat	8.974533	riociguat	82922
+risperidone	8.974533	risperidone	37430
+ritodrine	4.284534	chlorhydrate de ritodrine	3347
+ritonavir	8.974533	ritonavir	53415
+rivaroxaban	8.974533	rivaroxaban	43633
+rivastigmine	8.058241	rivastigmine	37973
+rizatriptan	8.569068	rizatriptan	32627
+rocuronium	4.284534	bromure de rocuronium	16496
+rofecoxib	8.974533	rofecoxib	47638
+ropinirole	8.058241	ropinirole	62155
+rosuvastatine	8.281385	rosuvastatine	33207
+rotavirus	2.8956637	rotavirus humain  souche rix4414   vivant  attenue 	99567
+rotigotine	8.974533	rotigotine	55910
+roxatidine	4.284534	roxatidine  acetate de 	29777
+roxithromycine	8.974533	roxithromycine	5621
+rufinamide	8.974533	rufinamide	45638
+rupatadine	8.569068	rupatadine	23010
+ruxolitinib	8.569068	ruxolitinib	42140
+salbutamol	8.281385	salbutamol	626
+saquinavir	8.569068	saquinavir	28784
+saxagliptine	8.569068	saxagliptine	27375
+scopolamine	7.875921	scopolamine	29848
+secbutabarbital	pas trouvé
+secobarbital	pas trouvé
+selegiline	5.175866	selegiline base	16245
+sene de khartoum	3.6657052	sene de khartoum ou d alexandrie  fruit de   extrait sec de 	86396
+sene de l inde	3.1497436	sene de l inde ou de tinnevelly  fruit de 	78303
+sene	3.479815	sene  feuille de 	213
+sertraline	8.281385	sertraline	42406
+sevelamer	5.036401	sevelamer base	76741
+sevoflurane	8.974533	sevoflurane	77978
+sibutramine	5.3556676	sibutramine base	71919
+sildenafil	8.281385	sildenafil	67717
+silodosine	8.974533	silodosine	50540
+simeprevir	8.569068	simeprevir	94406
+simvastatine	8.974533	simvastatine	10171
+sirolimus	8.974533	sirolimus	59394
+sitagliptine	8.281385	sitagliptine	20740
+sodium docusate de 	4.9303923	sodium  docusate de 	3063
+sodium picosulfate de 	4.9303923	picosulfate de sodium	47933
+sodium ricinoleate de 	5.1075535	sodium  ricinoleate de 	14830
+solifenacine	8.569068	solifenacine	72550
+sorafenib	8.569068	sorafenib	89477
+sotalol	4.284534	chlorhydrate de sotalol	970
+spectinomycine	8.569068	spectinomycine	98616
+spiramycine	8.569068	spiramycine	975
+spirapril	4.4872665	spirapril  chlorhydrate de 	9264
+spironolactone	8.974533	spironolactone	977
+stavudine	8.974533	stavudine	93467
+stiripentol	8.974533	stiripentol	52513
+streptokinase	8.974533	streptokinase	2848
+streptomycine	5.175866	streptomycine base	38447
+streptozocine	8.974533	streptozocine	10235
+strontium	4.1406927	ranelate de strontium anhydre	41489
+sucralfate	8.974533	sucralfate	3563
+sufentanil	8.281385	sufentanil	34909
+sulfafurazol	8.569068	sulfafurazol	2873
+sulfamethizol	8.974533	sulfamethizol	2877
+sulfamethoxazole	8.974533	sulfamethoxazole	2878
+sulindac	8.974533	sulindac	216
+sulpiride	8.974533	sulpiride	2914
+sultopride	5.175866	sultopride base	89853
+sunitinib	8.569068	sunitinib	29335
+suxamethonium	4.284534	chlorure de suxamethonium	4653
+synephrine	4.284534	synephrine  tartrate de 	5181
+tacrolimus	8.281385	tacrolimus	77086
+tadalafil	8.974533	tadalafil	98159
+tamoxifene	8.058241	tamoxifene	35166
+tamsulosine	8.281385	tamsulosine	64851
+tapentadol	8.569068	tapentadol	22322
+tegafur	8.974533	tegafur	88022
+teicoplanine	8.974533	teicoplanine	9967
+telaprevir	8.974533	telaprevir	26938
+telithromycine	8.974533	telithromycine	55715
+telmisartan	8.974533	telmisartan	71153
+temazepam	8.974533	temazepam	23187
+temozolomide	8.974533	temozolomide	31246
+temsirolimus	8.974533	temsirolimus	27660
+tenecteplase	8.974533	tenecteplase	38167
+tenofovir disoproxil	7.3197794	tenofovir disoproxil	29337
+tenoxicam	8.974533	tenoxicam	8751
+terazosine	5.175866	terazosine base	53913
+terbutaline	4.284534	sulfate de terbutaline	4857
+teriflunomide	8.974533	teriflunomide	17098
+terpineol	8.569068	terpineol	46674
+terpine	8.569068	terpine	651
+terpinol	8.974533	terpinol	10791
+tertatolol	4.4872665	tertatolol  chlorhydrate de 	9542
+testosterone	8.058241	testosterone	2934
+tetrabenazine	8.974533	tetrabenazine	71395
+tetracosactide	8.974533	tetracosactide	1836
+tetracycline	8.281385	tetracycline	1837
+tetrazepam	8.974533	tetrazepam	1840
+tetryzoline	4.284534	chlorhydrate de tetryzoline	109
+thalidomide	8.974533	thalidomide	69479
+thenyldiamine	pas trouvé
+theodrenaline	4.4872665	theodrenaline  chlorhydrate de 	3417
+theophylline	8.058241	theophylline	15078
+thiopental	5.3556676	thiopental sodique	42608
+thioproperazine	5.3556676	thioproperazine base	48862
+thiotepa	8.974533	thiotepa	2751
+thymol	8.974533	thymol	659
+thyroxines	pas trouvé
+tiapride	5.175866	tiapride base	89551
+tibolone	8.974533	tibolone	81834
+ticagrelor	8.974533	ticagrelor	37533
+ticlopidine	4.284534	chlorhydrate de ticlopidine	783
+tigecycline	8.974533	tigecycline	91931
+timolol	8.058241	timolol	15009
+tinzaparine	5.609083	tinzaparine sodique	34647
+tioclomarol	8.974533	tioclomarol	173
+tioguanine	pas trouvé
+tipranavir	8.974533	tipranavir	44704
+tirofiban	8.569068	tirofiban	46261
+tobramycine	8.281385	tobramycine	23654
+tolbutamide	pas trouvé
+tolcapone	8.974533	tolcapone	36776
+tolterodine	5.175866	tolterodine base	41652
+topiramate	8.974533	topiramate	20890
+topotecane	8.281385	topotecane	93066
+torasemide	8.569068	torasemide	46318
+toremifene	4.4872665	citrate de toremifene	13942
+tramadol	8.058241	tramadol	35415
+trandolapril	8.974533	trandolapril	70833
+tretinoine	8.974533	tretinoine	535
+triamcinolone	4.0291204	hexacetonide de triamcinolone	5480
+triamterene	8.974533	triamterene	313
+triazolam	8.974533	triazolam	878
+trifluoperazine	8.569068	trifluoperazine	66979
+trifluperidol	5.3556676	trifluperidol base	42933
+trihexyphenidyle	4.4872665	trihexyphenidyle  chlorhydrate de 	264
+trimethoprime	8.974533	trimethoprime	342
+trimipramine	5.175866	trimipramine base	85758
+trinitrine	8.281385	trinitrine	4458
+triprolidine	4.284534	triprolidine  chlorhydrate de 	5483
+tropatepine	4.4872665	tropatepine  chlorhydrate de 	3610
+tropicamide	8.974533	tropicamide	358
+trospium	4.284534	trospium  chlorure de 	4511
+urapidil	8.281385	urapidil	11673
+urokinase	4.4872665	urokinase  mammifere humain urine 	376
+valaciclovir	7.875921	valaciclovir	36192
+valdecoxib	8.974533	valdecoxib	37670
+valganciclovir	8.569068	valganciclovir	36874
+valpromide	8.974533	valpromide	547
+valsartan	8.974533	valsartan	15734
+vancomycine	8.058241	vancomycine	28416
+vandetanib	8.974533	vandetanib	87461
+vardenafil	8.569068	vardenafil	32308
+venlafaxine	8.569068	venlafaxine	26322
+verapamil	4.284534	chlorhydrate de verapamil	5242
+vildagliptine	8.974533	vildagliptine	40035
+vinbarbital	pas trouvé
+vinblastine	5.3556676	vinblastine anhydre	62283
+vincamine	8.974533	vincamine	388
+vincristine	4.284534	sulfate de vincristine	5113
+vindesine	4.284534	vindesine  sulfate de 	882
+vinflunine	8.569068	vinflunine	62794
+vinorelbine	7.72177	vinorelbine	40054
+vinylbital	pas trouvé
+voriconazole	8.974533	voriconazole	51458
+xipamide	8.974533	xipamide	22866
+zofenopril	8.569068	zofenopril	96648
+zolpidem	4.284534	tartrate de zolpidem	25975
+zopiclone	8.974533	zopiclone	12999
+zuclopenthixol	8.058241	zuclopenthixol	91930
+acide salicylique	5.823306	acide salicylique	690
+bepridil	5.3556676	bepridil base	34533
+buflomedil	4.284534	chlorhydrate de buflomedil	3620
+bupropione	4.4872665	chlorhydrate de bupropione	17194
+cisapride	5.036401	cisapride monohydrate	7846
+consommation d alcool	2.231638	alcool	35
+dextropropoxyphene	8.569068	dextropropoxyphene	1625
+magnesium hydroxde de 	0.9512888	chlorure de magnesium hexahydrate	3018
+memantine	8.058241	memantine	72074
+nialamide	8.974533	nialamide	2439
+oxyphenbutazone	8.974533	oxyphenbutazone	2188
+pirfenidone	8.974533	pirfenidone	21875
+povidone	8.569068	povidone	19476
+sertindole	8.974533	sertindole	98972
+succinylcholine	pas trouvé
+sumatriptan	8.281385	sumatriptan	89266
+tiratricol	8.974533	tiratricol	3037
+toloxatone	8.974533	toloxatone	9962
+trimazosine	5.3556676	trimazosine base	26040
+viloxazine	5.3556676	viloxazine base	97289
+afatinib	8.569068	afatinib	61992
+ataluren	8.974533	ataluren	26023
+benzocaine	8.974533	benzocaine	1810
+certolizumab	5.609083	certolizumab pegol	77804
+ciclopirox	8.569068	ciclopirox	95914
+dasabuvir	8.569068	dasabuvir	44781
+dexlansoprazole	8.974533	dexlansoprazole	62600
+esclicarbazepine	pas trouvé
+etoricoxib	8.974533	etoricoxib	47493
+ibrutinib	8.974533	ibrutinib	75140
+idelalisib	8.974533	idelalisib	70793
+lanthane	8.281385	lanthane	76541
+ledipasvir	8.974533	ledipasvir	21873
+ombitasvir	8.974533	ombitasvir	85275
+paritaprevir	8.974533	paritaprevir	93622
+racecadotril	8.974533	racecadotril	93657
+sodium nitroprussiate de 	5.1075535	sodium  nitroprussiate de 	801
+sodium oxybate de 	5.1075535	sodium  oxybate de 	10876
+sulfacetamide	5.609083	sulfacetamide sodique	4584
+sulfadiazine	8.569068	sulfadiazine	2867
+sulfadoxine	8.974533	sulfadoxine	645
+sulfaguanidine	8.569068	sulfaguanidine	2874
+sulfamoxole	8.974533	sulfamoxole	2886
+aliskirene	8.281385	aliskirene	70278
+ethambutol	5.3556676	chlorhydrate d ethambutol	1802
+fexofenadine	5.3556676	fexofenadine base	55222
+flavoxate	4.4872665	flavoxate  chlorhydrate de 	25487
+floctafenine	8.974533	floctafenine	99
+fluor	5.609083	fluor element	85033
+gel d hydroxyde d aluminium et de carbonate de magne	4.2743487	aluminium  carbonate et hydroxyde d    gel de	23907
+insuline humaine hemisynthetique isophane biphasiqu	3.9075205	insuline humaine hemisynthetique isophane  suspension d  	2277
+peg interferon	1.5059502	interferon alfacon 1	59292
+sapropterine	8.569068	sapropterine	83397
+secnidazole	8.974533	secnidazole	12345
+tenonitrozole	8.974533	tenonitrozole	2710
+tinidazole	8.974533	tinidazole	3611
+troleandomycine	8.974533	troleandomycine	354
+charbon	5.3556676	charbon active	4204
+doripenem	8.569068	doripenem	25648
+kaolin	8.569068	kaolin	3133
+monmectite	8.974533	monmectite	60922
+alverine	8.058241	alverine	5538
+virus de la fievre jaune	4.4795547	virus de la fievre jaune  souche 17d 204  vivant  attenue 	751
+virus de la varicelle	3.560106	virus de la varicelle souche oka  vivant  attenue 	96983
+virus des oreillons	4.408292	virus des oreillons  souche urabe am 9  attenue	28603
+virus rougeoleux	0.61377937	virus poliomyelitique inactive type 1	28730
+virus rubeoleux	3.8877554	virus rubeoleux  souche wistar ra 27 3  attenue	97753
+virus vivant attenue de la grippe	3.3041096	virus de la grippe reassorti  vivant  attenue  souche b massachusetts 2 2012   souche analogue  b massachussetts 2 2012  medi 237751 	42518
+warfarine	5.609083	warfarine sodique	678
+probenecide	8.974533	probenecide	2218
+deferoxamine	4.4872665	mesilate de deferoxamine	1584
+zidovudine	8.974533	zidovudine	9122
+vitamine a	6.777308	vitamine a	622
+furazolidone	pas trouvé
+pivampicilline	8.974533	pivampicilline	306
+ticarcilline	5.3556676	ticarcilline base	15487
+vidarabine	5.036401	vidarabine monohydratee	20544
+vecuronium	4.4872665	bromure de vecuronium	12094
+tiabendazole	8.974533	tiabendazole	25272
+ulipristal	5.609083	acetate d ulipristal	52476
+terbinafine	8.281385	terbinafine	72481
+mesalazine	8.974533	mesalazine	2640
+olsalazine	5.3556676	olsalazine sodique	44028
+p a s sodique	3.0097814	metamizole sodique	2489
+sulfasalazine	8.974533	sulfasalazine	947
+zolmitriptan	8.974533	zolmitriptan	78975
+tuaminoheptane	4.284534	tuaminoheptane  sulfate de 	5493
+tymazoline	pas trouvé
+vemurafenib	8.974533	vemurafenib	68718
+zinc	6.056762	zinc	1473
+rilpivirine	8.281385	rilpivirine	27775
+sofosbuvir	8.974533	sofosbuvir	83492
+tiagabine	5.3556676	tiagabine anhydre	83209
+vismodegib	8.974533	vismodegib	51135
+sorbitol	8.058241	sorbitol	640
+sulfinpyrazone	8.974533	sulfinpyrazone	2902
+etravirine	8.974533	etravirine	93935
+yohimbine	4.284534	chlorhydrate de yohimbine	3626
+deferiprone	8.974533	deferiprone	95296
+zalcitabine	8.974533	zalcitabine	23061
+triclabendazole	8.974533	triclabendazole	2428
+theine	pas trouvé
+penicillamine	8.974533	penicillamine	390
+sels de fer par voie injectable	1.085045	argent colloidal par voie chimique	54
+potassium citrate de 	4.2036595	citrate de potassium	855
+sodium citrate de 	3.7364984	citrate de sodium	4155
+sodium citrate diacide de 	5.839262	sodium  citrate diacide de 	633
+rosiglitazone	8.281385	rosiglitazone	58865
+sodium bicarbonate de 	4.710133	sodium  bicarbonate de 	899
+trometamol	7.875921	trometamol	356
+reserpine	8.974533	reserpine	2329
+tianeptine	5.609083	tianeptine sodique	8215
+pyrazinamide	8.974533	pyrazinamide	28889
+salmeterol	7.875921	salmeterol	57781
+trabectedine	8.974533	trabectedine	99842
+mannitol	8.569068	mannitol	3011
+sodium chlorure de 	3.6204526	chlorure de sodium	901
+myristalkonium	pas trouvé
+nonoxynol 9	pas trouvé
+mezlocilline	8.569068	mezlocilline	40246
+oxacilline	5.3556676	oxacilline sodique	5465
+phenoxymethylpenicilline	8.281385	phenoxymethylpenicilline	2836
+piperacilline	8.281385	piperacilline	67102
+sulprostone	8.974533	sulprostone	6209
+retigabine	8.974533	retigabine	64569
+zonisamide	8.974533	zonisamide	24996
+telbivudine	8.974533	telbivudine	24568
+sodium aurothiopropanolsulfonate de 	4.9303923	sodium  aurothiopropanolsulfonate de 	4652
+thiomersal	8.974533	thiomersal	5272
+silicone	pas trouvé
+virus varicelle zona	4.2032223	virus varicelle zona souche oka merck  vivant  attenue 	96983
+perhexiline	4.4872665	perhexiline  maleate de 	3502
+phosphore	8.974533	phosphore	56593

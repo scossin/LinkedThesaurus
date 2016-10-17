@@ -1,0 +1,340 @@
+@prefix : <http://thesaurus#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+# #################################################################
+# #
+# #   FAMILLES
+# #
+# #################################################################
+:MEDICAMENTSSEDATIFSc7 a owl:NamedIndividual , :Familles;
+                          rdfs:label "MEDICAMENTS SEDATIFS" .
+:ANTIAGREGANTSPLAQUETTAIRES40 a owl:NamedIndividual , :Familles;
+                          rdfs:label "ANTIAGREGANTS PLAQUETTAIRES" .
+:ANTIHYPERTENSEURSSAUFALPHABLOQUANTS3e a owl:NamedIndividual , :Familles;
+                          rdfs:label "ANTIHYPERTENSEURS SAUF ALPHA-BLOQUANTS" .
+:BRADYCARDISANTS01 a owl:NamedIndividual , :Familles;
+                          rdfs:label "BRADYCARDISANTS" .
+:BETABLOQUANTSSAUFESMOLOLETSOTALOL33 a owl:NamedIndividual , :Familles;
+                          rdfs:label "BETA-BLOQUANTS (SAUF ESMOLOL ET SOTALOL)" .
+:BETABLOQUANTSSAUFESMOLOL92 a owl:NamedIndividual , :Familles;
+                          rdfs:label "BETA-BLOQUANTS (SAUF ESMOLOL)" .
+:MEDICAMENTSABAISSANTLAPRESSIONARTERIELLE65 a owl:NamedIndividual , :Familles;
+                          rdfs:label "MEDICAMENTS ABAISSANT LA PRESSION ARTERIELLE" .
+:ANTIINFLAMMATOIRESNONSTEROIDIENS74 a owl:NamedIndividual , :Familles;
+                          rdfs:label "ANTI-INFLAMMATOIRES NON STEROIDIENS" .
+:HYPERKALIEMIANTS1c a owl:NamedIndividual , :Familles;
+                          rdfs:label "HYPERKALIEMIANTS" .
+:ANTICOAGULANTSORAUXa7 a owl:NamedIndividual , :Familles;
+                          rdfs:label "ANTICOAGULANTS ORAUX" .
+:ANTIVITAMINESK01 a owl:NamedIndividual , :Familles;
+                          rdfs:label "ANTIVITAMINES K" .
+:HYPNOTIQUES37 a owl:NamedIndividual , :Familles;
+                          rdfs:label "HYPNOTIQUES" .
+:MEDICAMENTSABAISSANTLESEUILEPILEPTOGENE22 a owl:NamedIndividual , :Familles;
+                          rdfs:label "MEDICAMENTS ABAISSANT LE SEUIL EPILEPTOGENE" .
+:MEDICAMENTSATROPINIQUES8b a owl:NamedIndividual , :Familles;
+                          rdfs:label "MEDICAMENTS ATROPINIQUES" .
+:MEDICAMENTSALORIGINEDUNEHYPOTENSIONORTHOSTATIQUEe8 a owl:NamedIndividual , :Familles;
+                          rdfs:label "MEDICAMENTS A L'ORIGINE D'UNE HYPOTENSION ORTHOSTATIQUE" .
+:NEUROLEPTIQUESec a owl:NamedIndividual , :Familles;
+                          rdfs:label "NEUROLEPTIQUES" .
+:SUBSTANCESAABSORPTIONREDUITEPARLESTOPIQUESGASTROINTESTINAUXANTIACIDESETADSORBANTS78 a owl:NamedIndividual , :Familles;
+                          rdfs:label "SUBSTANCES A ABSORPTION REDUITE PAR LES TOPIQUES GASTRO-INTESTINAUX, ANTIACIDES ET ADSORBANTS" .
+:ALCALINISANTSURINAIRES5c a owl:NamedIndividual , :Familles;
+                          rdfs:label "ALCALINISANTS URINAIRES" .
+:MEDICAMENTSMETHEMOGLOBINISANTSc1 a owl:NamedIndividual , :Familles;
+                          rdfs:label "MEDICAMENTS METHEMOGLOBINISANTS" .
+:SULFAMIDESANTIBACTERIENSe9 a owl:NamedIndividual , :Familles;
+                          rdfs:label "SULFAMIDES ANTIBACTERIENS" .
+:MEDICAMENTSNEPHROTOXIQUESa1 a owl:NamedIndividual , :Familles;
+                          rdfs:label "MEDICAMENTS NEPHROTOXIQUES" .
+:BISPHOSPHONATES2c a owl:NamedIndividual , :Familles;
+                          rdfs:label "BISPHOSPHONATES" .
+:PRODUITSDECONTRASTEIODES3b a owl:NamedIndividual , :Familles;
+                          rdfs:label "PRODUITS DE CONTRASTE IODES" .
+:ACIDESBILIAIRES59 a owl:NamedIndividual , :Familles;
+                          rdfs:label "ACIDES BILIAIRES" .
+:FOLATES90 a owl:NamedIndividual , :Familles;
+                          rdfs:label "FOLATES" .
+:ANTICONVULSIVANTSMETABOLISESee a owl:NamedIndividual , :Familles;
+                          rdfs:label "ANTICONVULSIVANTS METABOLISES" .
+:VALPROIQUEACIDEETPAREXTRAPOLATIONVALPROMIDEe2 a owl:NamedIndividual , :Familles;
+                          rdfs:label "VALPROIQUE (ACIDE) ET, PAR EXTRAPOLATION, VALPROMIDE" .
+:RETINOIDESf7 a owl:NamedIndividual , :Familles;
+                          rdfs:label "RETINOIDES" .
+:ANTITNFALPHAb7 a owl:NamedIndividual , :Familles;
+                          rdfs:label "ANTI-TNF ALPHA" .
+:ADRENALINEVOIEBUCCODENTAIREOUSOUSCUTANEE60 a owl:NamedIndividual , :Familles;
+                          rdfs:label "ADRENALINE (VOIE BUCCO-DENTAIRE OU SOUS-CUTANEE)" .
+:SYMPATHOMIMETIQUESALPHAETBETAVOIEIMETIV6d a owl:NamedIndividual , :Familles;
+                          rdfs:label "SYMPATHOMIMETIQUES ALPHA ET BETA (VOIE IM ET IV)" .
+:CURARES88 a owl:NamedIndividual , :Familles;
+                          rdfs:label "CURARES" .
+:CURARESNONDEPOLARISANTS94 a owl:NamedIndividual , :Familles;
+                          rdfs:label "CURARES NON DEPOLARISANTS" .
+:VITAMINED27 a owl:NamedIndividual , :Familles;
+                          rdfs:label "VITAMINE D" .
+:ANALGESIQUESMORPHINIQUESAGONISTESd6 a owl:NamedIndividual , :Familles;
+                          rdfs:label "ANALGESIQUES MORPHINIQUES AGONISTES" .
+:ANALGESIQUESMORPHINIQUESDEPALIERIIIff a owl:NamedIndividual , :Familles;
+                          rdfs:label "ANALGESIQUES MORPHINIQUES DE PALIER III" .
+:MORPHINIQUESad a owl:NamedIndividual , :Familles;
+                          rdfs:label "MORPHINIQUES" .
+:SUBSTRATSARISQUEDUCYP3A476 a owl:NamedIndividual , :Familles;
+                          rdfs:label "SUBSTRATS A RISQUE DU CYP3A4" .
+:ALPHABLOQUANTSAVISEEUROLOGIQUE35 a owl:NamedIndividual , :Familles;
+                          rdfs:label "ALPHABLOQUANTS A VISEE UROLOGIQUE" .
+:NEUROLEPTIQUESANTIEMETIQUESd6 a owl:NamedIndividual , :Familles;
+                          rdfs:label "NEUROLEPTIQUES ANTIEMETIQUES" .
+:BARBITURIQUES1e a owl:NamedIndividual , :Familles;
+                          rdfs:label "BARBITURIQUES" .
+:INHIBITEURSDELAXANTHINEOXYDASE0b a owl:NamedIndividual , :Familles;
+                          rdfs:label "INHIBITEURS DE LA XANTHINE OXYDASE" .
+:TRIPTANS33 a owl:NamedIndividual , :Familles;
+                          rdfs:label "TRIPTANS" .
+:TRIPTANSMETABOLISESPARLAMAO6f a owl:NamedIndividual , :Familles;
+                          rdfs:label "TRIPTANS METABOLISES PAR LA MAO" .
+:BENZODIAZEPINESETAPPARENTESa2 a owl:NamedIndividual , :Familles;
+                          rdfs:label "BENZODIAZEPINES ET APPARENTES" .
+:THROMBOLYTIQUESe4 a owl:NamedIndividual , :Familles;
+                          rdfs:label "THROMBOLYTIQUES" .
+:DIURETIQUES61 a owl:NamedIndividual , :Familles;
+                          rdfs:label "DIURETIQUES" .
+:DIURETIQUESHYPOKALIEMIANTS9f a owl:NamedIndividual , :Familles;
+                          rdfs:label "DIURETIQUES HYPOKALIEMIANTS" .
+:DIURETIQUESTHIAZIDIQUESETAPPARENTES0c a owl:NamedIndividual , :Familles;
+                          rdfs:label "DIURETIQUES THIAZIDIQUES ET APPARENTES" .
+:HYPOKALIEMIANTS1e a owl:NamedIndividual , :Familles;
+                          rdfs:label "HYPOKALIEMIANTS" .
+:HYPONATREMIANTS70 a owl:NamedIndividual , :Familles;
+                          rdfs:label "HYPONATREMIANTS" .
+:CYTOTOXIQUESb1 a owl:NamedIndividual , :Familles;
+                          rdfs:label "CYTOTOXIQUES" .
+:ANTIPARKINSONIENSDOPAMINERGIQUES2f a owl:NamedIndividual , :Familles;
+                          rdfs:label "ANTIPARKINSONIENS DOPAMINERGIQUES" .
+:DOPAMINERGIQUES67 a owl:NamedIndividual , :Familles;
+                          rdfs:label "DOPAMINERGIQUES" .
+:ANTICHOLINESTERASIQUES29 a owl:NamedIndividual , :Familles;
+                          rdfs:label "ANTICHOLINESTERASIQUES" .
+:AMINOSIDES41 a owl:NamedIndividual , :Familles;
+                          rdfs:label "AMINOSIDES" .
+:MEDICAMENTSOTOTOXIQUES1e a owl:NamedIndividual , :Familles;
+                          rdfs:label "MEDICAMENTS OTOTOXIQUES" .
+:DIURETIQUESEPARGNEURSDEPOTASSIUMSEULSOUASSOCIES93 a owl:NamedIndividual , :Familles;
+                          rdfs:label "DIURETIQUES EPARGNEURS DE POTASSIUM (SEULS OU ASSOCIES)" .
+:THEOPHYLLINEETPAREXTRAPOLATIONAMINOPHYLLINE23 a owl:NamedIndividual , :Familles;
+                          rdfs:label "THEOPHYLLINE (ET, PAR EXTRAPOLATION, AMINOPHYLLINE)" .
+:ANTIARYTHMIQUESea a owl:NamedIndividual , :Familles;
+                          rdfs:label "ANTIARYTHMIQUES" .
+:MEDICAMENTSSUSCEPTIBLESDEDONNERDESTORSADESDEPOINTESf0 a owl:NamedIndividual , :Familles;
+                          rdfs:label "MEDICAMENTS SUSCEPTIBLES DE DONNER DES TORSADES DE POINTES" .
+:TORSADOGENESSAUFANTIPARASITAIRESNEUROLEPTIQUESMETHADONEa3 a owl:NamedIndividual , :Familles;
+                          rdfs:label "TORSADOGENES (SAUF ANTIPARASITAIRES, NEUROLEPTIQUES, METHADONE)" .
+:NEUROLEPTIQUESANTIPSYCHOTIQUESSAUFCLOZAPINE16 a owl:NamedIndividual , :Familles;
+                          rdfs:label "NEUROLEPTIQUES ANTIPSYCHOTIQUES (SAUF CLOZAPINE)" .
+:NEUROLEPTIQUESSUSCEPTIBLESDEDONNERDESTORSADESDEPOINTES5e a owl:NamedIndividual , :Familles;
+                          rdfs:label "NEUROLEPTIQUES SUSCEPTIBLES DE DONNER DES TORSADES DE POINTES" .
+:ANTIDEPRESSEURSIMIPRAMINIQUES6c a owl:NamedIndividual , :Familles;
+                          rdfs:label "ANTIDEPRESSEURS IMIPRAMINIQUES" .
+:MEDICAMENTSMIXTESADRENERGIQUESSEROTONINERGIQUESae a owl:NamedIndividual , :Familles;
+                          rdfs:label "MEDICAMENTS MIXTES ADRENERGIQUES-SEROTONINERGIQUES" .
+:MEDICAMENTSALORIGINEDUNSYNDROMESEROTONINERGIQUE68 a owl:NamedIndividual , :Familles;
+                          rdfs:label "MEDICAMENTS A L'ORIGINE D'UN SYNDROME SEROTONINERGIQUE" .
+:ANTAGONISTESDESCANAUXCALCIQUES4e a owl:NamedIndividual , :Familles;
+                          rdfs:label "ANTAGONISTES DES CANAUX CALCIQUES" .
+:DIHYDROPYRIDINESe3 a owl:NamedIndividual , :Familles;
+                          rdfs:label "DIHYDROPYRIDINES" .
+:PENICILLINESd9 a owl:NamedIndividual , :Familles;
+                          rdfs:label "PENICILLINES" .
+:PENICILLINESAce a owl:NamedIndividual , :Familles;
+                          rdfs:label "PENICILLINES A" .
+:AMPRENAVIRETPAREXTRAPOLATIONFOSAMPRENAVIR43 a owl:NamedIndividual , :Familles;
+                          rdfs:label "AMPRENAVIR (ET, PAR EXTRAPOLATION, FOSAMPRENAVIR)" .
+:INHIBITEURSDEPROTEASESBOOSTESPARRITONAVIR23 a owl:NamedIndividual , :Familles;
+                          rdfs:label "INHIBITEURS DE PROTEASES BOOSTES PAR RITONAVIR" .
+:ANDROGENES89 a owl:NamedIndividual , :Familles;
+                          rdfs:label "ANDROGENES" .
+:INHIBITEURSDIRECTSDELATHROMBINEAINDICATIONSPECIFIQUEf6 a owl:NamedIndividual , :Familles;
+                          rdfs:label "INHIBITEURS DIRECTS DE LA THROMBINE A INDICATION SPECIFIQUE" .
+:INHIBITEURSDELHMGCOAREDUCTASESTATINESfb a owl:NamedIndividual , :Familles;
+                          rdfs:label "INHIBITEURS DE L'HMG-COA REDUCTASE (STATINES)" .
+:INHIBITEURSDELAPHOSPHODIESTERASEDETYPE537 a owl:NamedIndividual , :Familles;
+                          rdfs:label "INHIBITEURS DE LA PHOSPHODIESTERASE DE TYPE 5" .
+:INHIBITEURSDESTYROSINEKINASESMETABOLISES02 a owl:NamedIndividual , :Familles;
+                          rdfs:label "INHIBITEURS DES TYROSINE KINASES METABOLISES" .
+:ANTIPURINES23 a owl:NamedIndividual , :Familles;
+                          rdfs:label "ANTIPURINES" .
+:ANTAGONISTESDESRECEPTEURSDELANGIOTENSINEII80 a owl:NamedIndividual , :Familles;
+                          rdfs:label "ANTAGONISTES DES RECEPTEURS DE L'ANGIOTENSINE II" .
+:MACROLIDESSAUFSPIRAMYCINEe5 a owl:NamedIndividual , :Familles;
+                          rdfs:label "MACROLIDES (SAUF SPIRAMYCINE)" .
+:BETA2MIMETIQUES03 a owl:NamedIndividual , :Familles;
+                          rdfs:label "BETA-2 MIMETIQUES" .
+:VACCINSVIVANTSATTENUES35 a owl:NamedIndividual , :Familles;
+                          rdfs:label "VACCINS VIVANTS ATTENUES" .
+:ANTICORPSMONOCLONAUXHORSANTITNFALPHA64 a owl:NamedIndividual , :Familles;
+                          rdfs:label "ANTICORPS MONOCLONAUX (HORS ANTI-TNF ALPHA)" .
+:INHIBITEURSDELENZYMEDECONVERSION16 a owl:NamedIndividual , :Familles;
+                          rdfs:label "INHIBITEURS DE L'ENZYME DE CONVERSION" .
+:SPERMICIDES07 a owl:NamedIndividual , :Familles;
+                          rdfs:label "SPERMICIDES" .
+:URICOSURIQUES7d a owl:NamedIndividual , :Familles;
+                          rdfs:label "URICOSURIQUES" .
+:GLUCOCORTICOIDESSAUFHYDROCORTISONE73 a owl:NamedIndividual , :Familles;
+                          rdfs:label "GLUCOCORTICOIDES (SAUF HYDROCORTISONE)" .
+:FIBRATESff a owl:NamedIndividual , :Familles;
+                          rdfs:label "FIBRATES" .
+:ANTIPARKINSONIENSANTICHOLINERGIQUES3d a owl:NamedIndividual , :Familles;
+                          rdfs:label "ANTIPARKINSONIENS ANTICHOLINERGIQUES" .
+:BETABLOQUANTSDANSLINSUFFISANCECARDIAQUE78 a owl:NamedIndividual , :Familles;
+                          rdfs:label "BETA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE" .
+:IMAOAREVERSIBLESYCOMPRISLINEZOLIDEETBLEUDEMETHYLENEfb a owl:NamedIndividual , :Familles;
+                          rdfs:label "IMAO-A REVERSIBLES, Y COMPRIS LINEZOLIDE ET BLEU DE METHYLENE" .
+:INHIBITEURSPUISSANTSDUCYP3A4b3 a owl:NamedIndividual , :Familles;
+                          rdfs:label "INHIBITEURS PUISSANTS DU CYP3A4" .
+:ALCALOIDESDELERGOTDESEIGLEDOPAMINERGIQUES0e a owl:NamedIndividual , :Familles;
+                          rdfs:label "ALCALOIDES DE L'ERGOT DE SEIGLE DOPAMINERGIQUES" .
+:AUTRESCORTICOIDESNOTAMMENTINHALES38 a owl:NamedIndividual , :Familles;
+                          rdfs:label "AUTRES CORTICOIDES, NOTAMMENT INHALES" .
+:DIURETIQUESDELANSEfd a owl:NamedIndividual , :Familles;
+                          rdfs:label "DIURETIQUES DE L'ANSE" .
+:MORPHINIQUESAGONISTESANTAGONISTES97 a owl:NamedIndividual , :Familles;
+                          rdfs:label "MORPHINIQUES AGONISTES-ANTAGONISTES" .
+:MORPHINIQUESENTRAITEMENTDESUBSTITUTIONa2 a owl:NamedIndividual , :Familles;
+                          rdfs:label "MORPHINIQUES EN TRAITEMENT DE SUBSTITUTION" .
+:SYMPATHOMIMETIQUESINDIRECTSc3 a owl:NamedIndividual , :Familles;
+                          rdfs:label "SYMPATHOMIMETIQUES INDIRECTS" .
+:DOPAMINERGIQUESHORSPARKINSON74 a owl:NamedIndividual , :Familles;
+                          rdfs:label "DOPAMINERGIQUES, HORS PARKINSON" .
+:FLUOROURACILEETPAREXTRAPOLATIONAUTRESFLUOROPYRIMIDINESce a owl:NamedIndividual , :Familles;
+                          rdfs:label "FLUOROURACILE (ET, PAR EXTRAPOLATION, AUTRES FLUOROPYRIMIDINES)" .
+:ANTICONVULSIVANTSINDUCTEURSENZYMATIQUES34 a owl:NamedIndividual , :Familles;
+                          rdfs:label "ANTICONVULSIVANTS INDUCTEURS ENZYMATIQUES" .
+:INDUCTEURSENZYMATIQUESfd a owl:NamedIndividual , :Familles;
+                          rdfs:label "INDUCTEURS ENZYMATIQUES" .
+:ORGANOPLATINES4d a owl:NamedIndividual , :Familles;
+                          rdfs:label "ORGANOPLATINES" .
+:SULFAMIDESHYPOGLYCEMIANTSc4 a owl:NamedIndividual , :Familles;
+                          rdfs:label "SULFAMIDES HYPOGLYCEMIANTS" .
+:RESINESCHELATRICES5b a owl:NamedIndividual , :Familles;
+                          rdfs:label "RESINES CHELATRICES" .
+:ANTABUSEREACTION2d a owl:NamedIndividual , :Familles;
+                          rdfs:label "ANTABUSE (REACTION)" .
+:TOPIQUESGASTROINTESTINAUXANTIACIDESETADSORBANTS96 a owl:NamedIndividual , :Familles;
+                          rdfs:label "TOPIQUES GASTRO-INTESTINAUX, ANTIACIDES ET ADSORBANTS" .
+:PROGESTATIFSNONCONTRACEPTIFSASSOCIESOUNONAUNESTROGENEd6 a owl:NamedIndividual , :Familles;
+                          rdfs:label "PROGESTATIFS NON CONTRACEPTIFS, ASSOCIES OU NON A UN ESTROGENE" .
+:ANTIPARASITAIRESSUSCEPTIBLESDEDONNERDESTORSADESDEPOINTESc9 a owl:NamedIndividual , :Familles;
+                          rdfs:label "ANTIPARASITAIRES SUSCEPTIBLES DE DONNER DES TORSADES DE POINTES" .
+:CYCLINES0d a owl:NamedIndividual , :Familles;
+                          rdfs:label "CYCLINES" .
+:ANTIARYTHMIQUESCLASSEISAUFLIDOCAINEc3 a owl:NamedIndividual , :Familles;
+                          rdfs:label "ANTIARYTHMIQUES CLASSE I (SAUF LIDOCAINE)" .
+:IMMUNOSUPPRESSEURS15 a owl:NamedIndividual , :Familles;
+                          rdfs:label "IMMUNOSUPPRESSEURS" .
+:ANTISECRETOIRESANTIHISTAMINIQUESH2ae a owl:NamedIndividual , :Familles;
+                          rdfs:label "ANTISECRETOIRES ANTIHISTAMINIQUES H2" .
+:FLUOROQUINOLONESe9 a owl:NamedIndividual , :Familles;
+                          rdfs:label "FLUOROQUINOLONES" .
+:INHIBITEURSSELECTIFSDELARECAPTUREDELASEROTONINEdc a owl:NamedIndividual , :Familles;
+                          rdfs:label "INHIBITEURS SELECTIFS DE LA RECAPTURE DE LA SEROTONINE" .
+:CITRATESf9 a owl:NamedIndividual , :Familles;
+                          rdfs:label "CITRATES" .
+:LINCOSANIDES38 a owl:NamedIndividual , :Familles;
+                          rdfs:label "LINCOSANIDES" .
+:ANTIHYPERTENSEURSCENTRAUX01 a owl:NamedIndividual , :Familles;
+                          rdfs:label "ANTIHYPERTENSEURS CENTRAUX" .
+:MEDICAMENTSARISQUELORSDUSEVRAGETABAGIQUEd0 a owl:NamedIndividual , :Familles;
+                          rdfs:label "MEDICAMENTS A RISQUE LORS DU SEVRAGE TABAGIQUE" .
+:ANALGESIQUESMORPHINIQUESDEPALIERII81 a owl:NamedIndividual , :Familles;
+                          rdfs:label "ANALGESIQUES MORPHINIQUES DE PALIER II" .
+:ANTITUSSIFSMORPHINIQUESVRAIS3d a owl:NamedIndividual , :Familles;
+                          rdfs:label "ANTITUSSIFS MORPHINIQUES VRAIS" .
+:PROGESTATIFSCONTRACEPTIFS6c a owl:NamedIndividual , :Familles;
+                          rdfs:label "PROGESTATIFS CONTRACEPTIFS" .
+:HEPARINES26 a owl:NamedIndividual , :Familles;
+                          rdfs:label "HEPARINES" .
+:HEPARINESDEBASPOIDSMOLECULAIREETAPPARENTESDOSESCURATIVESETOUSUJETAGEe5 a owl:NamedIndividual , :Familles;
+                          rdfs:label "HEPARINES DE BAS POIDS MOLECULAIRE ET APPARENTES (DOSES CURATIVES ET/OU SUJET AGE)" .
+:HEPARINESDEBASPOIDSMOLECULAIREETAPPARENTESDOSESPREVENTIVESae a owl:NamedIndividual , :Familles;
+                          rdfs:label "HEPARINES DE BAS POIDS MOLECULAIRE ET APPARENTES (DOSES PREVENTIVES)" .
+:ANTISPASMODIQUESURINAIRES49 a owl:NamedIndividual , :Familles;
+                          rdfs:label "ANTISPASMODIQUES URINAIRES" .
+:ANESTHESIQUESVOLATILSHALOGENES81 a owl:NamedIndividual , :Familles;
+                          rdfs:label "ANESTHESIQUES VOLATILS HALOGENES" .
+:MINERALOCORTICOIDES3e a owl:NamedIndividual , :Familles;
+                          rdfs:label "MINERALOCORTICOIDES" .
+:ANTISECRETOIRESINHIBITEURSDELAPOMPEAPROTONSbc a owl:NamedIndividual , :Familles;
+                          rdfs:label "ANTISECRETOIRES INHIBITEURS DE LA POMPE A PROTONS" .
+:DEXTRAN40ed a owl:NamedIndividual , :Familles;
+                          rdfs:label "DEXTRAN 40" .
+:ANTITUSSIFSMORPHINELIKEbf a owl:NamedIndividual , :Familles;
+                          rdfs:label "ANTITUSSIFS MORPHINE-LIKE" .
+:ESTROPROGESTATIFSCONTRACEPTIFS2a a owl:NamedIndividual , :Familles;
+                          rdfs:label "ESTROPROGESTATIFS CONTRACEPTIFS" .
+:ESTROGENESNONCONTRACEPTIFS65 a owl:NamedIndividual , :Familles;
+                          rdfs:label "ESTROGENES NON CONTRACEPTIFS" .
+:ALCALOIDESDELERGOTDESEIGLEVASOCONSTRICTEURS78 a owl:NamedIndividual , :Familles;
+                          rdfs:label "ALCALOIDES DE L'ERGOT DE SEIGLE VASOCONSTRICTEURS" .
+:DERIVESNITRESETAPPARENTES56 a owl:NamedIndividual , :Familles;
+                          rdfs:label "DERIVES NITRES ET APPARENTES" .
+:ANTIARYTHMIQUESCLASSEIA97 a owl:NamedIndividual , :Familles;
+                          rdfs:label "ANTIARYTHMIQUES CLASSE IA" .
+:ANTIHYPERTENSEURSALPHABLOQUANTS9c a owl:NamedIndividual , :Familles;
+                          rdfs:label "ANTIHYPERTENSEURS ALPHA-BLOQUANTS" .
+:TRIPTANSNONMETABOLISESPARLAMAO92 a owl:NamedIndividual , :Familles;
+                          rdfs:label "TRIPTANS NON METABOLISES PAR LA MAO" .
+:INHIBITEURSDELACATECHOLOMETHYLTRANSFERASECOMT06 a owl:NamedIndividual , :Familles;
+                          rdfs:label "INHIBITEURS DE LA CATECHOL-O-METHYLTRANSFERASE (COMT)" .
+:PENEMS56 a owl:NamedIndividual , :Familles;
+                          rdfs:label "PENEMS" .
+:SYMPATHOMIMETIQUESALPHAVOIESORALEETOUNASALE91 a owl:NamedIndividual , :Familles;
+                          rdfs:label "SYMPATHOMIMETIQUES ALPHA (VOIES ORALE ET/OU NASALE)" .
+:ANTIFONGIQUESAZOLESc8 a owl:NamedIndividual , :Familles;
+                          rdfs:label "ANTIFONGIQUES AZOLES" .
+:PHENYTOINEETPAREXTRAPOLATIONFOSPHENYTOINE9d a owl:NamedIndividual , :Familles;
+                          rdfs:label "PHENYTOINE (ET, PAR EXTRAPOLATION, FOSPHENYTOINE)" .
+:ALUMINIUMSELS11 a owl:NamedIndividual , :Familles;
+                          rdfs:label "ALUMINIUM (SELS)" .
+:HEPARINESNONFRACTIONNEESDOSESCURATIVESETOUSUJETAGE0e a owl:NamedIndividual , :Familles;
+                          rdfs:label "HEPARINES NON FRACTIONNEES (DOSES CURATIVES ET/OU SUJET AGE)" .
+:HEPARINESNONFRACTIONNEESDOSESPREVENTIVES0b a owl:NamedIndividual , :Familles;
+                          rdfs:label "HEPARINES NON FRACTIONNEES (DOSES PREVENTIVES)" .
+:GLOBULINESANTILYMPHOCYTAIRES58 a owl:NamedIndividual , :Familles;
+                          rdfs:label "GLOBULINES ANTILYMPHOCYTAIRES" .
+:INSULINEda a owl:NamedIndividual , :Familles;
+                          rdfs:label "INSULINE" .
+:IMAOIRREVERSIBLES0b a owl:NamedIndividual , :Familles;
+                          rdfs:label "IMAO IRREVERSIBLES" .
+:ANALOGUESDELASOMATOSTATINEb4 a owl:NamedIndividual , :Familles;
+                          rdfs:label "ANALOGUES DE LA SOMATOSTATINE" .
+:HORMONESTHYROIDIENNESb9 a owl:NamedIndividual , :Familles;
+                          rdfs:label "HORMONES THYROIDIENNES" .
+:GLIPTINESca a owl:NamedIndividual , :Familles;
+                          rdfs:label "GLIPTINES" .
+:ANTISEPTIQUESMERCURIELS6d a owl:NamedIndividual , :Familles;
+                          rdfs:label "ANTISEPTIQUES MERCURIELS" .
+:DERIVESDELACIDEAMINOSALICYLIQUEASA6c a owl:NamedIndividual , :Familles;
+                          rdfs:label "DERIVES DE L'ACIDE AMINOSALICYLIQUE (ASA)" .
+:MORPHINIQUESANTAGONISTESPARTIELSdf a owl:NamedIndividual , :Familles;
+                          rdfs:label "MORPHINIQUES ANTAGONISTES PARTIELS" .
+:GLINIDES10 a owl:NamedIndividual , :Familles;
+                          rdfs:label "GLINIDES" .
+:TRAITEMENTSDESUBSTITUTIONNICOTINIQUE94 a owl:NamedIndividual , :Familles;
+                          rdfs:label "TRAITEMENTS DE SUBSTITUTION NICOTINIQUE" .
+:OMBITASVIRPARITAPREVIRa0 a owl:NamedIndividual , :Familles;
+                          rdfs:label "OMBITASVIR + PARITAPREVIR" .
+:HUILESMINERALES51 a owl:NamedIndividual , :Familles;
+                          rdfs:label "HUILES MINERALES" .
+:PHENOBARBITALETPAREXTRAPOLATIONPRIMIDONEe0 a owl:NamedIndividual , :Familles;
+                          rdfs:label "PHENOBARBITAL (ET, PAR EXTRAPOLATION, PRIMIDONE)" .
+:ANTIDIABETIQUESGLITAZONES9a a owl:NamedIndividual , :Familles;
+                          rdfs:label "ANTIDIABETIQUES GLITAZONES" .
+:IMAOB9a a owl:NamedIndividual , :Familles;
+                          rdfs:label "IMAO-B" .
+:VINCAALCALOIDESCYTOTOXIQUES68 a owl:NamedIndividual , :Familles;
+                          rdfs:label "VINCA-ALCALOIDES CYTOTOXIQUES" .

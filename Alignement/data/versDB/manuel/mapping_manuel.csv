@@ -1,0 +1,16 @@
+code	CUI	dci	code_atome	termino	lib_atome	lib_CUI	dci2	manu	lib_drugbank
+DB00030	C0020172	Insuline humaine recombinante	A20007234	MSHFRE	Insuline recombinante humaine de marque Lilly	Humulin S	NA	formof	Insulin Human
+DB00554	C0209263	Piroxicam-betadex	A6946275	SNOMEDCT_US	Piroxicam-betadex	piroxicam-beta-cyclodextrin	NA	formof	Piroxicam
+DB00798	C0017436	Gentamicine	A7452368	MSHFRE	Gentamicine	Gentamicins	NA	same	Gentamicin
+DB00825	C2698944	Menthol racemique	A22724530	MTHSPL	RACEMENTHOL	RACEMENTHOL	RACEMENTHOL	formof	Menthol
+DB01075	C0771516	Di(acefylline) diphenhydramine	A16795764	RXNORM	DIPHENHYDRAMINE DIACEFYLLINATE	DIPHENHYDRAMINE DIACEFYLLINATE	DIPHENHYDRAMINE DIACEFYLLINATE	formof	Diphenhydramine
+DB01088	C2711856	Iloprost trometamol	A16963806	SNOMEDCT_US	Iloprost trometamol	Iloprost trometamol	NA	formof	Iloprost
+DB01109	C0037513	Heparine sodique	A0715657	SNMI	Heparin sodium	Heparin sodium	Heparin sodium	formof	Heparin
+DB01306	C1273270	Insuline asparte isophane biphasique	A3811759	SNOMEDCT_US	Biphasic insulin aspart	Biphasic insulin aspart	Biphasic insulin aspart	formof	Insulin Aspart
+DB01378	C0126774	Dicitrate trimagnesien	A0201609	MMSL	magnesium citrate	magnesium citrate	magnesium citrate	formof	Magnesium
+DB01380	C0010137	Cortisone	A0043109	LCH	Cortisone	Cortisone	NA	hasform	Cortisone acetate
+DB03604	C0046882	Tiratricol	A0365346	MSH	tiratricol	tiratricol	NA	same	[4-(4-Hydroxy-3-Iodo-Phenoxy)-3,5-Diiodo-Phenyl]-Acetic Acid
+DB09139	C1337343	Acide oxidronique	A24115870	RXNORM	Oxidronic Acid	Oxidronic Acid	Acid oxidronic	same	Technetium Tc 99m Oxidronate
+DB09154	C0770575	Sodium (citrate de)	A18443362	RXNORM	potassium citrate / sodium citrate	potassium citrate / sodium citrate	citrate sodium	same	Sodium Citrate
+DB11365	C0330722	Sene de l'inde	A17556977	NCBI	Senna alexandrina	Senna alexandrina	Senna alexandrina	formof	Senna glycoside
+DB11365	C0330722	Sene de khartoum	A17556977	NCBI	Senna alexandrina	Senna alexandrina	Senna alexandrina	formof	Senna glycoside

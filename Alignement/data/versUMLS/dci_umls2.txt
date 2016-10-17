@@ -1,0 +1,131 @@
+Abciximab
+sulfafurazol
+Acid acetylsalicylic
+Acid alendronic
+Acid amidotrizoic
+Acid chenodesoxycholic
+Acid etidronic
+Acid ibandronic
+Acid ioxitalamic
+Acid medronic
+Acid mefenamic
+Acid oxidronic
+Acid pamidronic
+Acid risedronic
+Acid tiaprofenic
+Acid tiludronic
+Acid ursodesoxycholic
+Acid valproic
+Acid zoledronic
+Acitretin 
+Alfuzosin 
+Alitretinoin 
+Alminoprofen 
+Alteplase
+Amphotericin b
+trioxide arsenic
+Bacampicillin 
+Baclofen 
+Benethamine penicillin
+Benzylpenicillin 
+Bivalirudin 
+methylene blue
+Canrenoate Potassium
+polystyrene sulfonate
+Charcoal
+citrate gallium
+Dalteparin sodium
+Danaparoid sodium
+Dexketoprofen trometamol
+Dextromethorphan 
+DIPHENHYDRAMINE DIACEFYLLINATE
+Dibekacin 
+magnesium citrate
+Dirithromycin 
+Dosulepin 
+Doxepin 
+Enoxacin 
+Epirubicin 
+Eribulin 
+Erythromycin 
+Eslicarbazepine
+Estrogens Conjugated
+Fampridine
+Fluvastatin 
+Fosphenytoin 
+hydroxide aluminium
+Griseofulvin 
+Heparin calcium
+Heparin sodium
+Heparin sodique/iodur d sodium
+antithymocyte immunoglobulin (rabbit)
+thymocyte immunoglobulin equine
+Indometacin 
+Biphasic insulin aspart
+Regular Insulin Human
+Isepamicin 
+Isotretinoin 
+Kaolin
+Levofloxacin 
+Liothyronine sodium
+Lomefloxacin 
+Magnesium Hydroxide
+Magnesium trisilicate
+RACEMENTHOL
+Mianserin 
+Midecamycin 
+Monmectit 
+Moxifloxacin 
+Nadroparin calcium
+Netilmicin 
+Norelgestromin 
+Oxybutynin 
+acid aminosalicylic
+Phenoxymethylpenicillin 
+Phenytoin 
+Piperacillin 
+Pirarubicin 
+Pitavastatin 
+Pregabalin 
+Probenecid 
+licorice
+Saxagliptin 
+Senna alexandrina
+Silodosin 
+citrate sodium
+sodium acid citrate
+sodium picosulfate
+sodium ricinoleate
+Solifenacin 
+Tamsulosin 
+Teicoplanin 
+Telithromycin 
+Temocillin 
+Thyroxine
+Tinzaparin 
+Topotecan 
+Tretinoin 
+Trihexyphenidyl 
+Trimethoprim 
+Vildagliptin 
+Live Attenuated Yellow Fever Virus Vaccine [EPC]
+MEASLES VIRUS VACCINE,LIVE ATTENUATED
+Live Attenuated Rubella Virus Vaccine
+Varicella-zoster vaccine
+Live Attenuated Influenza A Virus Vaccine
+Acid acetohydroxamic
+Aldesleukin 
+Botulinum Toxins
+Caffeine
+Cefalotin 
+Dalfopristin 
+Fidaxomicin 
+mycophenolate sodium
+Gold
+Povidone-Iodine
+Quinupristin 
+sodium aurothiopropanol sulfonate
+Trabectedin 
+grapefruit food
+ethanol
+latex condom

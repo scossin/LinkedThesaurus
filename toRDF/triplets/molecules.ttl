@@ -1,0 +1,2208 @@
+@prefix : <http://thesaurus#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+# #################################################################
+# #
+# #   MOLECULES
+# #
+# #################################################################
+:ABATACEPTe2 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ABATACEPT" .
+:ABIRATERONE91 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ABIRATERONE" .
+:ACIDEACETOHYDROXAMIQUEb1 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ACIDE ACETOHYDROXAMIQUE" .
+:ACIDEASCORBIQUEb6 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ACIDE ASCORBIQUE" .
+:ACIDECHOLIQUE49 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ACIDE CHOLIQUE" .
+:ACIDEFUSIDIQUEd1 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ACIDE FUSIDIQUE" .
+:ACIDENICOTINIQUEec a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ACIDE NICOTINIQUE" .
+:AFATINIBfb a owl:NamedIndividual , :Molecules;
+                          rdfs:label "AFATINIB" .
+:ALBENDAZOLE59 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ALBENDAZOLE" .
+:ALDESLEUKINEfa a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ALDESLEUKINE" .
+:ALPHATOCOPHEROL63 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ALPHA-TOCOPHEROL" .
+:AMBRISENTANf0 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "AMBRISENTAN" .
+:AMINOGLUTETHIMIDE4f a owl:NamedIndividual , :Molecules;
+                          rdfs:label "AMINOGLUTETHIMIDE" .
+:ANAGRELIDE5d a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ANAGRELIDE" .
+:ANAKINRAee a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ANAKINRA" .
+:APREPITANTdb a owl:NamedIndividual , :Molecules;
+                          rdfs:label "APREPITANT" .
+:ATALURENea a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ATALUREN" .
+:ATOVAQUONEb6 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ATOVAQUONE" .
+:AZTREONAMb7 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "AZTREONAM" .
+:BEDAQUILINEa6 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BEDAQUILINE" .
+:BELATACEPTfa a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BELATACEPT" .
+:BOSENTANd1 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BOSENTAN" .
+:BOTULIQUETOXINE7b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BOTULIQUE (TOXINE)" .
+:CAFEINE54 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CAFEINE" .
+:CALCITONINEcb a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CALCITONINE" .
+:CALCIUM22 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CALCIUM" .
+:CETUXIMABf8 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CETUXIMAB" .
+:CINACALCET29 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CINACALCET" .
+:COLCHICINEbb a owl:NamedIndividual , :Molecules;
+                          rdfs:label "COLCHICINE" .
+:CYANOCOBALAMINEba a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CYANOCOBALAMINE" .
+:DACLATASVIRcd a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DACLATASVIR" .
+:DALFOPRISTINE68 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DALFOPRISTINE" .
+:DANAZOLea a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DANAZOL" .
+:DANTROLENE24 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DANTROLENE" .
+:DAPTOMYCINEef a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DAPTOMYCINE" .
+:DASABUVIR8d a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DASABUVIR" .
+:DEFERASIROX1b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DEFERASIROX" .
+:DEFERIPRONE39 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DEFERIPRONE" .
+:DEFEROXAMINE36 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DEFEROXAMINE" .
+:DEFIBROTIDE0a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DEFIBROTIDE" .
+:DELAMANID94 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DELAMANID" .
+:DIDANOSINE35 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DIDANOSINE" .
+:DIPROPHYLLINEd2 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DIPROPHYLLINE" .
+:DIPYRIDAMOLE92 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DIPYRIDAMOLE" .
+:EBASTINE6d a owl:NamedIndividual , :Molecules;
+                          rdfs:label "EBASTINE" .
+:ECONAZOLEdf a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ECONAZOLE" .
+:ELTROMBOPAG5b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ELTROMBOPAG" .
+:ETRAVIRINE98 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ETRAVIRINE" .
+:EXEMESTANEcd a owl:NamedIndividual , :Molecules;
+                          rdfs:label "EXEMESTANE" .
+:EZETIMIBEb4 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "EZETIMIBE" .
+:FIDAXOMICINE6f a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FIDAXOMICINE" .
+:FLUCYTOSINEad a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FLUCYTOSINE" .
+:GLYCEROLad a owl:NamedIndividual , :Molecules;
+                          rdfs:label "GLYCEROL" .
+:GUANETHIDINE71 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "GUANETHIDINE" .
+:IDELALISIB97 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "IDELALISIB" .
+:INTERFERONALFA5b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "INTERFERON ALFA" .
+:ISAVUCONAZOLE39 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ISAVUCONAZOLE" .
+:ISOPRENALINEa7 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ISOPRENALINE" .
+:IVACAFTORa9 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "IVACAFTOR" .
+:LAMIVUDINE79 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "LAMIVUDINE" .
+:LENALIDOMIDE03 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "LENALIDOMIDE" .
+:LEVOCARNITINE02 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "LEVOCARNITINE" .
+:LITHIUMff a owl:NamedIndividual , :Molecules;
+                          rdfs:label "LITHIUM" .
+:LOMITAPIDE17 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "LOMITAPIDE" .
+:LURASIDONE48 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "LURASIDONE" .
+:MACITENTAN9b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MACITENTAN" .
+:MANNITOL7b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MANNITOL" .
+:MARAVIROCa1 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MARAVIROC" .
+:METFORMINE42 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "METFORMINE" .
+:METHENAMINE51 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "METHENAMINE" .
+:METYRAPONE93 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "METYRAPONE" .
+:MICONAZOLEfe a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MICONAZOLE" .
+:MITOTANEf3 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MITOTANE" .
+:MODAFINIL80 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MODAFINIL" .
+:MONTELUKAST08 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MONTELUKAST" .
+:MYCOPHENOLATEMOFETIL00 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MYCOPHENOLATE MOFETIL" .
+:MYCOPHENOLATESODIQUE65 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MYCOPHENOLATE SODIQUE" .
+:OLAPARIB98 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "OLAPARIB" .
+:OR1d a owl:NamedIndividual , :Molecules;
+                          rdfs:label "OR" .
+:ORLISTATd5 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ORLISTAT" .
+:PARACETAMOL9a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PARACETAMOL" .
+:PEGINTERFERONALFA2A05 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PEG-INTERFERON ALFA-2A" .
+:PEMETREXED2c a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PEMETREXED" .
+:PENTOXIFYLLINE7d a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PENTOXIFYLLINE" .
+:PIRFENIDONE7f a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PIRFENIDONE" .
+:POLYMYXINEB77 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "POLYMYXINE B" .
+:POVIDONEIODEE38 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "POVIDONE IODEE" .
+:PRAZIQUANTEL31 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PRAZIQUANTEL" .
+:PRISTINAMYCINE9e a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PRISTINAMYCINE" .
+:PYRAZINAMIDEd3 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PYRAZINAMIDE" .
+:PYRIMETHAMINEe8 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PYRIMETHAMINE" .
+:QUINUPRISTINE73 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "QUINUPRISTINE" .
+:RACECADOTRILb2 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "RACECADOTRIL" .
+:RALTEGRAVIRed a owl:NamedIndividual , :Molecules;
+                          rdfs:label "RALTEGRAVIR" .
+:RANOLAZINE75 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "RANOLAZINE" .
+:REGORAFENIB59 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "REGORAFENIB" .
+:RESERPINE43 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "RESERPINE" .
+:RIBAVIRINEf1 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "RIBAVIRINE" .
+:RILPIVIRINE80 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "RILPIVIRINE" .
+:RUFINAMIDE5c a owl:NamedIndividual , :Molecules;
+                          rdfs:label "RUFINAMIDE" .
+:SALMETEROL36 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SALMETEROL" .
+:SIMEPREVIRb0 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SIMEPREVIR" .
+:SODIUMAUROTHIOPROPANOLSULFONATEDEfb a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SODIUM (AUROTHIOPROPANOLSULFONATE DE)" .
+:SODIUMCHLORUREDE45 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SODIUM (CHLORURE DE)" .
+:SODIUMOXYBATEDE14 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SODIUM (OXYBATE DE)" .
+:SOFOSBUVIR18 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SOFOSBUVIR" .
+:SORBITOL34 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SORBITOL" .
+:STAVUDINEe1 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "STAVUDINE" .
+:STIRIPENTOL00 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "STIRIPENTOL" .
+:STRONTIUMa0 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "STRONTIUM" .
+:SUCRALFATE58 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SUCRALFATE" .
+:SULFINPYRAZONE9c a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SULFINPYRAZONE" .
+:TAMOXIFENE7a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TAMOXIFENE" .
+:TELBIVUDINEb9 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TELBIVUDINE" .
+:TERBINAFINE3f a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TERBINAFINE" .
+:TIABENDAZOLE2e a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TIABENDAZOLE" .
+:TIANEPTINE4a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TIANEPTINE" .
+:TIBOLONEe3 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TIBOLONE" .
+:TRABECTEDINE63 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TRABECTEDINE" .
+:TRICLABENDAZOLE74 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TRICLABENDAZOLE" .
+:VEMURAFENIBc1 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "VEMURAFENIB" .
+:VIDARABINE4c a owl:NamedIndividual , :Molecules;
+                          rdfs:label "VIDARABINE" .
+:VISMODEGIBfd a owl:NamedIndividual , :Molecules;
+                          rdfs:label "VISMODEGIB" .
+:VITAMINEA02 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "VITAMINE A" .
+:YOHIMBINEb4 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "YOHIMBINE" .
+:ZALCITABINE48 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ZALCITABINE" .
+:ZIDOVUDINE6b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ZIDOVUDINE" .
+:ZINC52 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ZINC" .
+:SODIUMOXYBATEDEf8 a owl:NamedIndividual , :Molecules;
+                          rdfs:label " SODIUM (OXYBATE DE)" .
+:ABCIXIMABC7E3BFABd7 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ABCIXIMAB (C 7E3B FAB)" .
+:ACEBUTOLOLbc a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ACEBUTOLOL" .
+:ACECLOFENACc2 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ACECLOFENAC" .
+:ACENOCOUMAROL08 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ACENOCOUMAROL" .
+:ACEPROMAZINE32 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ACEPROMAZINE" .
+:ACEPROMETAZINE3a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ACEPROMETAZINE" .
+:ACETAZOLAMIDEd4 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ACETAZOLAMIDE" .
+:ACETYLSULFAFURAZOL57 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ACETYLSULFAFURAZOL" .
+:ACICLOVIRe3 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ACICLOVIR" .
+:ACIDEACETYLSALICYLIQUE46 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ACIDE ACETYLSALICYLIQUE" .
+:ACIDEALENDRONIQUE6d a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ACIDE ALENDRONIQUE" .
+:ACIDEAMIDOTRIZOIQUE8f a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ACIDE AMIDOTRIZOIQUE" .
+:ACIDECHENODESOXYCHOLIQUE8a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ACIDE CHENODESOXYCHOLIQUE" .
+:ACIDECLODRONIQUE2f a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ACIDE CLODRONIQUE" .
+:ACIDEETIDRONIQUE92 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ACIDE ETIDRONIQUE" .
+:ACIDEFOLINIQUEb9 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ACIDE FOLINIQUE" .
+:ACIDEFOLIQUE12 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ACIDE FOLIQUE" .
+:ACIDEIBANDRONIQUEa7 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ACIDE IBANDRONIQUE" .
+:ACIDEIOXAGLIQUE03 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ACIDE IOXAGLIQUE" .
+:ACIDEIOXITALAMIQUE96 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ACIDE IOXITALAMIQUE" .
+:ACIDEMEDRONIQUE1b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ACIDE MEDRONIQUE" .
+:ACIDEMEFENAMIQUE2e a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ACIDE MEFENAMIQUE" .
+:ACIDENIFLUMIQUE61 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ACIDE NIFLUMIQUE" .
+:ACIDEOXIDRONIQUE49 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ACIDE OXIDRONIQUE" .
+:ACIDEPAMIDRONIQUE64 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ACIDE PAMIDRONIQUE" .
+:ACIDERISEDRONIQUEaf a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ACIDE RISEDRONIQUE" .
+:ACIDETIAPROFENIQUE07 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ACIDE TIAPROFENIQUE" .
+:ACIDETILUDRONIQUE8e a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ACIDE TILUDRONIQUE" .
+:ACIDEURSODESOXYCHOLIQUE08 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ACIDE URSODESOXYCHOLIQUE" .
+:ACIDEVALPROIQUEe1 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ACIDE VALPROIQUE" .
+:ACIDEZOLEDRONIQUE4b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ACIDE ZOLEDRONIQUE" .
+:ACITRETINE4a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ACITRETINE" .
+:ADALIMUMAB7d a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ADALIMUMAB" .
+:ADEFOVIR4c a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ADEFOVIR" .
+:ADRENALINEc0 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ADRENALINE" .
+:AGOMELATINEdc a owl:NamedIndividual , :Molecules;
+                          rdfs:label "AGOMELATINE" .
+:ALCURONIUMf7 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ALCURONIUM" .
+:ALFACALCIDOLd9 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ALFACALCIDOL" .
+:ALFENTANIL63 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ALFENTANIL" .
+:ALFUZOSINE08 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ALFUZOSINE" .
+:ALIMEMAZINEb7 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ALIMEMAZINE" .
+:ALISKIREN2d a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ALISKIREN" .
+:ALITRETINOINE92 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ALITRETINOINE" .
+:ALIZAPRIDE27 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ALIZAPRIDE" .
+:ALLOBARBITAL9f a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ALLOBARBITAL" .
+:ALLOPURINOL33 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ALLOPURINOL" .
+:ALMINOPROFENE9e a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ALMINOPROFENE" .
+:ALMOTRIPTANcb a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ALMOTRIPTAN" .
+:ALPHAPINENE44 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ALPHA-PINENE" .
+:ALPRAZOLAM19 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ALPRAZOLAM" .
+:ALTEPLASERECOMBINANTE86 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ALTEPLASE RECOMBINANTE" .
+:ALTIZIDE1a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ALTIZIDE" .
+:ALTRETAMINEf5 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ALTRETAMINE" .
+:AMANTADINEe1 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "AMANTADINE" .
+:AMBENONIUMa3 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "AMBENONIUM" .
+:AMIFOSTINE8a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "AMIFOSTINE" .
+:AMIKACINE54 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "AMIKACINE" .
+:AMILORIDE1d a owl:NamedIndividual , :Molecules;
+                          rdfs:label "AMILORIDE" .
+:AMINOPHYLLINE1c a owl:NamedIndividual , :Molecules;
+                          rdfs:label "AMINOPHYLLINE" .
+:AMIODARONE86 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "AMIODARONE" .
+:AMISULPRIDE87 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "AMISULPRIDE" .
+:AMITRIPTYLINEdc a owl:NamedIndividual , :Molecules;
+                          rdfs:label "AMITRIPTYLINE" .
+:AMLODIPINEab a owl:NamedIndividual , :Molecules;
+                          rdfs:label "AMLODIPINE" .
+:AMOBARBITALa7 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "AMOBARBITAL" .
+:AMOXAPINEb1 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "AMOXAPINE" .
+:AMOXICILLINEa7 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "AMOXICILLINE" .
+:AMPHOTERICINEBf7 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "AMPHOTERICINE B" .
+:AMPICILLINE0a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "AMPICILLINE" .
+:AMPRENAVIR36 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "AMPRENAVIR" .
+:AMSACRINE2a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "AMSACRINE" .
+:ANDROSTANOLONE65 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ANDROSTANOLONE" .
+:APIXABAN17 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "APIXABAN" .
+:APOMORPHINEbd a owl:NamedIndividual , :Molecules;
+                          rdfs:label "APOMORPHINE" .
+:ARGATROBANa1 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ARGATROBAN" .
+:ARIPIPRAZOLE45 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ARIPIPRAZOLE" .
+:ARSENIEUXe1 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ARSENIEUX" .
+:ASENAPINE16 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ASENAPINE" .
+:ASPARAGINASE57 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ASPARAGINASE" .
+:ATAZANAVIR6a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ATAZANAVIR" .
+:ATENOLOLbe a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ATENOLOL" .
+:ATOMOXETINEb2 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ATOMOXETINE" .
+:ATORVASTATINE3c a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ATORVASTATINE" .
+:ATRACURIUMb1 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ATRACURIUM" .
+:ATROPINE27 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ATROPINE" .
+:AVANAFILcb a owl:NamedIndividual , :Molecules;
+                          rdfs:label "AVANAFIL" .
+:AVIZAFONEa1 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "AVIZAFONE" .
+:AXITINIB2e a owl:NamedIndividual , :Molecules;
+                          rdfs:label "AXITINIB" .
+:AZACITIDINEd8 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "AZACITIDINE" .
+:AZATADINEae a owl:NamedIndividual , :Molecules;
+                          rdfs:label "AZATADINE" .
+:AZATHIOPRINE2c a owl:NamedIndividual , :Molecules;
+                          rdfs:label "AZATHIOPRINE" .
+:AZELASTINE65 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "AZELASTINE" .
+:AZILSARTANcb a owl:NamedIndividual , :Molecules;
+                          rdfs:label "AZILSARTAN" .
+:AZITHROMYCINE11 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "AZITHROMYCINE" .
+:BACAMPICILLINE3b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BACAMPICILLINE" .
+:BACLOFENE75 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BACLOFENE" .
+:BAMBUTEROL7e a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BAMBUTEROL" .
+:BARBITALb3 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BARBITAL" .
+:BARNIDIPINEa5 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BARNIDIPINE" .
+:BCG50 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BCG" .
+:BEFUNOLOL2f a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BEFUNOLOL" .
+:BELIMUMABed a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BELIMUMAB" .
+:BENAZEPRIL9e a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BENAZEPRIL" .
+:BENDAMUSTINE9a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BENDAMUSTINE" .
+:BENDROFLUMETHIAZIDE54 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BENDROFLUMETHIAZIDE" .
+:BENETHAMINEPENICILLINE2f a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BENETHAMINE-PENICILLINE" .
+:BENZALKONIUM2b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BENZALKONIUM" .
+:BENZBROMARONEc6 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BENZBROMARONE" .
+:BENZOCAINE4a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BENZOCAINE" .
+:BENZYLPENICILLINEe8 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BENZYLPENICILLINE" .
+:BETAMETHASONEbb a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BETAMETHASONE" .
+:BETAPINENEa7 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BETA-PINENE" .
+:BETAXOLOL15 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BETAXOLOL" .
+:BEZAFIBRATE37 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BEZAFIBRATE" .
+:BIPERIDENE88 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BIPERIDENE" .
+:BISACODYL54 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BISACODYL" .
+:BISOPROLOL26 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BISOPROLOL" .
+:BIVALIRUDINE24 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BIVALIRUDINE" .
+:BLEOMYCINEee a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BLEOMYCINE" .
+:BLEUDEMETHYLENE23 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BLEU DE METHYLENE" .
+:BOCEPREVIR11 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BOCEPREVIR" .
+:BOLDO51 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BOLDO" .
+:BORTEZOMIB7d a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BORTEZOMIB" .
+:BOSUTINIBe0 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BOSUTINIB" .
+:BOURDAINEfd a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BOURDAINE" .
+:BRENTUXIMAB8e a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BRENTUXIMAB" .
+:BROMAZEPAMd6 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BROMAZEPAM" .
+:BROMOCRIPTINE16 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BROMOCRIPTINE" .
+:BROMPHENIRAMINEae a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BROMPHENIRAMINE" .
+:BROTIZOLAM4a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BROTIZOLAM" .
+:BUCLIZINE07 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BUCLIZINE" .
+:BUDESONIDE88 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BUDESONIDE" .
+:BUMETANIDEb5 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BUMETANIDE" .
+:BUPRENORPHINE72 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BUPRENORPHINE" .
+:BUPROPION40 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BUPROPION" .
+:BUSULFAN03 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BUSULFAN" .
+:BUTALBITALe6 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BUTALBITAL" .
+:BUTOBARBITAL38 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "BUTOBARBITAL" .
+:CABAZITAXEL7b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CABAZITAXEL" .
+:CABERGOLINE74 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CABERGOLINE" .
+:CABOZANTINIB93 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CABOZANTINIB" .
+:CAFEDRINE60 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CAFEDRINE" .
+:CAJEPUT9a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CAJEPUT" .
+:CALCITRIOL2c a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CALCITRIOL" .
+:CAMAZEPAMd5 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CAMAZEPAM" .
+:CAMPHRE6a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CAMPHRE" .
+:CANAKINUMABb5 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CANAKINUMAB" .
+:CANDESARTANCILEXETIL44 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CANDESARTAN CILEXETIL" .
+:CANRENOATEDEPOTASSIUMb5 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CANRENOATE DE POTASSIUM" .
+:CAPECITABINE8f a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CAPECITABINE" .
+:CAPTODIAME6f a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CAPTODIAME" .
+:CAPTOPRIL43 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CAPTOPRIL" .
+:CARBAMAZEPINE1b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CARBAMAZEPINE" .
+:CARBINOXAMINEdb a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CARBINOXAMINE" .
+:CARBOPLATINEdc a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CARBOPLATINE" .
+:CARBUTAMIDE6a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CARBUTAMIDE" .
+:CARMUSTINEe1 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CARMUSTINE" .
+:CARPIPRAMINE08 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CARPIPRAMINE" .
+:CARTEOLOLd7 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CARTEOLOL" .
+:CARVEDILOLa1 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CARVEDILOL" .
+:CASCARAe4 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CASCARA" .
+:CASCARASAGRADA9d a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CASCARA SAGRADA" .
+:CATIORESINESULFOCALCIQUEbe a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CATIORESINE SULFO CALCIQUE" .
+:CATIORESINESULFOSODIQUE45 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CATIORESINE SULFO SODIQUE" .
+:CEFAMANDOLEbf a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CEFAMANDOLE" .
+:CELECOXIBdd a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CELECOXIB" .
+:CELIPROLOLc8 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CELIPROLOL" .
+:CERITINIBe8 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CERITINIB" .
+:CERTOLIZUMABa2 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CERTOLIZUMAB" .
+:CETALKONIUM03 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CETALKONIUM" .
+:CETUXIMABf8 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CETUXIMAB" .
+:CHARBONACTIVE5b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CHARBON ACTIVE" .
+:CHARBONVEGETALOFFICINALb7 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CHARBON VEGETAL OFFICINAL" .
+:CHLORAMBUCIL6c a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CHLORAMBUCIL" .
+:CHLORDIAZEPOXIDEc6 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CHLORDIAZEPOXIDE" .
+:CHLORMADINONE66 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CHLORMADINONE" .
+:CHLORMETHINEff a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CHLORMETHINE" .
+:CHLOROQUINEd6 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CHLOROQUINE" .
+:CHLORPHENAMINE69 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CHLORPHENAMINE" .
+:CHLORPHENOXAMINE41 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CHLORPHENOXAMINE" .
+:CHLORPROETHAZINE7b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CHLORPROETHAZINE" .
+:CHLORPROMAZINE65 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CHLORPROMAZINE" .
+:CHLORPROPAMIDE20 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CHLORPROPAMIDE" .
+:CHLORTALIDONE8d a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CHLORTALIDONE" .
+:CHLORTETRACYCLINE04 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CHLORTETRACYCLINE" .
+:CHOLECALCIFEROL23 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CHOLECALCIFEROL" .
+:CIBENZOLINE39 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CIBENZOLINE" .
+:CICLESONIDE74 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CICLESONIDE" .
+:CICLETANINE7d a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CICLETANINE" .
+:CICLOSPORINE99 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CICLOSPORINE" .
+:CIDOFOVIRfd a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CIDOFOVIR" .
+:CILAZAPRILe5 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CILAZAPRIL" .
+:CILOSTAZOLa8 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CILOSTAZOL" .
+:CIMETIDINE51 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CIMETIDINE" .
+:CINEOLEc8 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CINEOLE" .
+:CIPROFIBRATE93 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CIPROFIBRATE" .
+:CIPROFLOXACINE81 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CIPROFLOXACINE" .
+:CISATRACURIUM22 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CISATRACURIUM" .
+:CISPLATINE71 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CISPLATINE" .
+:CITALOPRAM5b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CITALOPRAM" .
+:CITRATEDEGALLIUM67GAa9 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CITRATE DE GALLIUM [67GA]" .
+:CLADRIBINE4d a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CLADRIBINE" .
+:CLARITHROMYCINEa7 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CLARITHROMYCINE" .
+:CLEVIDIPINEaa a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CLEVIDIPINE" .
+:CLIDINIUM42 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CLIDINIUM" .
+:CLINDAMYCINE84 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CLINDAMYCINE" .
+:CLOBAZAM42 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CLOBAZAM" .
+:CLOCINIZINEcb a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CLOCINIZINE" .
+:CLOFARABINE80 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CLOFARABINE" .
+:CLOFIBRATEea a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CLOFIBRATE" .
+:CLOMIPRAMINEa0 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CLOMIPRAMINE" .
+:CLONAZEPAM7c a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CLONAZEPAM" .
+:CLONIDINE57 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CLONIDINE" .
+:CLOPAMIDEee a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CLOPAMIDE" .
+:CLOPIDOGRELdb a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CLOPIDOGREL" .
+:CLORAZEPATE62 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CLORAZEPATE" .
+:CLOTIAZEPAMfa a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CLOTIAZEPAM" .
+:CLOXACILLINEb5 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CLOXACILLINE" .
+:CLOXAZOLAM24 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CLOXAZOLAM" .
+:CLOZAPINEee a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CLOZAPINE" .
+:COBICISTAT8a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "COBICISTAT" .
+:CODEINEc5 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CODEINE" .
+:COLESEVELAM1b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "COLESEVELAM" .
+:COLESTILANa6 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "COLESTILAN" .
+:COLESTYRAMINEc9 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "COLESTYRAMINE" .
+:COLISTINE46 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "COLISTINE" .
+:CORTISONEc9 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CORTISONE" .
+:CORTIVAZOL74 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CORTIVAZOL" .
+:CRIZOTINIB3a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CRIZOTINIB" .
+:CYAMEMAZINE9e a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CYAMEMAZINE" .
+:CYCLIZINE33 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CYCLIZINE" .
+:CYCLOBARBITALfc a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CYCLOBARBITAL" .
+:CYCLOPENTOLATE5f a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CYCLOPENTOLATE" .
+:CYCLOPHOSPHAMIDE3e a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CYCLOPHOSPHAMIDE" .
+:CYCLOTHIAZIDE0f a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CYCLOTHIAZIDE" .
+:CYPROHEPTADINEfc a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CYPROHEPTADINE" .
+:CYPROTERONE03 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CYPROTERONE" .
+:CYTARABINE83 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "CYTARABINE" .
+:DABIGATRAN34 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DABIGATRAN" .
+:DABRAFENIB65 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DABRAFENIB" .
+:DACARBAZINE66 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DACARBAZINE" .
+:DACTINOMYCINE38 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DACTINOMYCINE" .
+:DALTEPARINESODIQUEfe a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DALTEPARINE SODIQUE" .
+:DANAPAROIDESODIQUEc4 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DANAPAROIDE SODIQUE" .
+:DAPOXETINE9d a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DAPOXETINE" .
+:DAPSONE9f a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DAPSONE" .
+:DARIFENACINE0f a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DARIFENACINE" .
+:DARUNAVIRf8 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DARUNAVIR" .
+:DASATINIB2f a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DASATINIB" .
+:DAUNORUBICINE82 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DAUNORUBICINE" .
+:DECITABINE6b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DECITABINE" .
+:DELORAZEPAM0d a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DELORAZEPAM" .
+:DEMECLOCYCLINEdd a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DEMECLOCYCLINE" .
+:DESFLURANEa2 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DESFLURANE" .
+:DESIPRAMINE64 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DESIPRAMINE" .
+:DESIRUDINEc5 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DESIRUDINE" .
+:DESMOPRESSINEab a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DESMOPRESSINE" .
+:DESOGESTRELa6 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DESOGESTREL" .
+:DESOXYCORTONE86 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DESOXYCORTONE" .
+:DEXAMETHASONE66 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DEXAMETHASONE" .
+:DEXCHLORPHENIRAMINEc0 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DEXCHLORPHENIRAMINE" .
+:DEXKETOPROFENETROMETAMOLa4 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DEXKETOPROFENE TROMETAMOL" .
+:DEXLANSOPRAZOLEa3 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DEXLANSOPRAZOLE" .
+:DEXMEDETOMIDINE42 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DEXMEDETOMIDINE" .
+:DEXRAZOXANE60 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DEXRAZOXANE" .
+:DEXTRAN10 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DEXTRAN" .
+:DEXTROMETHORPHANEb8 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DEXTROMETHORPHANE" .
+:DEXTROMORAMIDEd8 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DEXTROMORAMIDE" .
+:DIACEFYLLINEDIPHENHYDRAMINEe6 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DI(ACEFYLLINE) DIPHENHYDRAMINE" .
+:DIAZEPAM7a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DIAZEPAM" .
+:DIBEKACINE4a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DIBEKACINE" .
+:DICITRATETRIMAGNESIENa4 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DICITRATE TRIMAGNESIEN" .
+:DICLOFENACab a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DICLOFENAC" .
+:DICLOXACILLINEb6 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DICLOXACILLINE" .
+:DIENOGEST82 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DIENOGEST" .
+:DIETHYLSTILBESTROLbb a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DIETHYLSTILBESTROL" .
+:DIGOXINE8c a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DIGOXINE" .
+:DIHEXYVERINE13 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DIHEXYVERINE" .
+:DIHYDRALAZINEaa a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DIHYDRALAZINE" .
+:DIHYDROCODEINE38 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DIHYDROCODEINE" .
+:DIHYDROERGOTAMINEf6 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DIHYDROERGOTAMINE" .
+:DILTIAZEM70 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DILTIAZEM" .
+:DIMENHYDRINATE85 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DIMENHYDRINATE" .
+:DINITRATEDISOSORBIDE44 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DINITRATE D'ISOSORBIDE" .
+:DIOSMECTITE77 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DIOSMECTITE" .
+:DIPHEMANILa7 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DIPHEMANIL" .
+:DIPHENHYDRAMINE3c a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DIPHENHYDRAMINE" .
+:DIRITHROMYCINE02 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DIRITHROMYCINE" .
+:DISOPYRAMIDE76 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DISOPYRAMIDE" .
+:DISULFIRAMEbc a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DISULFIRAME" .
+:DOCETAXEL27 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DOCETAXEL" .
+:DOLASETRON58 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DOLASETRON" .
+:DOLUTEGRAVIRab a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DOLUTEGRAVIR" .
+:DOMPERIDONE4e a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DOMPERIDONE" .
+:DONEPEZIL23 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DONEPEZIL" .
+:DOPAMINE36 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DOPAMINE" .
+:DOSULEPINE9f a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DOSULEPINE" .
+:DOXAZOSINE5f a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DOXAZOSINE" .
+:DOXEPINE63 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DOXEPINE" .
+:DOXORUBICINE53 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DOXORUBICINE" .
+:DOXYCYCLINE00 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DOXYCYCLINE" .
+:DOXYLAMINE8a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DOXYLAMINE" .
+:DRONEDARONEbc a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DRONEDARONE" .
+:DROPERIDOL1c a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DROPERIDOL" .
+:DROSPIRENONE47 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DROSPIRENONE" .
+:DULOXETINE10 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DULOXETINE" .
+:DYDROGESTERONE6f a owl:NamedIndividual , :Molecules;
+                          rdfs:label "DYDROGESTERONE" .
+:EFAVIRENZ33 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "EFAVIRENZ" .
+:ELETRIPTANc3 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ELETRIPTAN" .
+:ELVITEGRAVIRcb a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ELVITEGRAVIR" .
+:ENALAPRIL7c a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ENALAPRIL" .
+:ENFLURANEb7 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ENFLURANE" .
+:ENOXACINE04 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ENOXACINE" .
+:ENOXAPARINE08 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ENOXAPARINE" .
+:ENTACAPONE86 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ENTACAPONE" .
+:ENZALUTAMIDE34 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ENZALUTAMIDE" .
+:EPHEDRINE35 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "EPHEDRINE" .
+:EPIRUBICINE72 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "EPIRUBICINE" .
+:EPLERENONEfb a owl:NamedIndividual , :Molecules;
+                          rdfs:label "EPLERENONE" .
+:EPOPROSTENOL79 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "EPOPROSTENOL" .
+:EPROSARTAN16 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "EPROSARTAN" .
+:EPTIFIBATIDEcb a owl:NamedIndividual , :Molecules;
+                          rdfs:label "EPTIFIBATIDE" .
+:ERGOCALCIFEROLff a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ERGOCALCIFEROL" .
+:ERGOTAMINEe7 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ERGOTAMINE" .
+:ERIBULINEa1 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ERIBULINE" .
+:ERLOTINIB76 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ERLOTINIB" .
+:ERTAPENEM80 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ERTAPENEM" .
+:ERYTHROMYCINE03 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ERYTHROMYCINE" .
+:ESCITALOPRAM6e a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ESCITALOPRAM" .
+:ESCLICARBAZEPINE7e a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ESCLICARBAZEPINE" .
+:ESMOLOLe4 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ESMOLOL" .
+:ESOMEPRAZOLEd0 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ESOMEPRAZOLE" .
+:ESTAZOLAM5d a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ESTAZOLAM" .
+:ESTRADIOL05 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ESTRADIOL" .
+:ESTRAMUSTINE39 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ESTRAMUSTINE" .
+:ESTRIOL35 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ESTRIOL" .
+:ESTROGENESSULFOCONJUGUESEQUINS9c a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ESTROGENES SULFOCONJUGUES EQUINS" .
+:ESTRONEa6 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ESTRONE" .
+:ETANERCEPT35 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ETANERCEPT" .
+:ETHAMBUTOL8f a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ETHAMBUTOL" .
+:ETHINYLESTRADIOL06 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ETHINYLESTRADIOL" .
+:ETHOSUXIMIDEce a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ETHOSUXIMIDE" .
+:ETHYLMORPHINE6a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ETHYLMORPHINE" .
+:ETIFOXINE4e a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ETIFOXINE" .
+:ETILEFRINE4b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ETILEFRINE" .
+:ETODOLAC49 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ETODOLAC" .
+:ETONOGESTREL97 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ETONOGESTREL" .
+:ETOPOSIDE81 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ETOPOSIDE" .
+:ETORICOXIB4e a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ETORICOXIB" .
+:ETRETINATE48 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ETRETINATE" .
+:EUCALYPTUS1d a owl:NamedIndividual , :Molecules;
+                          rdfs:label "EUCALYPTUS" .
+:EUGENOL44 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "EUGENOL" .
+:EVEROLIMUS5e a owl:NamedIndividual , :Molecules;
+                          rdfs:label "EVEROLIMUS" .
+:FAMOTIDINE5e a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FAMOTIDINE" .
+:FAMPRIDINES1a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FAMPRIDINES" .
+:FEBUXOSTATbc a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FEBUXOSTAT" .
+:FELBAMATE3a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FELBAMATE" .
+:FELODIPINEc7 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FELODIPINE" .
+:FENOFIBRATE6a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FENOFIBRATE" .
+:FENOPROFENEa5 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FENOPROFENE" .
+:FENSPIRIDEad a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FENSPIRIDE" .
+:FENTANYL88 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FENTANYL" .
+:FER7a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FER" .
+:FESOTERODINE62 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FESOTERODINE" .
+:FEXOFENADINEf0 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FEXOFENADINE" .
+:FINGOLIMODc3 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FINGOLIMOD" .
+:FLECAINIDE00 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FLECAINIDE" .
+:FLUANISONEbd a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FLUANISONE" .
+:FLUCONAZOLEce a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FLUCONAZOLE" .
+:FLUDARABINE37 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FLUDARABINE" .
+:FLUDIAZEPAM09 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FLUDIAZEPAM" .
+:FLUDROCORTISONE2c a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FLUDROCORTISONE" .
+:FLUINDIONE84 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FLUINDIONE" .
+:FLUNARIZINEc6 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FLUNARIZINE" .
+:FLUNITRAZEPAM07 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FLUNITRAZEPAM" .
+:FLUORcf a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FLUOR" .
+:FLUOROURACILE83 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FLUOROURACILE" .
+:FLUOXETINEa7 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FLUOXETINE" .
+:FLUPENTIXOL3c a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FLUPENTIXOL" .
+:FLUPHENAZINE04 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FLUPHENAZINE" .
+:FLURAZEPAM24 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FLURAZEPAM" .
+:FLURBIPROFENEbe a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FLURBIPROFENE" .
+:FLUTAMIDEed a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FLUTAMIDE" .
+:FLUTICASONE6f a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FLUTICASONE" .
+:FLUVASTATINE0c a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FLUVASTATINE" .
+:FLUVOXAMINEed a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FLUVOXAMINE" .
+:FONDAPARINUX46 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FONDAPARINUX" .
+:FOSAMPRENAVIRe2 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FOSAMPRENAVIR" .
+:FOSCARNET3f a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FOSCARNET" .
+:FOSINOPRIL20 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FOSINOPRIL" .
+:FOSPHENYTOINE7b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FOSPHENYTOINE" .
+:FOTEMUSTINE07 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FOTEMUSTINE" .
+:FROVATRIPTANc3 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FROVATRIPTAN" .
+:FURAZOLIDONEe2 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FURAZOLIDONE" .
+:FUROSEMIDEde a owl:NamedIndividual , :Molecules;
+                          rdfs:label "FUROSEMIDE" .
+:GALANTAMINE0c a owl:NamedIndividual , :Molecules;
+                          rdfs:label "GALANTAMINE" .
+:GANCICLOVIR41 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "GANCICLOVIR" .
+:GEFITINIB0c a owl:NamedIndividual , :Molecules;
+                          rdfs:label "GEFITINIB" .
+:GELDHYDROXYDEDALUMINIUMETDECARBONATEDEMAGNESIUMCODESSECHES25 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "GEL D'HYDROXYDE D'ALUMINIUM ET DE CARBONATE DE MAGNESIUM CODESSECHES" .
+:GEMCITABINEd9 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "GEMCITABINE" .
+:GEMFIBROZIL22 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "GEMFIBROZIL" .
+:GENTAMICINEfb a owl:NamedIndividual , :Molecules;
+                          rdfs:label "GENTAMICINE" .
+:GIMERACILa8 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "GIMERACIL" .
+:GLIBENCLAMIDEb3 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "GLIBENCLAMIDE" .
+:GLIBORNURIDE18 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "GLIBORNURIDE" .
+:GLICLAZIDE08 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "GLICLAZIDE" .
+:GLIMEPIRIDE8b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "GLIMEPIRIDE" .
+:GLIPIZIDE35 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "GLIPIZIDE" .
+:GOLIMUMAB68 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "GOLIMUMAB" .
+:GRISEOFULVINE7b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "GRISEOFULVINE" .
+:GUANFACINE9b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "GUANFACINE" .
+:HALAZEPAM45 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "HALAZEPAM" .
+:HALOFANTRINEb2 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "HALOFANTRINE" .
+:HALOPERIDOLeb a owl:NamedIndividual , :Molecules;
+                          rdfs:label "HALOPERIDOL" .
+:HALOTHANE93 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "HALOTHANE" .
+:HALOXAZOLAM39 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "HALOXAZOLAM" .
+:HEPARINECALCIQUE2d a owl:NamedIndividual , :Molecules;
+                          rdfs:label "HEPARINE CALCIQUE" .
+:HEPARINESODIQUEa5 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "HEPARINE SODIQUE" .
+:HEPARINESODIQUEIODUREDESODIUMb7 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "HEPARINE SODIQUE/IODURE DE SODIUM" .
+:HEXOBARBITALad a owl:NamedIndividual , :Molecules;
+                          rdfs:label "HEXOBARBITAL" .
+:HEXYLRESORCINOL4b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "HEXYLRESORCINOL" .
+:HISTAPYRRODINEa2 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "HISTAPYRRODINE" .
+:HOMATROPINE5e a owl:NamedIndividual , :Molecules;
+                          rdfs:label "HOMATROPINE" .
+:HYDROCHLOROTHIAZIDEb6 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "HYDROCHLOROTHIAZIDE" .
+:HYDROCORTISONEc6 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "HYDROCORTISONE" .
+:HYDROMORPHONE2b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "HYDROMORPHONE" .
+:HYDROQUINIDINE11 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "HYDROQUINIDINE" .
+:HYDROTALCITE55 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "HYDROTALCITE" .
+:HYDROXYCARBAMIDEb4 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "HYDROXYCARBAMIDE" .
+:HYDROXYCHLOROQUINE3d a owl:NamedIndividual , :Molecules;
+                          rdfs:label "HYDROXYCHLOROQUINE" .
+:HYDROXYPROGESTERONE54 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "HYDROXYPROGESTERONE" .
+:HYDROXYZINEce a owl:NamedIndividual , :Molecules;
+                          rdfs:label "HYDROXYZINE" .
+:IBRITUMOMABce a owl:NamedIndividual , :Molecules;
+                          rdfs:label "IBRITUMOMAB" .
+:IBRUTINIB22 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "IBRUTINIB" .
+:IBUPROFENE80 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "IBUPROFENE" .
+:IDARUBICINEd6 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "IDARUBICINE" .
+:IFOSFAMIDEfb a owl:NamedIndividual , :Molecules;
+                          rdfs:label "IFOSFAMIDE" .
+:ILOPROSTed a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ILOPROST" .
+:ILOPROSTTROMETAMOLe9 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ILOPROST TROMETAMOL" .
+:IMATINIBad a owl:NamedIndividual , :Molecules;
+                          rdfs:label "IMATINIB" .
+:IMIDAPRILf8 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "IMIDAPRIL" .
+:IMIPENEM48 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "IMIPENEM" .
+:IMIPRAMINE89 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "IMIPRAMINE" .
+:IMMUNOGLOBULINEDELAPINANTILYMPHOCYTETHUMAIN2d a owl:NamedIndividual , :Molecules;
+                          rdfs:label "IMMUNOGLOBULINE DE LAPIN ANTI-LYMPHOCYTE T HUMAIN" .
+:IMMUNOGLOBULINESEQUINESANTILYMPHOCYTEHUMAIN47 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "IMMUNOGLOBULINES EQUINES ANTILYMPHOCYTE HUMAIN" .
+:INDAPAMIDEcd a owl:NamedIndividual , :Molecules;
+                          rdfs:label "INDAPAMIDE" .
+:INDINAVIR0e a owl:NamedIndividual , :Molecules;
+                          rdfs:label "INDINAVIR" .
+:INDOMETACINE08 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "INDOMETACINE" .
+:INDORAMINE10 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "INDORAMINE" .
+:INFLIXIMABfe a owl:NamedIndividual , :Molecules;
+                          rdfs:label "INFLIXIMAB" .
+:INSULINEda a owl:NamedIndividual , :Molecules;
+                          rdfs:label "INSULINE" .
+:INSULINEASPARTE52 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "INSULINE ASPARTE" .
+:INSULINEASPARTEISOPHANEBIPHASIQUE11 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "INSULINE ASPARTE ISOPHANE BIPHASIQUE" .
+:INSULINEGLARGINEd8 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "INSULINE GLARGINE" .
+:INSULINEHUMAINEBIOSYNTHETIQUE9f a owl:NamedIndividual , :Molecules;
+                          rdfs:label "INSULINE HUMAINE BIOSYNTHETIQUE" .
+:INSULINEHUMAINEBIOSYNTHETIQUEZINCcc a owl:NamedIndividual , :Molecules;
+                          rdfs:label "INSULINE HUMAINE BIOSYNTHETIQUE ZINC" .
+:INSULINEHUMAINEHEMISYNTHETIQUEDORIGINEPORCINE13 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "INSULINE HUMAINE HEMISYNTHETIQUE D'ORIGINE PORCINE" .
+:INSULINEHUMAINEHEMISYNTHETIQUEISOPHANEf1 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "INSULINE HUMAINE HEMISYNTHETIQUE ISOPHANE" .
+:INSULINEHUMAINEHEMISYNTHETIQUEISOPHANEBIPHASIQUE70 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "INSULINE HUMAINE HEMISYNTHETIQUE ISOPHANE BIPHASIQUE" .
+:INSULINEHUMAINERECOMBINANTEb8 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "INSULINE HUMAINE RECOMBINANTE" .
+:INSULINEHUMAINERECOMBINANTEISOPHANE74 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "INSULINE HUMAINE RECOMBINANTE ISOPHANE" .
+:INSULINEHUMAINERECOMBINANTEISOPHANEBIPHASIQUEc2 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "INSULINE HUMAINE RECOMBINANTE ISOPHANE BIPHASIQUE" .
+:INSULINEHUMAINERECOMBINANTEZINC4b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "INSULINE HUMAINE RECOMBINANTE ZINC" .
+:INSULINEHUMAINERECOMBINANTEZINCCRISTALLINE20 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "INSULINE HUMAINE RECOMBINANTE ZINC CRISTALLINE" .
+:INSULINELISPRO54 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "INSULINE LISPRO" .
+:INSULINEPORCINEd1 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "INSULINE PORCINE" .
+:IOBITRIDOL5e a owl:NamedIndividual , :Molecules;
+                          rdfs:label "IOBITRIDOL" .
+:IODIXANOLeb a owl:NamedIndividual , :Molecules;
+                          rdfs:label "IODIXANOL" .
+:IOHEXOLf5 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "IOHEXOL" .
+:IOMEPROL3b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "IOMEPROL" .
+:IOPAMIDOLb6 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "IOPAMIDOL" .
+:IOPENTOLc6 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "IOPENTOL" .
+:IOPROMIDE56 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "IOPROMIDE" .
+:IOVERSOLb0 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "IOVERSOL" .
+:IPILIMUMAB8f a owl:NamedIndividual , :Molecules;
+                          rdfs:label "IPILIMUMAB" .
+:IPRATROPIUM0a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "IPRATROPIUM" .
+:IPRONIAZIDE47 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "IPRONIAZIDE" .
+:IRBESARTANe4 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "IRBESARTAN" .
+:IRINOTECAN0f a owl:NamedIndividual , :Molecules;
+                          rdfs:label "IRINOTECAN" .
+:ISEPAMICINE24 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ISEPAMICINE" .
+:ISOFLURANE4a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ISOFLURANE" .
+:ISONIAZIDEa4 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ISONIAZIDE" .
+:ISOSORBIDE27 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ISOSORBIDE" .
+:ISOTHIPENDYL03 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ISOTHIPENDYL" .
+:ISOTRETINOINE98 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ISOTRETINOINE" .
+:ISRADIPINE6b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ISRADIPINE" .
+:ITRACONAZOLE71 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ITRACONAZOLE" .
+:IVABRADINEc1 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "IVABRADINE" .
+:JOSAMYCINE41 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "JOSAMYCINE" .
+:KANAMYCINEee a owl:NamedIndividual , :Molecules;
+                          rdfs:label "KANAMYCINE" .
+:KAOLINLOURD52 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "KAOLIN LOURD" .
+:KETAZOLAM06 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "KETAZOLAM" .
+:KETOCONAZOLE1d a owl:NamedIndividual , :Molecules;
+                          rdfs:label "KETOCONAZOLE" .
+:KETOPROFENE39 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "KETOPROFENE" .
+:KETOTIFENEbb a owl:NamedIndividual , :Molecules;
+                          rdfs:label "KETOTIFENE" .
+:LABETALOL99 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "LABETALOL" .
+:LACIDIPINE7d a owl:NamedIndividual , :Molecules;
+                          rdfs:label "LACIDIPINE" .
+:LAMOTRIGINE4b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "LAMOTRIGINE" .
+:LANREOTIDE47 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "LANREOTIDE" .
+:LANSOPRAZOLEbe a owl:NamedIndividual , :Molecules;
+                          rdfs:label "LANSOPRAZOLE" .
+:LANTHANEc5 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "LANTHANE" .
+:LAPATINIB92 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "LAPATINIB" .
+:LEDIPASVIRcb a owl:NamedIndividual , :Molecules;
+                          rdfs:label "LEDIPASVIR" .
+:LERCANIDIPINE15 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "LERCANIDIPINE" .
+:LEVOBUNOLOL89 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "LEVOBUNOLOL" .
+:LEVODOPA08 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "LEVODOPA" .
+:LEVOFLOXACINEe5 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "LEVOFLOXACINE" .
+:LEVOMENTHOL39 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "LEVOMENTHOL" .
+:LEVOMEPROMAZINE39 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "LEVOMEPROMAZINE" .
+:LEVONORGESTREL10 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "LEVONORGESTREL" .
+:LEVOTHYROXINE74 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "LEVOTHYROXINE" .
+:LIDOCAINEbe a owl:NamedIndividual , :Molecules;
+                          rdfs:label "LIDOCAINE" .
+:LINAGLIPTINEf1 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "LINAGLIPTINE" .
+:LINCOMYCINEfb a owl:NamedIndividual , :Molecules;
+                          rdfs:label "LINCOMYCINE" .
+:LINEZOLIDE4a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "LINEZOLIDE" .
+:LINSIDOMINE87 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "LINSIDOMINE" .
+:LIOTHYRONINESODIQUE6f a owl:NamedIndividual , :Molecules;
+                          rdfs:label "LIOTHYRONINE SODIQUE" .
+:LISINOPRIL0b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "LISINOPRIL" .
+:LISURIDE99 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "LISURIDE" .
+:LOFLAZEPATE92 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "LOFLAZEPATE" .
+:LOMEFLOXACINE55 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "LOMEFLOXACINE" .
+:LOMUSTINE0e a owl:NamedIndividual , :Molecules;
+                          rdfs:label "LOMUSTINE" .
+:LOPINAVIR01 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "LOPINAVIR" .
+:LOPRAZOLAMcf a owl:NamedIndividual , :Molecules;
+                          rdfs:label "LOPRAZOLAM" .
+:LORAZEPAMbc a owl:NamedIndividual , :Molecules;
+                          rdfs:label "LORAZEPAM" .
+:LORMETAZEPAM71 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "LORMETAZEPAM" .
+:LOSARTAN0c a owl:NamedIndividual , :Molecules;
+                          rdfs:label "LOSARTAN" .
+:LOXAPINE8d a owl:NamedIndividual , :Molecules;
+                          rdfs:label "LOXAPINE" .
+:LUMEFANTRINE0b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "LUMEFANTRINE" .
+:LYMECYCLINEf2 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "LYMECYCLINE" .
+:LYNESTRENOLdb a owl:NamedIndividual , :Molecules;
+                          rdfs:label "LYNESTRENOL" .
+:MAGALDRATE13 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MAGALDRATE" .
+:MAGNESIUMHYDROXYDEDE66 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MAGNESIUM (HYDROXYDE DE)" .
+:MAGNESIUMTRISILICATEDE96 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MAGNESIUM (TRISILICATE DE)" .
+:MANIDIPINE38 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MANIDIPINE" .
+:MAPROTILINE1f a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MAPROTILINE" .
+:MECLOZINE79 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MECLOZINE" .
+:MEDAZEPAM1a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MEDAZEPAM" .
+:MEDROGESTONE32 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MEDROGESTONE" .
+:MEDROXYPROGESTERONEcd a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MEDROXYPROGESTERONE" .
+:MEFENIDRAMIUMdf a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MEFENIDRAMIUM" .
+:MEFLOQUINE54 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MEFLOQUINE" .
+:MELOXICAM39 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MELOXICAM" .
+:MELPHALANfd a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MELPHALAN" .
+:MENTHE6b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MENTHE" .
+:MENTHOLRACEMIQUEf5 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MENTHOL RACEMIQUE" .
+:MEPROBAMATEf3 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MEPROBAMATE" .
+:MEPYRAMINEf8 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MEPYRAMINE" .
+:MEQUITAZINEf9 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MEQUITAZINE" .
+:MERBROMINE09 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MERBROMINE" .
+:MERCAPTOPURINE64 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MERCAPTOPURINE" .
+:MEROPENEMe7 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MEROPENEM" .
+:MESALAZINEd4 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MESALAZINE" .
+:METHADONE52 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "METHADONE" .
+:METHOTREXATEa2 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "METHOTREXATE" .
+:METHOXYFLURANE7d a owl:NamedIndividual , :Molecules;
+                          rdfs:label "METHOXYFLURANE" .
+:METHYCLOTHIAZIDEd6 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "METHYCLOTHIAZIDE" .
+:METHYLDOPA24 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "METHYLDOPA" .
+:METHYLENECYCLINE34 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "METHYLENECYCLINE" .
+:METHYLPHENIDATEc9 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "METHYLPHENIDATE" .
+:METHYLPHENOBARBITAL91 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "METHYLPHENOBARBITAL" .
+:METHYLPREDNISOLONE6f a owl:NamedIndividual , :Molecules;
+                          rdfs:label "METHYLPREDNISOLONE" .
+:METIPRANOLOL7b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "METIPRANOLOL" .
+:METOCLOPRAMIDE56 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "METOCLOPRAMIDE" .
+:METOPIMAZINEe2 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "METOPIMAZINE" .
+:METOPROLOL29 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "METOPROLOL" .
+:METRONIDAZOLE5e a owl:NamedIndividual , :Molecules;
+                          rdfs:label "METRONIDAZOLE" .
+:MEXILETINEf0 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MEXILETINE" .
+:MEZLOCILLINE2b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MEZLOCILLINE" .
+:MIANSERINE71 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MIANSERINE" .
+:MIDAZOLAMcc a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MIDAZOLAM" .
+:MIDECAMYCINEac a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MIDECAMYCINE" .
+:MIDODRINE7e a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MIDODRINE" .
+:MILLEPERTUIS04 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MILLEPERTUIS" .
+:MILNACIPRAN29 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MILNACIPRAN" .
+:MILTEFOSINEad a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MILTEFOSINE" .
+:MINOCYCLINEc1 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MINOCYCLINE" .
+:MIRTAZAPINEea a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MIRTAZAPINE" .
+:MITOGUAZONE0f a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MITOGUAZONE" .
+:MITOMYCINEC39 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MITOMYCINE C" .
+:MITOXANTRONE94 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MITOXANTRONE" .
+:MIVACURIUM69 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MIVACURIUM" .
+:MIZOLASTINE1f a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MIZOLASTINE" .
+:MOCLOBEMIDE73 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MOCLOBEMIDE" .
+:MOEXIPRIL98 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MOEXIPRIL" .
+:MOLSIDOMINE55 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MOLSIDOMINE" .
+:MOMETASONE84 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MOMETASONE" .
+:MONMECTITEb4 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MONMECTITE" .
+:MORNIFLUMATE18 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MORNIFLUMATE" .
+:MORPHINE25 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MORPHINE" .
+:MOXIFLOXACINE83 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MOXIFLOXACINE" .
+:MOXONIDINE0d a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MOXONIDINE" .
+:MYRISTALKONIUMee a owl:NamedIndividual , :Molecules;
+                          rdfs:label "MYRISTALKONIUM" .
+:NABUMETONEb8 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NABUMETONE" .
+:NADOLOLfe a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NADOLOL" .
+:NADOXOLOLfc a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NADOXOLOL" .
+:NADROPARINECALCIQUE63 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NADROPARINE CALCIQUE" .
+:NALBUPHINEcf a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NALBUPHINE" .
+:NALMEFENEb3 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NALMEFENE" .
+:NALOXONE8b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NALOXONE" .
+:NALTREXONEbd a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NALTREXONE" .
+:NAPHAZOLINEc8 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NAPHAZOLINE" .
+:NAPROXENEec a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NAPROXENE" .
+:NARATRIPTANce a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NARATRIPTAN" .
+:NATALIZUMABed a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NATALIZUMAB" .
+:NATEGLINIDEf0 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NATEGLINIDE" .
+:NEBIVOLOL84 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NEBIVOLOL" .
+:NEFOPAMd6 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NEFOPAM" .
+:NELARABINE23 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NELARABINE" .
+:NEOSTIGMINE91 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NEOSTIGMINE" .
+:NETILMICINEa3 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NETILMICINE" .
+:NEVIRAPINEa9 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NEVIRAPINE" .
+:NIAOULIbf a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NIAOULI" .
+:NIAPRAZINEcb a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NIAPRAZINE" .
+:NICARDIPINEfa a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NICARDIPINE" .
+:NICORANDIL7a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NICORANDIL" .
+:NICOTINE7b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NICOTINE" .
+:NIFEDIPINE65 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NIFEDIPINE" .
+:NILOTINIBf4 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NILOTINIB" .
+:NIMESULIDE17 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NIMESULIDE" .
+:NIMETAZEPAM18 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NIMETAZEPAM" .
+:NIMODIPINEbf a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NIMODIPINE" .
+:NITRAZEPAM98 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NITRAZEPAM" .
+:NITRENDIPINEbd a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NITRENDIPINE" .
+:NIZATIDINEa2 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NIZATIDINE" .
+:NOMEGESTROLde a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NOMEGESTROL" .
+:NONOXYNOL9f5 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NONOXYNOL 9" .
+:NORADRENALINE5c a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NORADRENALINE" .
+:NORDAZEPAM9a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NORDAZEPAM" .
+:NORELGESTROMINE3b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NORELGESTROMINE" .
+:NOREPINEPHRINE2f a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NOREPINEPHRINE" .
+:NORETHANDROLONE1d a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NORETHANDROLONE" .
+:NORETHISTERONEe4 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NORETHISTERONE" .
+:NORFLOXACINEf5 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NORFLOXACINE" .
+:NORGESTIMATE06 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NORGESTIMATE" .
+:NORGESTRIENONEf2 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NORGESTRIENONE" .
+:NORTRIPTYLINE8a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NORTRIPTYLINE" .
+:NOSCAPINEed a owl:NamedIndividual , :Molecules;
+                          rdfs:label "NOSCAPINE" .
+:OCTREOTIDE72 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "OCTREOTIDE" .
+:OFATUMUMAB2d a owl:NamedIndividual , :Molecules;
+                          rdfs:label "OFATUMUMAB" .
+:OFLOXACINE44 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "OFLOXACINE" .
+:OLANZAPINEc3 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "OLANZAPINE" .
+:OLMESARTANa0 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "OLMESARTAN" .
+:OLSALAZINE46 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "OLSALAZINE" .
+:OMBITASVIRa1 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "OMBITASVIR" .
+:OMEPRAZOLE26 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "OMEPRAZOLE" .
+:OPIPRAMOLca a owl:NamedIndividual , :Molecules;
+                          rdfs:label "OPIPRAMOL" .
+:ORNIDAZOLE9b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ORNIDAZOLE" .
+:OTERACILa8 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "OTERACIL" .
+:OXACILLINE35 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "OXACILLINE" .
+:OXALIPLATINE43 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "OXALIPLATINE" .
+:OXATOMIDE45 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "OXATOMIDE" .
+:OXAZEPAMdd a owl:NamedIndividual , :Molecules;
+                          rdfs:label "OXAZEPAM" .
+:OXAZOLAMda a owl:NamedIndividual , :Molecules;
+                          rdfs:label "OXAZOLAM" .
+:OXCARBAZEPINE57 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "OXCARBAZEPINE" .
+:OXETORONEa2 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "OXETORONE" .
+:OXITRIPTAN2b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "OXITRIPTAN" .
+:OXITROPIUMf8 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "OXITROPIUM" .
+:OXOMEMAZINE56 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "OXOMEMAZINE" .
+:OXPRENOLOL22 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "OXPRENOLOL" .
+:OXYBUTYNINEcb a owl:NamedIndividual , :Molecules;
+                          rdfs:label "OXYBUTYNINE" .
+:OXYCODONE29 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "OXYCODONE" .
+:OXYMETAZOLINEae a owl:NamedIndividual , :Molecules;
+                          rdfs:label "OXYMETAZOLINE" .
+:OXYTETRACYCLINEd3 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "OXYTETRACYCLINE" .
+:PASSODIQUE5b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "P A S SODIQUE" .
+:PACLITAXEL6e a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PACLITAXEL" .
+:PALIPERIDONE0a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PALIPERIDONE" .
+:PANCURONIUM3f a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PANCURONIUM" .
+:PANITUMUMAB21 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PANITUMUMAB" .
+:PANTOPRAZOLE12 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PANTOPRAZOLE" .
+:PARAFFINEd6 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PARAFFINE" .
+:PARECOXIBe5 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PARECOXIB" .
+:PARITAPREVIR5e a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PARITAPREVIR" .
+:PAROXETINE7e a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PAROXETINE" .
+:PASIREOTIDE2c a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PASIREOTIDE" .
+:PAZOPANIBd5 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PAZOPANIB" .
+:PEFLOXACINEbe a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PEFLOXACINE" .
+:PEMBROLIZUMAB84 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PEMBROLIZUMAB" .
+:PENFLURIDOL42 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PENFLURIDOL" .
+:PENICILLAMINE8b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PENICILLAMINE" .
+:PENTAMIDINEf2 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PENTAMIDINE" .
+:PENTAZOCINE0d a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PENTAZOCINE" .
+:PENTOBARBITALc2 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PENTOBARBITAL" .
+:PENTOSTATINE66 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PENTOSTATINE" .
+:PERAMPANEL2e a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PERAMPANEL" .
+:PERGOLIDE47 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PERGOLIDE" .
+:PERINDOPRILTERTBUTYLAMINEca a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PERINDOPRIL TERT-BUTYLAMINE" .
+:PERPHENAZINE34 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PERPHENAZINE" .
+:PETHIDINE60 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PETHIDINE" .
+:PHENINDIONE99 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PHENINDIONE" .
+:PHENIRAMINE3a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PHENIRAMINE" .
+:PHENOBARBITALe1 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PHENOBARBITAL" .
+:PHENOPERIDINEfe a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PHENOPERIDINE" .
+:PHENOXYMETHYLPENICILLINE51 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PHENOXYMETHYLPENICILLINE" .
+:PHENYLBUTAZONEad a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PHENYLBUTAZONE" .
+:PHENYLEPHRINEb5 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PHENYLEPHRINE" .
+:PHENYLTOLOXAMINEc7 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PHENYLTOLOXAMINE" .
+:PHENYTOINE6d a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PHENYTOINE" .
+:PHOLCODINE58 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PHOLCODINE" .
+:PHOSPHORE5f a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PHOSPHORE" .
+:PILOCARPINEc6 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PILOCARPINE" .
+:PIMETHIXENEd0 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PIMETHIXENE" .
+:PIMOZIDE79 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PIMOZIDE" .
+:PINAZEPAM74 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PINAZEPAM" .
+:PINDOLOL03 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PINDOLOL" .
+:PIOGLITAZONE64 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PIOGLITAZONE" .
+:PIPAMPERONE0a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PIPAMPERONE" .
+:PIPERACILLINE67 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PIPERACILLINE" .
+:PIPERAQUINEe7 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PIPERAQUINE" .
+:PIPERAZINE03 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PIPERAZINE" .
+:PIPOBROMAN2f a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PIPOBROMAN" .
+:PIPOTIAZINEe4 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PIPOTIAZINE" .
+:PIRARUBICINE01 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PIRARUBICINE" .
+:PIRETANIDE1a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PIRETANIDE" .
+:PIRIBEDIL66 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PIRIBEDIL" .
+:PIROXICAMb0 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PIROXICAM" .
+:PIROXICAMBETADEXb2 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PIROXICAM-BETADEX" .
+:PITAVASTATINEfa a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PITAVASTATINE" .
+:PIVAMPICILLINEc2 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PIVAMPICILLINE" .
+:PIXANTRONE31 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PIXANTRONE" .
+:PIZOTIFENE56 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PIZOTIFENE" .
+:PLICAMYCINEbe a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PLICAMYCINE" .
+:PONATINIB06 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PONATINIB" .
+:POSACONAZOLEba a owl:NamedIndividual , :Molecules;
+                          rdfs:label "POSACONAZOLE" .
+:POTASSIUM5f a owl:NamedIndividual , :Molecules;
+                          rdfs:label "POTASSIUM" .
+:POTASSIUMCITRATEDEcf a owl:NamedIndividual , :Molecules;
+                          rdfs:label "POTASSIUM (CITRATE DE)" .
+:POVIDONE4b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "POVIDONE" .
+:PRAMIPEXOLEf8 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PRAMIPEXOLE" .
+:PRASUGRELd6 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PRASUGREL" .
+:PRAVASTATINE53 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PRAVASTATINE" .
+:PRAZEPAMb1 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PRAZEPAM" .
+:PRAZOSINE55 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PRAZOSINE" .
+:PREDNISOLONE05 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PREDNISOLONE" .
+:PREDNISONE71 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PREDNISONE" .
+:PREGABALINEfc a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PREGABALINE" .
+:PRILOCAINE6c a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PRILOCAINE" .
+:PRIMIDONE27 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PRIMIDONE" .
+:PROBENECIDEd1 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PROBENECIDE" .
+:PROCARBAZINE35 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PROCARBAZINE" .
+:PROCHLORPERAZINEa1 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PROCHLORPERAZINE" .
+:PROGESTERONE4e a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PROGESTERONE" .
+:PROGUANIL0b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PROGUANIL" .
+:PROMEGESTONEcd a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PROMEGESTONE" .
+:PROMESTRIENE69 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PROMESTRIENE" .
+:PROMETHAZINEac a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PROMETHAZINE" .
+:PROPAFENONE34 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PROPAFENONE" .
+:PROPERICIAZINE27 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PROPERICIAZINE" .
+:PROPRANOLOL0b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PROPRANOLOL" .
+:PRUCALOPRIDEc7 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PRUCALOPRIDE" .
+:PSEUDOEPHEDRINEbd a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PSEUDOEPHEDRINE" .
+:PYRIDOSTIGMINE0c a owl:NamedIndividual , :Molecules;
+                          rdfs:label "PYRIDOSTIGMINE" .
+:QUETIAPINE40 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "QUETIAPINE" .
+:QUINAGOLIDE12 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "QUINAGOLIDE" .
+:QUINAPRIL4c a owl:NamedIndividual , :Molecules;
+                          rdfs:label "QUINAPRIL" .
+:QUINIDINE44 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "QUINIDINE" .
+:QUININE7a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "QUININE" .
+:RABEPRAZOLE26 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "RABEPRAZOLE" .
+:RALTITREXED4d a owl:NamedIndividual , :Molecules;
+                          rdfs:label "RALTITREXED" .
+:RAMIPRIL5e a owl:NamedIndividual , :Molecules;
+                          rdfs:label "RAMIPRIL" .
+:RAMUCIRUMAB8c a owl:NamedIndividual , :Molecules;
+                          rdfs:label "RAMUCIRUMAB" .
+:RANITIDINEf5 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "RANITIDINE" .
+:RASAGILINE46 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "RASAGILINE" .
+:REGLISSE3b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "REGLISSE" .
+:REMIFENTANILef a owl:NamedIndividual , :Molecules;
+                          rdfs:label "REMIFENTANIL" .
+:REPAGLINIDE19 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "REPAGLINIDE" .
+:RETEPLASE24 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "RETEPLASE" .
+:RETIGABINEa2 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "RETIGABINE" .
+:REVIPARINE37 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "REVIPARINE" .
+:RHUBARBE1d a owl:NamedIndividual , :Molecules;
+                          rdfs:label "RHUBARBE" .
+:RICIN32 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "RICIN" .
+:RICINUSCOMMUNISb7 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "RICINUS COMMUNIS" .
+:RIFABUTINEd4 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "RIFABUTINE" .
+:RIFAMPICINE3d a owl:NamedIndividual , :Molecules;
+                          rdfs:label "RIFAMPICINE" .
+:RILMENIDINEbb a owl:NamedIndividual , :Molecules;
+                          rdfs:label "RILMENIDINE" .
+:RIOCIGUATb6 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "RIOCIGUAT" .
+:RISPERIDONE14 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "RISPERIDONE" .
+:RITODRINEf2 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "RITODRINE" .
+:RITONAVIR6c a owl:NamedIndividual , :Molecules;
+                          rdfs:label "RITONAVIR" .
+:RIVAROXABAN17 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "RIVAROXABAN" .
+:RIVASTIGMINEb8 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "RIVASTIGMINE" .
+:RIZATRIPTAN5b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "RIZATRIPTAN" .
+:ROCURONIUM93 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ROCURONIUM" .
+:ROFECOXIB91 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ROFECOXIB" .
+:ROPINIROLE17 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ROPINIROLE" .
+:ROSIGLITAZONE15 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ROSIGLITAZONE" .
+:ROSUVASTATINE90 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ROSUVASTATINE" .
+:ROTAVIRUS01 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ROTAVIRUS" .
+:ROTIGOTINEb4 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ROTIGOTINE" .
+:ROXATIDINEef a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ROXATIDINE" .
+:ROXITHROMYCINE2e a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ROXITHROMYCINE" .
+:RUPATADINE22 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "RUPATADINE" .
+:RUXOLITINIB44 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "RUXOLITINIB" .
+:SALBUTAMOL12 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SALBUTAMOL" .
+:SAQUINAVIR26 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SAQUINAVIR" .
+:SAXAGLIPTINE39 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SAXAGLIPTINE" .
+:SCOPOLAMINEd5 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SCOPOLAMINE" .
+:SECBUTABARBITALaa a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SECBUTABARBITAL" .
+:SECNIDAZOLEae a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SECNIDAZOLE" .
+:SECOBARBITAL57 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SECOBARBITAL" .
+:SELEGILINE26 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SELEGILINE" .
+:SENEae a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SENE" .
+:SENEDEKHARTOUM31 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SENE DE KHARTOUM" .
+:SENEDELINDE77 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SENE DE L'INDE" .
+:SERTRALINEe1 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SERTRALINE" .
+:SEVELAMER27 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SEVELAMER" .
+:SEVOFLURANE75 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SEVOFLURANE" .
+:SIBUTRAMINE61 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SIBUTRAMINE" .
+:SILDENAFILb2 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SILDENAFIL" .
+:SILICONE65 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SILICONE" .
+:SILODOSINE7b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SILODOSINE" .
+:SIMVASTATINE66 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SIMVASTATINE" .
+:SIROLIMUS32 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SIROLIMUS" .
+:SITAGLIPTINEe9 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SITAGLIPTINE" .
+:SODIUMBICARBONATEDEbe a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SODIUM (BICARBONATE DE)" .
+:SODIUMCITRATEDE6f a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SODIUM (CITRATE DE)" .
+:SODIUMCITRATEDIACIDEDE41 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SODIUM (CITRATE DIACIDE DE)" .
+:SODIUMDOCUSATEDEfe a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SODIUM (DOCUSATE DE)" .
+:SODIUMNITROPRUSSIATEDE7e a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SODIUM (NITROPRUSSIATE DE)" .
+:SODIUMPICOSULFATEDE75 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SODIUM (PICOSULFATE DE)" .
+:SODIUMRICINOLEATEDE11 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SODIUM (RICINOLEATE DE)" .
+:SOLIFENACINE30 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SOLIFENACINE" .
+:SORAFENIB4a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SORAFENIB" .
+:SOTALOL71 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SOTALOL" .
+:SPECTINOMYCINEde a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SPECTINOMYCINE" .
+:SPIRAMYCINEb1 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SPIRAMYCINE" .
+:SPIRAPRIL76 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SPIRAPRIL" .
+:SPIRONOLACTONEaa a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SPIRONOLACTONE" .
+:STREPTOKINASEfc a owl:NamedIndividual , :Molecules;
+                          rdfs:label "STREPTOKINASE" .
+:STREPTOMYCINEe0 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "STREPTOMYCINE" .
+:STREPTOZOCINE3b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "STREPTOZOCINE" .
+:SUFENTANILab a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SUFENTANIL" .
+:SULFACETAMIDEd1 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SULFACETAMIDE" .
+:SULFADIAZINE29 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SULFADIAZINE" .
+:SULFADOXINE2d a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SULFADOXINE" .
+:SULFAFURAZOL7a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SULFAFURAZOL" .
+:SULFAGUANIDINE21 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SULFAGUANIDINE" .
+:SULFAMETHIZOLa4 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SULFAMETHIZOL" .
+:SULFAMETHOXAZOLEf0 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SULFAMETHOXAZOLE" .
+:SULFAMOXOLE5f a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SULFAMOXOLE" .
+:SULFASALAZINE33 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SULFASALAZINE" .
+:SULINDACa4 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SULINDAC" .
+:SULPIRIDE43 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SULPIRIDE" .
+:SULTOPRIDEf2 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SULTOPRIDE" .
+:SUMATRIPTANc0 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SUMATRIPTAN" .
+:SUNITINIBdb a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SUNITINIB" .
+:SUXAMETHONIUM65 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SUXAMETHONIUM" .
+:SYNEPHRINE12 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "SYNEPHRINE" .
+:TACROLIMUSe6 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TACROLIMUS" .
+:TADALAFIL3e a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TADALAFIL" .
+:TAMSULOSINEc9 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TAMSULOSINE" .
+:TAPENTADOL62 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TAPENTADOL" .
+:TEGAFURcd a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TEGAFUR" .
+:TEICOPLANINEf3 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TEICOPLANINE" .
+:TELAPREVIR28 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TELAPREVIR" .
+:TELITHROMYCINE14 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TELITHROMYCINE" .
+:TELMISARTAN69 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TELMISARTAN" .
+:TEMAZEPAM35 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TEMAZEPAM" .
+:TEMOCILLINE8a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TEMOCILLINE" .
+:TEMOZOLOMIDE61 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TEMOZOLOMIDE" .
+:TEMSIROLIMUSda a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TEMSIROLIMUS" .
+:TENECTEPLASE90 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TENECTEPLASE" .
+:TENOFOVIRDISOPROXIL6d a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TENOFOVIR DISOPROXIL" .
+:TENONITROZOLEe3 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TENONITROZOLE" .
+:TENOXICAM28 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TENOXICAM" .
+:TERAZOSINEfd a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TERAZOSINE" .
+:TERBUTALINEad a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TERBUTALINE" .
+:TERIFLUNOMIDE2e a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TERIFLUNOMIDE" .
+:TERPINEf5 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TERPINE" .
+:TERPINEOL80 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TERPINEOL" .
+:TERPINOL66 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TERPINOL" .
+:TERTATOLOLcc a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TERTATOLOL" .
+:TESTOSTERONEb4 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TESTOSTERONE" .
+:TETRABENAZINE99 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TETRABENAZINE" .
+:TETRACOSACTIDE02 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TETRACOSACTIDE" .
+:TETRACYCLINE84 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TETRACYCLINE" .
+:TETRAZEPAM43 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TETRAZEPAM" .
+:TETRYZOLINE4e a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TETRYZOLINE" .
+:THALIDOMIDE87 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "THALIDOMIDE" .
+:THENYLDIAMINE9f a owl:NamedIndividual , :Molecules;
+                          rdfs:label "THENYLDIAMINE" .
+:THEODRENALINE5f a owl:NamedIndividual , :Molecules;
+                          rdfs:label "THEODRENALINE" .
+:THEOPHYLLINEbb a owl:NamedIndividual , :Molecules;
+                          rdfs:label "THEOPHYLLINE" .
+:THIOMERSAL62 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "THIOMERSAL" .
+:THIOPENTALf0 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "THIOPENTAL" .
+:THIOPROPERAZINE95 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "THIOPROPERAZINE" .
+:THIOTEPA24 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "THIOTEPA" .
+:THYMOL2c a owl:NamedIndividual , :Molecules;
+                          rdfs:label "THYMOL" .
+:THYROXINES0b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "THYROXINES" .
+:TIAGABINEd1 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TIAGABINE" .
+:TIAPRIDE47 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TIAPRIDE" .
+:TICAGRELOR07 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TICAGRELOR" .
+:TICARCILLINEa1 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TICARCILLINE" .
+:TICLOPIDINE19 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TICLOPIDINE" .
+:TIGECYCLINE36 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TIGECYCLINE" .
+:TIMOLOL6a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TIMOLOL" .
+:TINIDAZOLE1a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TINIDAZOLE" .
+:TINZAPARINE2b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TINZAPARINE" .
+:TIOCLOMAROLda a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TIOCLOMAROL" .
+:TIOGUANINE67 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TIOGUANINE" .
+:TIPRANAVIR9a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TIPRANAVIR" .
+:TIRATRICOLc7 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TIRATRICOL" .
+:TIROFIBAN2b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TIROFIBAN" .
+:TOBRAMYCINE70 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TOBRAMYCINE" .
+:TOCILIZUMABf3 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TOCILIZUMAB" .
+:TOLBUTAMIDE63 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TOLBUTAMIDE" .
+:TOLCAPONE81 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TOLCAPONE" .
+:TOLTERODINE11 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TOLTERODINE" .
+:TOPIRAMATEc2 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TOPIRAMATE" .
+:TOPOTECANEb7 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TOPOTECANE" .
+:TORASEMIDEbf a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TORASEMIDE" .
+:TOREMIFENEe4 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TOREMIFENE" .
+:TRAMADOL03 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TRAMADOL" .
+:TRANDOLAPRIL2a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TRANDOLAPRIL" .
+:TRASTUZUMAB53 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TRASTUZUMAB" .
+:TRETINOINEca a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TRETINOINE" .
+:TRIAMCINOLONE98 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TRIAMCINOLONE" .
+:TRIAMTERENE01 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TRIAMTERENE" .
+:TRIFLUOPERAZINEdd a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TRIFLUOPERAZINE" .
+:TRIFLUPERIDOL26 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TRIFLUPERIDOL" .
+:TRIHEXYPHENIDYLEa8 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TRIHEXYPHENIDYLE" .
+:TRIMETHOPRIMEdb a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TRIMETHOPRIME" .
+:TRIMIPRAMINEfb a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TRIMIPRAMINE" .
+:TRINITRINEb6 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TRINITRINE" .
+:TRIPROLIDINEfc a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TRIPROLIDINE" .
+:TROMETAMOL1f a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TROMETAMOL" .
+:TROPATEPINEb5 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TROPATEPINE" .
+:TROPICAMIDE97 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TROPICAMIDE" .
+:TROSPIUM1b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TROSPIUM" .
+:TUAMINOHEPTANE4a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TUAMINOHEPTANE" .
+:TYMAZOLINEc6 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "TYMAZOLINE" .
+:ULIPRISTAL49 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ULIPRISTAL" .
+:URAPIDIL83 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "URAPIDIL" .
+:UROKINASE77 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "UROKINASE" .
+:USTEKINUMABa7 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "USTEKINUMAB" .
+:VALACICLOVIRb3 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "VALACICLOVIR" .
+:VALDECOXIBc1 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "VALDECOXIB" .
+:VALGANCICLOVIR1b a owl:NamedIndividual , :Molecules;
+                          rdfs:label "VALGANCICLOVIR" .
+:VALPROMIDEe6 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "VALPROMIDE" .
+:VALSARTAN33 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "VALSARTAN" .
+:VANCOMYCINE2a a owl:NamedIndividual , :Molecules;
+                          rdfs:label "VANCOMYCINE" .
+:VANDETANIBbc a owl:NamedIndividual , :Molecules;
+                          rdfs:label "VANDETANIB" .
+:VARDENAFILb1 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "VARDENAFIL" .
+:VECURONIUM38 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "VECURONIUM" .
+:VEDOLIZUMAB20 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "VEDOLIZUMAB" .
+:VENLAFAXINE16 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "VENLAFAXINE" .
+:VERAPAMILb1 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "VERAPAMIL" .
+:VILDAGLIPTINEd5 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "VILDAGLIPTINE" .
+:VINBARBITALe2 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "VINBARBITAL" .
+:VINBLASTINE40 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "VINBLASTINE" .
+:VINCAMINE9c a owl:NamedIndividual , :Molecules;
+                          rdfs:label "VINCAMINE" .
+:VINCRISTINEb1 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "VINCRISTINE" .
+:VINDESINE45 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "VINDESINE" .
+:VINFLUNINEa5 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "VINFLUNINE" .
+:VINORELBINEee a owl:NamedIndividual , :Molecules;
+                          rdfs:label "VINORELBINE" .
+:VINYLBITAL47 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "VINYLBITAL" .
+:VIRUSDELAFIEVREJAUNE32 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "VIRUS DE LA FIEVRE JAUNE" .
+:VIRUSDESOREILLONSe1 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "VIRUS DES OREILLONS" .
+:VIRUSROUGEOLEUXdb a owl:NamedIndividual , :Molecules;
+                          rdfs:label "VIRUS ROUGEOLEUX" .
+:VIRUSRUBEOLEUXf7 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "VIRUS RUBEOLEUX" .
+:VIRUSVARICELLEZONAe8 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "VIRUS VARICELLE-ZONA" .
+:VIRUSVIVANTATTENUEDELAGRIPPEe4 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "VIRUS VIVANT ATTENUE DE LA GRIPPE" .
+:VORICONAZOLE26 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "VORICONAZOLE" .
+:WARFARINEa0 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "WARFARINE" .
+:XIPAMIDE3e a owl:NamedIndividual , :Molecules;
+                          rdfs:label "XIPAMIDE" .
+:ZICONOTIDE8d a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ZICONOTIDE" .
+:ZOFENOPRIL27 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ZOFENOPRIL" .
+:ZOLMITRIPTAN88 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ZOLMITRIPTAN" .
+:ZOLPIDEM9d a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ZOLPIDEM" .
+:ZONISAMIDE60 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ZONISAMIDE" .
+:ZOPICLONEc1 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ZOPICLONE" .
+:ZUCLOPENTHIXOL93 a owl:NamedIndividual , :Molecules;
+                          rdfs:label "ZUCLOPENTHIXOL" .

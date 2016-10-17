@@ -1,0 +1,179 @@
+### résultat alignement vers libellés dci, libellés principaux UMLS et libellés synonymes UMLS
+rm(list=ls())
+map <- read.table("../versUMLS/1100versUMLS.csv",sep="\t", header=T, stringsAsFactors = F)
+tab <- read.table("DBvocabulary/drugbank_synonymes.csv", sep="\t",header=T,quote="",stringsAsFactors = F)
+colnames(tab) <- c("code","termino","libDB")
+tab$libDB <- NULL
+
+# résultats du programme JAVA "DBtoUMLS"
+mapping <- read.table("libellesDBmapper.txt",sep="\t",fill=T,stringsAsFactors = F, quote="\"", header=F)
+libelles <- readLines("libellesDB.txt")
+length(libelles)==nrow(mapping)
+colnames(mapping) <- c("libmatch","score","synonyme_atome","CUI") 
+mapping$libDB <- libelles
+tab2 <- cbind (tab, mapping)
+
+bool <- tab2$score == "pas trouvé" | tab2$score == "Exception"
+nrow(mapping) - sum(bool)
+DB_to_UMLS <- subset (tab2, !bool)
+
+### ajout principal libellé DB : 
+df <- read.table("DBvocabulary/drugbank vocabulary.csv",sep=",",header=T,quote="\"",fill = T,stringsAsFactors =  F)
+colnames(df)
+df <- subset (df, select=c("DrugBank.ID","Common.name"))
+colnames(df) <- c("code","libDBprefere")
+DB_to_UMLS <- merge (DB_to_UMLS, df)
+
+## ajout libelle UMLS : 
+map2 <- subset (map, select=c(CUI, lib_atome,lib_CUI))
+map2<- unique(map2)
+DB_to_UMLS <- merge (DB_to_UMLS, map2, by="CUI")
+DB_to_UMLS$score <- as.numeric(as.character(DB_to_UMLS$score))
+
+###
+retirer_espace <- function(x){
+    x <- gsub ("^[ ]+|[ ]+$","",x)
+}
+DB_to_UMLS$libDBprefere <- retirer_espace(DB_to_UMLS$libDBprefere)
+DB_to_UMLS$libDB <- retirer_espace(DB_to_UMLS$libDB)
+DB_to_UMLS$lib_atome <- retirer_espace(DB_to_UMLS$lib_atome)
+DB_to_UMLS$lib_CUI <- retirer_espace(DB_to_UMLS$lib_CUI)
+save(DB_to_UMLS, file="DB_to_UMLS.rdata")
+
+#### passe 1 : 
+bool <- tolower(DB_to_UMLS$libDBprefere) == tolower(DB_to_UMLS$lib_atome) | 
+  tolower(DB_to_UMLS$libDBprefere) == tolower(DB_to_UMLS$lib_CUI) 
+passe1 <- subset (DB_to_UMLS, bool)
+
+plusieurs_DB_par_CUI <- function(passe1){
+  nb_DB <- tapply(as.character(passe1$code), as.character(passe1$CUI),function(x){
+    length(unique(x))
+  })
+  bool <- nb_DB != 1
+  if (any(bool)){
+    cat(sum(bool), "CUI avec plusieurs DB")
+    problemes_CUI <- names(nb_DB)[bool]
+    voir <- subset (passe1, CUI %in% problemes_CUI)
+    return(voir)
+  } else {
+    cat ("aucun CUI avec plusieurs DB")
+    return (NULL)
+  }
+}
+
+
+# ## these : 
+# colnames(passe1)
+# these <- subset (passe1, CUI %in% c("C0017861","C0010192", "C0001367",
+#                                     "C0023413"),select=c(code,libDBprefere,CUI,lib_atome,lib_CUI))
+# these <- unique(these)
+# library(xtable)
+# print (xtable(these), include.rownames = F)
+voir <- plusieurs_DB_par_CUI(passe1)
+length(unique(passe1$CUI)) # 860 premières passes
+860/1102
+passe1 <- subset(passe1, select=c(CUI, code))
+# retire le conflit glycérol / glycérine : 
+passe1 <- subset (passe1, !(CUI == "C0017861" & code == "DB09462"))
+passe1 <- unique(passe1)
+
+bool <- DB_to_UMLS$CUI %in% passe1$CUI
+DB_to_UMLS <- subset (DB_to_UMLS, !bool)
+
+#### passe2 : 
+bool <- tolower(DB_to_UMLS$libDBprefere) == tolower(DB_to_UMLS$synonyme_atome)
+passe2 <- subset (DB_to_UMLS, bool)
+
+##these
+# these <- subset (passe2, synonyme_atome %in% c("hexamethylenetetramine", "l-carnitine", "st. john's wort"),
+#                  select=c(code,libDBprefere,synonyme_atome,CUI,lib_atome,lib_CUI))
+# print (xtable(these), include.rownames = F)
+voir <- plusieurs_DB_par_CUI(passe2)
+passe2 <- subset(passe2, select=c(CUI, code))
+passe2 <- unique(passe2)
+bool <- DB_to_UMLS$CUI %in% passe2$CUI
+DB_to_UMLS <- subset (DB_to_UMLS, !bool)
+
+#### passe3 : 
+bool <- tolower(DB_to_UMLS$libDB) == tolower(DB_to_UMLS$synonyme_atome)
+passe3 <- subset (DB_to_UMLS, bool)
+passe3 <- passe3[order(nchar(passe3$synonyme)),]
+voir <- plusieurs_DB_par_CUI(passe3)
+exclus <- c("mga","f","p")
+passe3 <- subset (passe3, !libDB %in% exclus)
+passe3 <- subset(passe3, select=c(CUI, code))
+passe3 <- unique(passe3)
+bool <- DB_to_UMLS$CUI %in% passe3$CUI
+DB_to_UMLS <- subset (DB_to_UMLS, !bool)
+
+#### passe 4 : 
+passes <- rbind (passe1, passe2, passe3)
+## retire les codes drugbank deja matche
+bool <- DB_to_UMLS$code %in%passes$code
+sum(bool)
+DB_to_UMLS <- subset (DB_to_UMLS, !bool)
+
+## regarder manuellement :
+DB_to_UMLS <- DB_to_UMLS[order(-DB_to_UMLS$score),]
+nom_fichier <- "manuel/manuel_drugbank_umls.csv"
+if (file.exists(nom_fichier)){
+  stop ("le fichier existe déjà et n'a pas été supprimé : ", nom_fichier)
+} else {
+  write.table(DB_to_UMLS, nom_fichier,sep="\t",col.names=T, row.names=F)
+}
+passe_manu <- read.table("manuel/manuel_drugbank_umls.csv",sep="\t", header=T, fill = T,quote="")
+passe_manu <- subset (passe_manu, manu != "" & manu != 0)
+passe_manu <- unique(passe_manu)
+table(passe_manu$manu)
+
+voir <- plusieurs_DB_par_CUI(passe_manu)
+passe_manu <- subset (passe_manu, select=c(CUI, code, manu))
+
+passes$manu <- "same"
+passes <- rbind (passes, passe_manu)
+bool <- DB_to_UMLS$CUI %in% passes$CUI | DB_to_UMLS$code %in% passes$code
+DB_to_UMLS <- subset (DB_to_UMLS,!bool)
+
+## bilan : nb de molecules sans relation avec DB : 
+load("DB_to_UMLS.rdata")
+bool <- map$CUI %in% passes$CUI
+sans <- subset (map, !bool)
+table(passes$manu)
+
+map3 <- merge (map, passes, by="CUI")
+length(unique(map3$dci))
+length(unique(map$dci))
+map3<- map3[order(map3$dci),]
+
+map4 <- merge (map3, df, by="code")
+map4 <- unique(map4)
+length(unique(map4$dci))
+table(map4$manu)
+voir <- subset (map4, manu == "part")
+nontrouve <- subset (map, !dci %in% map4$dci)
+
+bool <- !tolower(map4$dci) %in% perfect$dci
+sum(bool)
+voir <- subset (map4, bool)
+
+### ajout : recherche manuel des non trouvés : 
+ajout <- read.table("manuel/mapping_manuel.csv",header=T,sep="\t",quote="")
+
+colnames(ajout) <- colnames(map4)
+map4 <- rbind (map4, ajout)
+length(unique(map4$dci))
+
+table(map4$manu)
+
+map5 <- subset (map4, select=c(dci,code,manu,libDBprefere))
+map5 <- unique(map5)
+length(unique(map5$dci))
+tab <- table(map5$dci)
+tab <- data.frame(dci = names(tab), frequence=as.numeric(tab))
+tab <- subset (tab, frequence!=1)
+tab2 <- subset (map5, dci %in% tab$dci)
+#write.table(map4, "thesaurustoDB.csv",sep="\t", col.names=T, row.names=F)
+
+voir <- subset (map5, manu %in% c("hasform","formof"))
+voir <- subset (map5, manu == "same")
+### ils subsistent quelques problemes avec les insulines

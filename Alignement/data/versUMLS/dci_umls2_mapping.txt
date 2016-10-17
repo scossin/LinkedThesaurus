@@ -1,0 +1,130 @@
+Abciximab	A0591911	MMSL	abciximab	C0288672	abciximab
+sulfafurazol	A15896867	MSHFRE	Sulfafurazol	C0038745	Sulfisoxazole
+Acid acetylsalicylic	A0018469	MTH	Acetylsalicylic Acid	C0004057	Aspirin
+Acid alendronic	A10872916	SNOMEDCT_US	Alendronic acid	C0771311	Alendronic acid
+Acid amidotrizoic	A26617060	MSH	Amidotrizoic Acid	C0002496	Amidotrizoic Acid
+Acid chenodesoxycholic	A0671383	SNM	Chenodesoxycholic acid	C0008024	Chenodeoxycholic Acid
+Acid etidronic	A12810996	NCI	Etidronic Acid	C0015121	Etidronic Acid
+Acid ibandronic	A16795612	RXNORM	ibandronic acid	C0379200	ibandronic acid
+Acid ioxitalamic	A22730041	ATC	ioxitalamic acid	C0063830	ioxitalamic acid
+Acid medronic	A11769271	MTHSPL	Medronic Acid	C1366044	Medronic Acid
+Acid mefenamic	A10761517	NCI	Mefenamic Acid	C0025152	Mefenamic Acid
+Acid oxidronic	A24115870	RXNORM	Oxidronic Acid	C1337343	Oxidronic Acid
+Acid pamidronic	A22732408	ATC	pamidronic acid	C3714572	pamidronic acid
+Acid risedronic	A10338070	RXNORM	risedronic acid	C0140610	risedronic acid
+Acid tiaprofenic	A16788079	RXNORM	tiaprofenic acid	C0076653	tiaprofenic acid
+Acid tiludronic	A10337905	RXNORM	tiludronic acid	C0043611	tiludronic acid
+Acid ursodesoxycholic	A0814926	RCD	Ursodesoxycholic acid	C0042105	Ursodiol
+Acid valproic	A0131324	MMSL	Valproic Acid	C0042291	Valproic Acid
+Acid zoledronic	A10339696	RXNORM	zoledronic acid	C0257685	zoledronic acid
+Acitretin 	A13051080	MSHCZE	acitretin	C0050559	Acitretin
+Alfuzosin 	A10336826	RXNORM	alfuzosin	C0051150	alfuzosin
+Alitretinoin 	A10347053	RXNORM	alitretinoin	C0281666	alitretinoin
+Alminoprofen 	A10336834	RXNORM	alminoprofen	C0051247	alminoprofen
+Alteplase	A1529625	MMSL	alteplase	C0032143	alteplase
+Amphotericin b	A0023110	LCH	Amphotericin B	C0002679	Amphotericin B
+trioxide arsenic	A0162853	MMSL	arsenic trioxide	C0052416	arsenic trioxide
+Bacampicillin 	A0164145	MMSL	bacampicillin	C0052865	bacampicillin
+Baclofen 	A0028730	MMSL	Baclofen	C0004609	Baclofen
+Benethamine penicillin	A24176400	NDDF	benethamine penicillin	C0053102	benethamine penicillin
+Benzylpenicillin 	A0030026	RCD	Benzylpenicillin	C0030827	Penicillin G
+Bivalirudin 	A0826304	MMSL	bivalirudin	C0168273	bivalirudin
+methylene blue	A0435282	LCH	Methylene blue	C0025746	Methylene blue
+Canrenoate Potassium	A16791826	RXNORM	Canrenoate Potassium	C0006881	Canrenoate Potassium
+polystyrene sulfonate	A18669970	CHV	polystyrene sulfonate	C0137904	polystyrene sulfonate
+Charcoal	A0037395	LCH	Charcoal	C0007955	Charcoal
+citrate gallium	A1143669	MSH	gallium citrate	C0118642	gallium citrate
+Dalteparin sodium	A16761815	NCI	Dalteparin Sodium	C0282471	Dalteparin Sodium
+Danaparoid sodium	A0684341	RCD	Danaparoid sodium	C0353453	Danaparoid sodium
+Dexketoprofen trometamol	A16789554	RXNORM	dexketoprofen trometamol	C0765538	dexketoprofen trometamol
+Dextromethorphan 	A0047808	MSH	Dextromethorphan	C0011816	Dextromethorphan
+DIPHENHYDRAMINE DIACEFYLLINATE	A16795764	RXNORM	DIPHENHYDRAMINE DIACEFYLLINATE	C0771516	DIPHENHYDRAMINE DIACEFYLLINATE
+Dibekacin 	A13049301	MSHCZE	dibekacin	C0012024	Dibekacin
+magnesium citrate	A0201609	MMSL	magnesium citrate	C0126774	magnesium citrate
+Dirithromycin 	A0180658	MMSL	dirithromycin	C0058445	dirithromycin
+Dosulepin 	A24277126	MSHCZE	dosulepin	C0013065	Dothiepin
+Doxepin 	A13053589	MSHCZE	doxepin	C0013085	Doxepin
+Enoxacin 	A13063566	MSHCZE	enoxacin	C0014310	Enoxacin
+Epirubicin 	A13063555	MSHCZE	epirubicin	C0014582	Epirubicin
+Eribulin 	A18731361	RXNORM	eribulin	C2350866	eribulin
+Erythromycin 	A13066443	MSHCZE	erythromycin	C0014806	Erythromycin
+Eslicarbazepine	A22724351	ATC	eslicarbazepine	C2725260	eslicarbazepine
+Estrogens Conjugated	A12806502	NCI	Estrogens, Conjugated	C0014938	Estrogens, Conjugated (USP)
+Fampridine	A15162352	SNOMEDCT_US	Fampridine	C0000477	dalfampridine
+Fluvastatin 	A0186618	MMSL	fluvastatin	C0082608	fluvastatin
+Fosphenytoin 	A0479492	MMSL	fosphenytoin	C0244656	fosphenytoin
+hydroxide aluminium	A0642933	RCD	Aluminium hydroxide	C0002371	Aluminum Hydroxide
+Griseofulvin 	A13053848	MSHCZE	griseofulvin	C0018242	Griseofulvin
+Heparin calcium	A16791847	RXNORM	heparin calcium	C0054452	heparin calcium
+Heparin sodium	A0715657	SNMI	Heparin sodium	C0037513	Heparin sodium
+Heparin sodique/iodur d sodium	 non trouvé
+antithymocyte immunoglobulin (rabbit)	A22729226	ATC	antithymocyte immunoglobulin (rabbit)	C3652935	antithymocyte immunoglobulin (rabbit)
+thymocyte immunoglobulin equine	A22644194	RXNORM	thymocyte immunoglobulin, equine	C2756957	thymocyte immunoglobulin, equine
+Indometacin 	A0722714	RCD	Indometacin	C0021246	Indomethacin
+Biphasic insulin aspart	A3811759	SNOMEDCT_US	Biphasic insulin aspart	C1273270	Biphasic insulin aspart
+Regular Insulin Human	A13088622	RXNORM	Regular Insulin, Human	C0795635	Regular Insulin, Human
+Isepamicin 	A22730795	ATC	isepamicin	C0124008	isepamicin
+Isotretinoin 	A13050872	MSHCZE	isotretinoin	C0022265	Isotretinoin
+Kaolin	A13066816	MSHCZE	kaolin	C0022499	Kaolin
+Levofloxacin 	A23445767	MSHCZE	levofloxacin	C0282386	Levofloxacin
+Liothyronine sodium	A11559857	MTHSPL	liothyronine sodium	C0546882	liothyronine sodium
+Lomefloxacin 	A0200461	MMSL	lomefloxacin	C0065162	lomefloxacin
+Magnesium Hydroxide	A0082411	MMSL	Magnesium Hydroxide	C0024476	Magnesium Hydroxide
+Magnesium trisilicate	A0201649	MMSL	magnesium trisilicate	C0065533	magnesium trisilicate
+RACEMENTHOL	A22724530	MTHSPL	RACEMENTHOL	C2698944	RACEMENTHOL
+Mianserin 	A13041698	MSHCZE	mianserin	C0025912	Mianserin
+Midecamycin 	A10337526	RXNORM	midecamycin	C0066531	midecamycin
+Monmectit 	 non trouvé
+Moxifloxacin 	A10351689	RXNORM	moxifloxacin	C0536495	moxifloxacin
+Nadroparin calcium	A12790680	NCI	Nadroparin Calcium	C0206232	Nadroparin
+Netilmicin 	A13062762	MSHCZE	netilmicin	C0027780	Netilmicin
+Norelgestromin 	A10413556	RXNORM	norelgestromin	C1120952	norelgestromin
+Oxybutynin 	A0213691	MMSL	oxybutynin	C0069805	oxybutynin
+acid aminosalicylic	A13936635	MEDCIN	aminosalicylic acid	C0030125	aminosalicylic acid
+Phenoxymethylpenicillin 	A0100431	RCD	Phenoxymethylpenicillin	C0030840	Penicillin V
+Phenytoin 	A0014254	LCH	Phenytoin	C0031507	Phenytoin
+Piperacillin 	A0101712	LCH	Piperacillin	C0031955	Piperacillin
+Pirarubicin 	A10653492	RXNORM	Pirarubicin	C0071126	Pirarubicin
+Pitavastatin 	A17028207	RXNORM	pitavastatin	C1101838	pitavastatin
+Pregabalin 	A26534512	MSHCZE	Pregabalin	C0388352	CI 1008
+Probenecid 	A13052957	MSHCZE	probenecid	C0033209	Probenecid
+licorice	A26625378	MSH	Licorice	C0017987	Glycyrrhiza
+Saxagliptin 	A17027380	RXNORM	saxagliptin	C1611934	saxagliptin
+Senna alexandrina	A17556977	NCBI	Senna alexandrina	C0330722	Senna alexandrina
+Silodosin 	A15876621	RXNORM	silodosin	C1870115	silodosin
+citrate sodium	A18443362	RXNORM	potassium citrate / sodium citrate	C0770575	potassium citrate / sodium citrate
+sodium acid citrate	A18432518	RXNORM	Citric Acid / sodium citrate	C0304465	Citric Acid / sodium citrate
+sodium picosulfate	A0217809	MSH	picosulfate sodium	C0071042	picosulfate sodium
+sodium ricinoleate	A0797324	SNM	Sodium ricinoleate	C0301467	Sodium ricinoleate
+Solifenacin 	A26534503	MSHCZE	solifenacin	C1099677	Solifenacin
+Tamsulosin 	A0490069	MMSL	tamsulosin	C0257343	tamsulosin
+Teicoplanin 	A0232292	MSH	Teicoplanin	C0145106	Teicoplanin
+Telithromycin 	A10381457	RXNORM	telithromycin	C0907410	telithromycin
+Temocillin 	A10337866	RXNORM	temocillin	C0076079	temocillin
+Thyroxine	A0126135	LCH	Thyroxine	C0040165	Thyroxine
+Tinzaparin 	A0375317	MMSL	tinzaparin	C0216278	tinzaparin
+Topotecan 	A10339652	RXNORM	Topotecan	C0146224	Topotecan
+Tretinoin 	A13050692	MSHCZE	tretinoin	C0040845	Tretinoin
+Trihexyphenidyl 	A0128544	RCD	Trihexyphenidyl	C0041009	Trihexyphenidyl
+Trimethoprim 	A13063423	MSHCZE	trimethoprim	C0041041	Trimethoprim
+Vildagliptin 	A14216645	RXNORM	vildagliptin	C1570906	vildagliptin
+Live Attenuated Yellow Fever Virus Vaccine [EPC]	A20062342	NDFRT	Live Attenuated Yellow Fever Virus Vaccine [EPC]	C3257582	Live Attenuated Yellow Fever Virus Vaccine [EPC]
+MEASLES VIRUS VACCINE,LIVE ATTENUATED	A10400500	RXNORM	MEASLES VIRUS VACCINE,LIVE ATTENUATED	C0770689	MEASLES VIRUS VACCINE,LIVE ATTENUATED
+Live Attenuated Rubella Virus Vaccine	A20064783	NDFRT	Live Attenuated Rubella Virus Vaccine	C3257585	Live Attenuated Rubella Virus Vaccine [EPC]
+Live Attenuated Influenza A Virus Vaccine	A20054935	NDFRT	Live Attenuated Influenza A Virus Vaccine	C3257576	Live Attenuated Influenza A Virus Vaccine [EPC]
+Acid acetohydroxamic	A0157353	MMSL	acetohydroxamic acid	C0050451	acetohydroxamic acid
+Aldesleukin 	A0642116	CSP	Aldesleukin	C0218986	Aldesleukin
+Botulinum Toxins	A0032288	MSH	Botulinum Toxins	C0006055	Botulinum Toxins
+Caffeine	A0013995	LCH	Caffeine	C0006644	Caffeine
+Cefalotin 	A17997507	NDFRT	Cefalotin	C0007735	Cephalothin
+Dalfopristin 	A10351669	RXNORM	dalfopristin	C0756085	dalfopristin
+Fidaxomicin 	A18470140	MSH	fidaxomicin	C0065023	fidaxomicin
+mycophenolate sodium	A16794745	RXNORM	mycophenolate sodium	C1337395	mycophenolate sodium
+Gold	A0064399	LCH	Gold	C0018026	Gold
+Povidone-Iodine	A0104096	MMSL	Povidone-Iodine	C0032857	Povidone-Iodine
+Quinupristin 	A10351694	RXNORM	quinupristin	C0756081	quinupristin
+sodium aurothiopropanol sulfonate	A0228623	MSH	sodium aurothiopropanol sulfonate	C0104696	aurotioprol
+Trabectedin 	A11917542	PDQ	trabectedin	C1311070	trabectedin
+grapefruit food	A2295667	MTH	Grapefruit (food)	C0995150	Grapefruit (food)
+ethanol	A13061536	MSHCZE	ethanol	C0001962	Ethanol
+latex condom	A24245036	SNOMEDCT_US	Latex condom	C3873750	Latex condom
