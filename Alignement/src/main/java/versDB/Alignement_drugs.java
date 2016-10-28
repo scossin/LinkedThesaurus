@@ -25,18 +25,16 @@ public class Alignement_drugs {
 	private String fichier_in = null;
 	private String fichier_out = null;
 	private MeshIndexSearcher meshIndexSearcher=null;
-	private String terminologie = null;
 	List<String> alignement = new ArrayList<String>();
 	
-	public Alignement_drugs(String fichier_in, String fichier_out, String index, String terminologie) throws IOException{
+	public Alignement_drugs(String fichier_in, String fichier_out, String index) throws IOException{
 		this.fichier_in = fichier_in;
 		this.fichier_out = fichier_out;
 		meshIndexSearcher = new MeshIndexSearcher(index);
-		this.terminologie = terminologie;
 	}
 	
 	     // spécial DCI substance mapping
-	void set_alignement_dci(int max_resultat ) throws IOException{
+	public void set_alignement_dci(int max_resultat) throws IOException{
 		List<String> nouvelles_lignes = new ArrayList<String>();
 	    BufferedReader br = null;
 		String lines = "";
@@ -55,10 +53,12 @@ public class Alignement_drugs {
 			nouvelles_lignes.add(proposition);
 			
 			// recherche fuzzy
+			/* je désactive la recherche fuzzy
 			if (proposition.equals(lines + "\t" + "pas trouvé")){
 				proposition = meshIndexSearcher.search_fuzzy(lines, "tokens", 1, 1);
 				nouvelles_lignes.add(proposition);
 			}
+			*/
 
 	}
 		} finally{
@@ -107,19 +107,11 @@ public class Alignement_drugs {
 		try {
 			br = new BufferedReader(new FileReader(fichier_in));
 			while ((lines = br.readLine()) != null) {
-		if (terminologie == null){
 			proposition = meshIndexSearcher.search_exact_term(lines, "libelle",1);
 			if (proposition.equals(lines + "\t" + "pas trouvé")){
 				proposition = meshIndexSearcher.search_term(lines, "tokens",1);
 			}
-			nouvelles_lignes.add(proposition);
-		} else {
-			proposition = meshIndexSearcher.search_exact_term(lines, "libelle",1,terminologie);
-			if (proposition.equals(lines + "\t" + "pas trouvé")){
-				proposition = meshIndexSearcher.search_term(lines, "tokens",1, terminologie);
-			}
-			nouvelles_lignes.add(proposition);
-		}	
+			nouvelles_lignes.add(proposition);	
 	}
 		} finally{
 			br.close();

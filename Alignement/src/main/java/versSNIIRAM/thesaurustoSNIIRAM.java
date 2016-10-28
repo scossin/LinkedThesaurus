@@ -11,9 +11,8 @@ public class thesaurustoSNIIRAM {
 		String moleculesthesaurus = "data/versSNIIRAM/moleculesthesaurus.txt";
 		String proposition = "data/versSNIIRAM/moleculesthesaurusproposition.txt";
 		
-		Alignement_drugs alignement = new Alignement_drugs(moleculesthesaurus, proposition, "index_sniiram", null);
+		Alignement_drugs alignement = new Alignement_drugs(moleculesthesaurus, proposition, "index_sniiram");
 		alignement.set_alignement_sniiram(10);
 		//alignement.writeProposition();
 	}
-
 }

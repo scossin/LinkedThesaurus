@@ -14,7 +14,7 @@ public class DBtoUMLS {
 		String libellesDB = "data/versDB/libellesDB.txt";
 		String proposition = "data/versDB/libellesDBmapper.txt";
 		
-		Alignement_drugs alignement = new Alignement_drugs(libellesDB, proposition, "Index_Drug_UMLS", null);
+		Alignement_drugs alignement = new Alignement_drugs(libellesDB, proposition, "Index_Drug_UMLS");
 		alignement.set_alignement();
 		alignement.writeProposition();
 	}
